@@ -1,0 +1,4805 @@
+{
+  "total": 600,
+  "patents": [
+    {
+      "inventor": "Dr. Praveen kumar Yadav",
+      "faculty": "Faculty of Engineering",
+      "topic": "ELECTRONIC NMR SPECTROSCOPY DEVICE FOR CHARACTERIZING NATURAL EXTRACTS",
+      "date": "30.12.2024",
+      "app_no": "6410113",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Ashutosh Pandey\n Dr. Akshit Lamba",
+      "faculty": "Faculty of Engineering",
+      "topic": "SYSTEM AND METHOD FOR STRUCTURAL HEALTH MONITORING OF CIVIL ENGINEERING INFRASTRUCTURE",
+      "date": "27.12.2024",
+      "app_no": "202421082540",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Smruti Ranjan Dash",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "FORMULATION DESIGN OF RAMIPRIL TRILAYED SUSTAINED RELEASE TABLETS",
+      "date": "13.12.2024",
+      "app_no": "202431088333",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Omprakash Dewangan\n Dr. Anupa Sinha\n Ms. Ashu Nayak\n Ms. Chandani Sawlani \n Ms. Roohee Khan \n Ms. Anjali Goswami \n Mr. Adil Raja",
+      "faculty": "Faculty of CS & IT",
+      "topic": "REAL-TIME EMERGENCY RESPONSE DEVICE",
+      "date": "05.12.2024",
+      "app_no": "431393-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Jyotsna Dwivedi",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "UNVEILING THE DYNAMIC INTERPLAY OF SOCIAL MEDIA\u2019S INFLUENCE ON SOCIAL ENTREPRENEURSHIP",
+      "date": "29.11.2024",
+      "app_no": "202421083430",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Sachin Pradhan\nMr. Birendra Kumar Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "BLOCKCHAIN-BASED METHOD FOR SECURE CLINICAL TRIAL DATA MANAGEMENT",
+      "date": "15.11.2024",
+      "app_no": "202421076028",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Beyant Singh\nMr. Akash Patel\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED PHARMACOVIGILANCE TOOL FOR DETECTING POST-MARKET DRUG SAFETY SIGNALS",
+      "date": "15.11.2024",
+      "app_no": "202421076030",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Lumita Sahu\nMs. Priya Shrivastav\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AUTOMATED PATIENT RECRUITMENT METHOD FOR CLINICAL TRIALS USING AI",
+      "date": "15.11.2024",
+      "app_no": "202421076031",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Tripti Gupta\nMr. Dharamveer Singh \"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "BLOCKCHAIN-ENABLED METHOD FOR ENSURING INTEGRITY IN CLINICAL TRIAL DATA",
+      "date": "15.11.2024",
+      "app_no": "202421076032",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Pinki Nayak\nMs. Ipsity Padhey\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "REAL-TIME PHARMACOVIGILANCE MONITORING PLATFORM USING BIG DATA ANALYTICS",
+      "date": "15.11.2024",
+      "app_no": "202421076033",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Shruti Singh\nDr. Anita Samal\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR INTEGRATING FEMINIST PERSPECTIVES IN WESTERN POLITICAL PHILOSOPHY: A CRITICAL REEXAMINATION OF POWER, JUSTICE, AND EQUALITY",
+      "date": "15.11.2024",
+      "app_no": "202421076048",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. L Jyothi Reddy",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR INTEGRATIVE FRAMEWORK FOR EDUCATIONAL AND CLINICAL PSYCHOLOGY IN PERSONALIZED GUIDANCE AND COUNSELING PRACTICES",
+      "date": "15.11.2024",
+      "app_no": "202421076049",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Sonal Singh\nDr. Shilpi Bhattacharya\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR CULTURAL IDENTITY AND MODERNIZATION: EXPLORING THEMES OF TRADITION AND CHANGE IN CONTEMPORARY SOUTH KOREAN LITERATURE",
+      "date": "15.11.2024",
+      "app_no": "202421076050",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Esha Chatterjee",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR FEMINIST APPROACHES TO MEDIA REPRESENTATION: A QUALITATIVE ANALYSIS OF GENDER DYNAMICS IN SCIENCE AND TECHNOLOGY DISCOURSES",
+      "date": "15.11.2024",
+      "app_no": "202421076051",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Abhishek Agrawal",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR SOCIO-ECONOMIC TRANSFORMATION IN MODERN INDIA: ANALYZING HISTORICAL MILESTONES AND DEVELOPMENTAL PARADIGMS",
+      "date": "15.11.2024",
+      "app_no": "202421076052",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Anil Kumar Banjare\nMs. Ayesha Bano Khan\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "SMART WEARABLE DEVICE FOR REAL-TIME MEDICATION MONITORING AND REMINDERS",
+      "date": "15.11.2024",
+      "app_no": "202421078032",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Ayesha Bano khan\nMr. Anil Kumar Banjare\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-DRIVEN METHOD FOR OPTIMIZING PHARMACEUTICAL MANUFACTURING PROCESSES",
+      "date": "15.11.2024",
+      "app_no": "202421076500",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Ayush Jain\nMr. Akash Patel\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED METHOD FOR PREDICTING EQUIPMENT FAILURE IN DRUG MANUFACTURING",
+      "date": "15.11.2024",
+      "app_no": "202421076501",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Priyanka Gupta\nDr. Shilpi Shrivastava\"",
+      "faculty": "Faculty of Science",
+      "topic": "A NANOPARTICLE-BASED PHYTOCHEMICAL EXTRACTION SYSTEM FOR ENVIRONMENTAL POLLUTANT DETECTION AND REMEDIATION",
+      "date": "15.11.2024",
+      "app_no": "202421078019",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Sarvaree Bano\nMs. Priyanka Gupta\"",
+      "faculty": "Faculty of Science",
+      "topic": "A METHOD FOR FABRICATING NANOPLATE-BASED THERMOELECTRIC MATERIALS FOR ENHANCED ENERGY CONVERSION EFFICIENCY",
+      "date": "15.11.2024",
+      "app_no": "202421078020",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Amit Joshi\nMrs. Jharna Maiti\"",
+      "faculty": "Faculty of Science",
+      "topic": "A COMPUTATIONAL SYSTEM FOR PREDICTIVE ANALYSIS OF IMMUNE RESPONSES USING BIOTECHNOLOGICAL DATA FOR PERSONALIZED HEALTHCARE APPLICATIONS",
+      "date": "15.11.2024",
+      "app_no": "202421078021",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Pranjul Srivastava\nMr. Naimish Nanda\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AUTOMATED QUALITY CONTROL METHOD FOR CONTINUOUS PHARMACEUTICAL MANUFACTURING",
+      "date": "15.11.2024",
+      "app_no": "202421076502",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Sandip Prasad Tiwari\nDr. Ashok Kumar\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "BLOCKCHAIN-BASED SUPPLY CHAIN MANAGEMENT METHOD FOR PHARMACEUTICAL PRODUCTS",
+      "date": "15.11.2024",
+      "app_no": "202421076503",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Rashmi Sinha\nMs. Prerna Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED PROCESS CONTROL METHOD FOR SCALING BIOPHARMACEUTICAL PRODUCTION",
+      "date": "15.11.2024",
+      "app_no": "202421076854",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Khushboo Gupta\nDr. Rupali Bharti Sao\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR BLOCKCHAIN-ENABLED PHARMACEUTICAL SUPPLY CHAIN TRANSPARENCY",
+      "date": "15.11.2024",
+      "app_no": "202421076855",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Nikita Sharma\nMr. Nikhil Van She\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "MACHINE LEARNING-BASED METHOD FOR REAL-TIME MONITORING OF DRUG MANUFACTURING",
+      "date": "15.11.2024",
+      "app_no": "202421076856",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Ipsity Padhye\nMs. Pinki Nayak\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A BLOCKCHAIN-ENABLED METHOD FOR SECURE DRUG TEST RESULT MANAGEMENT",
+      "date": "15.11.2024",
+      "app_no": "202421078022",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Prerna Sahu\nMr. Mrityunjaya Bhanja\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "CRISPR-BASED METHOD FOR DEVELOPING CUSTOM PHARMACEUTICAL THERAPIES",
+      "date": "15.11.2024",
+      "app_no": "202421078023",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Yogesh Vaishnaw\nMrs. Tuhina Choubey\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A DYNAMIC CONTENT DISTRIBUTION SYSTEM AND METHOD FOR MULTI-PLATFORM ELECTRONIC MEDIA NETWORKS",
+      "date": "15.11.2024",
+      "app_no": "202421078024",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Aman Agrawal\nMr. Bhuneshwar Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED METHOD FOR MANAGING MULTI-SITE CLINICAL TRIALS",
+      "date": "15.11.2024",
+      "app_no": "202421076967",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Rupali Bharti Sao\nMs. Khushboo Gupta\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "3D PRINTING METHOD FOR ON-DEMAND PHARMACEUTICAL MANUFACTURING",
+      "date": "15.11.2024",
+      "app_no": "202421078025",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Peman Sinha\nMs. Anjali Rajput\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "BLOCKCHAIN-BASED DIGITAL PRESCRIPTION AND DRUG DISPENSING METHOD",
+      "date": "15.11.2024",
+      "app_no": "202421078026",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Bhuneshwar Sahu\nMr. Aman Agarwal\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DIGITAL THERAPEUTICS METHOD FOR ENHANCING DRUG ADHERENCE IN CHRONIC CONDITIONS",
+      "date": "15.11.2024",
+      "app_no": "202421078027",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Dharamveer Singh\nMs. Tripti Gupta\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-DRIVEN DIAGNOSTIC TOOL FOR IDENTIFYING PATHOGENS AND DRUG RESISTANCE",
+      "date": "15.11.2024",
+      "app_no": "202421078028",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Anjali Rajput\nMr. Peman Sinha\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED SMART PILL BOTTLE FOR MONITORING MEDICATION ADHERENCE",
+      "date": "15.11.2024",
+      "app_no": "202421078029",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Nikhil Van She\nMs. Nikita Sharma\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "MACHINE LEARNING-DRIVEN METHOD FOR PREDICTING PATIENT MEDICATION ADHERENCE",
+      "date": "15.11.2024",
+      "app_no": "202421078030",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Akash Patel\nMr. Ayush Jain\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED APP FOR TRACKING AND OPTIMIZING MEDICATION COMPLIANCE",
+      "date": "15.11.2024",
+      "app_no": "202421078031",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "SMART DRUG MICRODOSING DEVICE",
+      "date": "14.11.2024",
+      "app_no": "431203-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "\"Mr. Mrutyunjaya Bhanja\nMr. Smruti Ranjan Dash\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR GENERATING TAILORED MEDICATION PLANS USING A CLOUD-BASED PHARMACOGENOMICS PLATFORM",
+      "date": "08.11.2024",
+      "app_no": "202421073142",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Aman\nMs. Pranjali Verma\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR SIMULATING DRUG RESPONSE USING A DIGITAL TWIN SYSTEM BASED ON GENOMIC DATA",
+      "date": "08.11.2024",
+      "app_no": "202421073143",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Monika Barsagade\nMr. Yogendra Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PERSONALIZED DRUG PRESCRIPTION USING ARTIFICIAL INTELLIGENCE AND GENETIC SCREENING",
+      "date": "08.11.2024",
+      "app_no": "202421073144",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Tarun Pal\nMr. Jitendra Kumar Sinha\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MACHINE LEARNING METHOD FOR PREDICTING DRUG-DRUG INTERACTIONS",
+      "date": "08.11.2024",
+      "app_no": "202421070398",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Lokeshwari Sahu\nMs. Akanksha Dubey\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PREDICTING PHARMACEUTICAL STABILITY USING A DEEP LEARNING SYSTEM",
+      "date": "08.11.2024",
+      "app_no": "202421074944",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Darshi Sharma\nMs. Srishti Shrivastava\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-DRIVEN TOOL FOR REAL-TIME MONITORING AND REPORTING OF HUMAN RIGHTS VIOLATIONS",
+      "date": "08.11.2024",
+      "app_no": "202421074945",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Rajnish Rai\nDr. Ankita Nihalani\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "AN AUTONOMOUS VEHICLE NAVIGATION SYSTEM WITH REAL-TIME OBSTACLE DETECTION AND ADAPTIVE ROUTE OPTIMIZATION",
+      "date": "08.11.2024",
+      "app_no": "202421075437",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. A. Vijayanand\nDr. Papri Mukhopadhyay\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR SENSORY AND COMIC DYNAMICS IN CLASSICAL AND TECHNICAL NARRATIVES: A STUDY OF AUDIENCE ENGAGEMENT, IMAGERY, AND COMMUNICATION MECHANISMS",
+      "date": "08.11.2024",
+      "app_no": "202421075438",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Vineeta Diwan\nDr. Shilpi Bhattacharya\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR RECONSTRUCTING NARRATIVES: INTERPLAY OF MYTH, HISTORIOGRAPHY, AND CULTURAL MEMORY IN POST-WAR LITERATURE",
+      "date": "08.11.2024",
+      "app_no": "202421075439",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Papri Mukhopadhyay\nDr. A. Vijayanand\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR BLOCKCHAIN-DRIVEN PLATFORM FOR MONITORING GENDER-NEUTRAL LEGAL RIGHTS AND COMPLIANCE",
+      "date": "08.11.2024",
+      "app_no": "202421074946",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Pranjali Verma\nMr. Aman\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A COMPUTER-IMPLEMENTED METHOD FOR PREDICTING TOXICITY IN DRUG CANDIDATES",
+      "date": "08.11.2024",
+      "app_no": "202421074947",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Krishna Kumar Sahu\nDr. Chetan Kumar\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR IDENTIFYING NOVEL ANTIBIOTIC COMPOUNDS USING ARTIFICIAL INTELLIGENCE",
+      "date": "08.11.2024",
+      "app_no": "202421074948",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Satvik Jain\nMs. Shivangi Makade\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM FOR BLOCKCHAIN-BASED EMPLOYEE CREDENTIAL VERIFICATION AND PERFORMANCE MANAGEMENT PLATFORM",
+      "date": "08.11.2024",
+      "app_no": "202421075440",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Ankita Nihalani\nDr. Rajnish Rai\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "AN AI-DRIVEN TALENT ACQUISITION AND WORKFORCE OPTIMIZATION SYSTEM",
+      "date": "08.11.2024",
+      "app_no": "202421075441",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Nitish Kumar\nDr. Moniza Nurez khan\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-DRIVEN PLATFORM FOR VIRTUAL CLINICAL TRIALS",
+      "date": "08.11.2024",
+      "app_no": "202421074949",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Saloni Tyagi\nMs. Harleen Kaur\"",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-POWERED SYSTEM FOR LEGAL REVIEW AND ANALYSIS OF CONSTITUTIONAL LAW AMENDMENTS",
+      "date": "08.11.2024",
+      "app_no": "202421074950",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Mahendra Kumar\nMr. Ashish Ranjan\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A COMPUTER-IMPLEMENTED METHOD FOR PREDICTING DRUG MANUFACTURING QUALITY CONTROL OUTCOMES USING ARTIFICIAL INTELLIGENCE",
+      "date": "08.11.2024",
+      "app_no": "202421074951",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Yogendra Sahu\nMs. Monika Barsagade\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED FORMULATION TOOL FOR OVERCOMING DRUG SOLUBILITY CHALLENGES",
+      "date": "08.11.2024",
+      "app_no": "202421074952",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Paluck Sharma\nMs. Ekta Chandrakar\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR DIGITAL REPORTING AND EVIDENCE COLLECTION IN MARITAL RAPE CASES USING BLOCKCHAIN",
+      "date": "08.11.2024",
+      "app_no": "202421074943",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Khushboo Gupta",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "TARGETED DRUG DELIVERY DEVICE",
+      "date": "04.11.2024",
+      "app_no": "430612-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "\"Mr. Birendra Kumar Sahu\nMr. Sachin Pradhan\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PREDICTING PATIENT RESPONSE TO MEDICATIONS USING GENETIC DATA",
+      "date": "01.11.2024",
+      "app_no": "202421072335",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Bhuvaneshwari Dewangan\nMr. Lakhan Lal Kashyap\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR REAL-TIME DRUG DELIVERY IN CHRONIC CONDITIONS",
+      "date": "01.11.2024",
+      "app_no": "202421072336",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Moniza Nurez Khan\nMr. Nitish Kumar\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PERSONALIZING DRUG FORMULATIONS USING PHARMACOGENOMIC DATA",
+      "date": "01.11.2024",
+      "app_no": "202421072337",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Harish Jaiswal\nMr. Vinay Kumar Jaiswal\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR DESIGNING NANOCARRIERS FOR PRECISION DRUG DELIVERY",
+      "date": "01.11.2024",
+      "app_no": "202421072085",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Priya Shrivastav\nMs. Lumita Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A SYSTEM FOR AUTOMATED THERAPEUTIC ASSISTANT FOR TARGETED DISEASE INTERVENTION",
+      "date": "01.11.2024",
+      "app_no": "202421072086",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Shivangi Tripathi\nDr. Savyasachi Pandey\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR SMART DEVICE FOR SEGREGATION AND DISPOSAL OF ELECTRONIC WASTE MATERIALS",
+      "date": "01.11.2024",
+      "app_no": "202421072671",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shivali Srivastava\nMs. Surbhi Agrawal\"",
+      "faculty": "Faculty of Law",
+      "topic": "A METHOD FOR MONITORING AND REPORTING WORKPLACE GENDER EQUALITY THROUGH BLOCKCHAIN",
+      "date": "01.11.2024",
+      "app_no": "202421072672",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Harleen Kaur\nMrs. Saloni Tyagi\"",
+      "faculty": "Faculty of Law",
+      "topic": "AN AUTOMATED LEGAL DOCUMENT GENERATION SYSTEM FOR GENDER-NEUTRAL LEGAL PROVISIONS",
+      "date": "01.11.2024",
+      "app_no": "202421072673",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Rupal Saxena\nMs. Shivangi Tripathi\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM AND METHOD FOR MONITORING AND PREVENTING CYBERCRIME THROUGH ARTIFICIAL INTELLIGENCE",
+      "date": "01.11.2024",
+      "app_no": "202421072674",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Smruti Ranjan Dash\nMr. Mrutyunjaya Bhanja\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A COMPUTER-IMPLEMENTED METHOD FOR OPTIMIZING PHARMACOTHERAPY IN PRECISION MEDICINE",
+      "date": "01.11.2024",
+      "app_no": "202421072675",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Naimish Nanda\nMs. Rashmi Sinha\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A COMPUTER-IMPLEMENTED METHOD FOR OPTIMIZING PHARMACOTHERAPY BASED ON AN INDIVIDUAL\u2019S GENETIC PROFILE",
+      "date": "01.11.2024",
+      "app_no": "202421072676",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Chandra Kumar Dhimar\nMrs. Hemlata Dewangan\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR SIMULTANEOUS TRANSDERMAL DRUG DELIVERY AND BODY FLUID DETECTION",
+      "date": "01.11.2024",
+      "app_no": "202421072087",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Naina Bhoyar\nMs. Tripti Dewangan\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "3D-PRINTED MICROCAPSULES FOR SITE-SPECIFIC DRUG DELIVERY",
+      "date": "01.11.2024",
+      "app_no": "202421072088",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Poorti Sharma\nMr. Venu Anand Das\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PREPARING A TEMPERATURE-SENSITIVE SMART GEL FOR SUSTAINED RELEASE DRUG FORMULATION",
+      "date": "01.11.2024",
+      "app_no": "202421072089",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Vijayalaxmi Biradar",
+      "faculty": "Faculty of Engineering",
+      "topic": "A SYSTEM OF DEEP REINFORCEMENT LEARNING FOR ADAPTIVE ROBOT CONTROL",
+      "date": "01.11.2024",
+      "app_no": "202421072090",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Akanksha Choudhary\nMr. Ayush Gondale\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR ONLINE LEGAL FRAMEWORK FOR MANAGING PERSONAL LAW DISPUTES UNDER A UNIFIED CIVIL CODE",
+      "date": "01.11.2024",
+      "app_no": "202421072677",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Ashish Ranjan\nMr. Mahendra Kumar\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR DETECTING AND MITIGATING DRUG INTERACTIONS IN POLYPHARMACY PATIENTS USING ARTIFICIAL INTELLIGENCE",
+      "date": "01.11.2024",
+      "app_no": "202421074187",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Akanksha Dubey\nMs. Lokeshwari Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR REAL-TIME MONITORING OF ADVERSE DRUG REACTIONS USING MACHINE LEARNING",
+      "date": "01.11.2024",
+      "app_no": "202421074188",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Chetan Kumar\nMr. Krishna Kumar Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PREDICTING DRUG EFFICACY IN CLINICAL TRIALS USING AN ARTIFICIAL INTELLIGENCE-BASED PLATFORM",
+      "date": "01.11.2024",
+      "app_no": "202421074189",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Mohammad Nasir",
+      "faculty": "Faculty of Science",
+      "topic": "LIBRARY OPAC KIOSK SYSTEM",
+      "date": "01.11.2024",
+      "app_no": "202421072133",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr Saroj Nayyar",
+      "faculty": "Faculty of Education",
+      "topic": "CHILD EDUCATION MONITORING DEVICE USING INTERNET OF THINGS",
+      "date": "25.10.2024",
+      "app_no": "428141-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "\"Dr. Ruchi Chandrakar\nDr. Honey Gaur\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR ENHANCING CONSTRUCTION SITE SAFETY",
+      "date": "25.10.2024",
+      "app_no": "202421068938",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Rajendra Kumar Sahu\nMr. Sandeep Roy\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR DYNAMICALLY OPTIMIZING A POWER GRID USING MULTI-MODAL ARTIFICIAL INTELLIGENCE-BASED LOAD FORECASTING",
+      "date": "25.10.2024",
+      "app_no": "202421068939",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Honey Gaur\nDr. Ruchi Chandrakar\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR SMART MATERIAL SELECTION IN CIVIL ENGINEERING",
+      "date": "25.10.2024",
+      "app_no": "202421068940",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Chandra Kumar Sahu\nDr. Shailesh Deshmukh\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR SMART ELECTRICAL NETWORK MANAGEMENT USING ADAPTIVE MACHINE LEARNING ALGORITHMS",
+      "date": "25.10.2024",
+      "app_no": "202421068941",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. A.K Kaul\nDr. Manoj Mathew\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "AN AI-BASED METHOD FOR REAL-TIME CRISIS MANAGEMENT IN SOCIAL WORK",
+      "date": "25.10.2024",
+      "app_no": "202421069396",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Archana Nagwanshi\nDr. Manoj Mathew\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A METHOD FOR PREDICTIVE ANALYTICS IN SOCIAL WORK USING MACHINE LEARNING",
+      "date": "25.10.2024",
+      "app_no": "202421069397",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Anita Samal\nMs. Shruti Singh\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PREDICTIVE POLITICAL TREND ANALYSIS USING MACHINE LEARNING",
+      "date": "25.10.2024",
+      "app_no": "202421069398",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Alpana Sharma\nMrs. Nishta Sharma\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A METHOD FOR OPTIMIZING RESOURCE ALLOCATION USING MACHINE LEARNING ALGORITHMS",
+      "date": "25.10.2024",
+      "app_no": "202421069399",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shraddha Hirkane\nDr. Ajay Shukla\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A METHOD FOR ENHANCING HINDI TEXT ANALYSIS",
+      "date": "25.10.2024",
+      "app_no": "202421069400",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Alok Kumar Yadav\nMr. Indravesh\"",
+      "faculty": "Faculty of Law",
+      "topic": "AN AUTOMATED CRIMINAL CASE EVIDENCE COLLECTION AND ANALYSIS SYSTEM USING AI",
+      "date": "25.10.2024",
+      "app_no": "202421070759",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shilpi Bhattacharya\nMs. Sonal Singh\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM OF REINFORCEMENT LEARNING FRAMEWORK FOR PERSONALIZED CONTENT RECOMMENDATIONS",
+      "date": "25.10.2024",
+      "app_no": "202421069401",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Vivek Malik\nDr. Narendra Kumar Singh\"",
+      "faculty": "Faculty of Law",
+      "topic": "A METHOD FOR AI-BASED LITERARY ANALYSIS AND INTERPRETATION",
+      "date": "25.10.2024",
+      "app_no": "202421069402",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Swati Agrawal\nDr. Akshit Lamba\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR PREDICTIVE ENVIRONMENTAL MODELING USING MACHINE LEARNING ALGORITHMS",
+      "date": "25.10.2024",
+      "app_no": "202421069403",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Surbhi Agrawal\nMr. Ranjan Kumar Ray\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-POWERED LEGAL RESEARCH TOOL FOR JURISPRUDENCE IN INTELLECTUAL PROPERTY LAW",
+      "date": "25.10.2024",
+      "app_no": "202421070392",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Soumyadeep Chakrabarti\nMs. Akanksha Choudhry\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AUTOMATED LEGAL RISK ASSESSMENT TOOL FOR INTERNATIONAL PATENT DISPUTES",
+      "date": "25.10.2024",
+      "app_no": "202421070760",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Pawan Kumar\nMr. Suresh Chandra Yadav\"",
+      "faculty": "Faculty of Law",
+      "topic": "A BLOCKCHAIN-BASED DIGITAL RIGHTS MANAGEMENT SYSTEM FOR COPYRIGHTED WORKS",
+      "date": "25.10.2024",
+      "app_no": "202421071275",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Ekta Chandrakar\nMs. Paluk Sharma\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AUTOMATED LEGAL SUPPORT PLATFORM FOR SEXUAL ASSAULT SURVIVORS",
+      "date": "25.10.2024",
+      "app_no": "202421070761",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Birendra Kumar",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AUTOMATED POLLUTION DATA COLLECTION AND LEGAL COMPLIANCE PLATFORM",
+      "date": "25.10.2024",
+      "app_no": "202421070762",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Brijmohan Singh\"",
+      "faculty": "Faculty of Law",
+      "topic": "A BLOCKCHAIN-BASED CHAIN OF CUSTODY SYSTEM FOR CRIMINAL INVESTIGATIONS",
+      "date": "25.10.2024",
+      "app_no": "202421071274",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Vijay Shankar Yadav\nMr. Arvind Kumar Yadav\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A METHOD FOR AI-BASED HINDI LANGUAGE PROCESSING AND TRANSLATION",
+      "date": "25.10.2024",
+      "app_no": "202421069404",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Ajay Kumar Shukla\nDr. Shraddha Hirkane\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A METHOD FOR AI-BASED POLICY IMPACT ANALYSIS AND PREDICTION",
+      "date": "25.10.2024",
+      "app_no": "202421069405",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Jesika Minj\n\"Mr. Shailesh Singh Thakur\nDr. Vinay Chandra Jha\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR AUTOMATED QUALITY CONTROL IN MECHANICAL FABRICATION",
+      "date": "25.10.2024",
+      "app_no": "202421069416",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Vinay Kumar Jaiswal\nMr. Harish Jaiswal\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "QUANTUM COMPUTING-BASED METHOD FOR DRUG COMPOUND OPTIMIZATION",
+      "date": "25.10.2024",
+      "app_no": "202421070393",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Arvind Kumar Yadav\nMr. Vijay Shankar Yadav\"",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-POWERED LAND REGISTRY SYSTEM FOR EFFICIENT PROPERTY MANAGEMENT",
+      "date": "25.10.2024",
+      "app_no": "202421070394",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Venu Anand Das\nMs. Poorti Sharma\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-POWERED METHOD FOR IDENTIFYING NOVEL DRUG TARGETS IN RARE DISEASES",
+      "date": "25.10.2024",
+      "app_no": "202421070395",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Sandeep Roy\nMr. Rajendra Kumar Sahu\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR ADAPTIVE ENERGY CONSUMPTION FORECASTING",
+      "date": "25.10.2024",
+      "app_no": "202421069417",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shailesh Deshmukh\nMr. Chandra Kumar Sahu\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR PREDICTIVE MAINTENANCE OF ELECTRICAL EQUIPMENT",
+      "date": "25.10.2024",
+      "app_no": "202421069418",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Rahul Mishra\nDr. Naresh Chutney\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR ADAPTIVE PREDICTIVE MAINTENANCE OF A MECHANICAL SYSTEM USING MULTI-MODAL",
+      "date": "25.10.2024",
+      "app_no": "202421069419",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Prachi Gurudiwan\nMr. Sanjay Kumar Mire\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-BASED METHOD FOR ACCELERATING ORPHAN DRUG DISCOVERY",
+      "date": "25.10.2024",
+      "app_no": "202421070396",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Hemlata Dewangan\nMr. Chandra Pratap Dhimar\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AUTOMATED DRUG REPOSITIONING METHOD USING BIG DATA ANALYTICS",
+      "date": "25.10.2024",
+      "app_no": "202421070397",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Lipsa Dash\nMs. Urvashi Sharma\"",
+      "faculty": "Faculty of Science",
+      "topic": "AI-DRIVEN METHOD FOR ACCELERATED DRUG DISCOVERY USING GENOMIC DATA",
+      "date": "25.10.2024",
+      "app_no": "202421070399",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Tripti Dewangan\nMs. Naina Bhoyar\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI-ENHANCED METHOD FOR SCREENING AND DEVELOPING BIOPHARMACEUTICALS",
+      "date": "25.10.2024",
+      "app_no": "202421070400",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Ayush Gondale\nMrs. Samriddhi Kesharwani\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-DRIVEN IP INFRINGEMENT DETECTION AND ENFORCEMENT PLATFORM",
+      "date": "25.10.2024",
+      "app_no": "202421070401",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Suresh Chandra Yadav\nDr. Pawan Kumar\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR BLOCKCHAIN-BASED SMART CONTRACTS FOR ENFORCING COMMERCIAL AGREEMENTS",
+      "date": "25.10.2024",
+      "app_no": "202421070763",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Anil Kumar Singh\nMr. Dilip Dwivedy\"",
+      "faculty": "Faculty of Law",
+      "topic": "A BLOCKCHAIN-BASED SHAREHOLDER VOTING AND PROXY MANAGEMENT SYSTEM",
+      "date": "25.10.2024",
+      "app_no": "202421070894",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Ranjan Kumar Ray\nMs. Itishri Upadhyay\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AUTOMATED TRADEMARK SEARCH AND INFRINGEMENT DETECTION PLATFORM",
+      "date": "25.10.2024",
+      "app_no": "202421071272",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Akash Ingle\nDr. Manoj Kumar Nigam\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR OPTIMIZING ELECTRICAL CIRCUIT LAYOUT USING ARTIFICIAL INTELLIGENCE",
+      "date": "25.10.2024",
+      "app_no": "202421069420",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Gaurav Tamrakar\nMr. Swapnil Shukla\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR ENHANCING PRODUCT DESIGN IN MECHANICAL ENGINEERING",
+      "date": "25.10.2024",
+      "app_no": "202421069421",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Sanjay Kumar Mire\nMr. Ashish Agrawal\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR TARGETED CANCER THERAPY",
+      "date": "25.10.2024",
+      "app_no": "202421070754",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Ashish Agrawal\nMs. Prachi Gurudiwan\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR CONTROLLED RELEASE OF MEDICATION USING A SMART DRUG DELIVERY PATCH",
+      "date": "25.10.2024",
+      "app_no": "202421070755",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Deepak Kumar Sahu\nMr. Chiranjeev Singh\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR PERSONALIZED DRUG DELIVERY USING AN ARTIFICIAL INTELLIGENCE (AI) DRIVEN PLATFORM",
+      "date": "25.10.2024",
+      "app_no": "202421070756",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Mukesh Sharma\nDr. Naresh Chander \"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AUTOMATED COMPLIANCE MONITORING FOR CORPORATE LEGAL FRAMEWORKS",
+      "date": "25.10.2024",
+      "app_no": "202421070757",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Sunil Kumar Yadav\nDr. Shahana Parveen\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AUTOMATED CONTRACT DRAFTING TOOL USING NATURAL LANGUAGE PROCESSING",
+      "date": "25.10.2024",
+      "app_no": "202421070758",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Dilip Dwivedy\nMr. Anil Kumar Singh\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR BLOCKCHAIN-BASED HARASSMENT CASE FILING AND EVIDENCE MANAGEMENT PLATFORM",
+      "date": "25.10.2024",
+      "app_no": "202421071273",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Jitendra Kumar Sinha\nDr. Tarun Pal\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A METHOD FOR CONTROLLED DRUG RELEASE USING A RESPONSIVE POLYMER-BASED SYSTEM",
+      "date": "25.10.2024",
+      "app_no": "202421072334",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Chandra Bhushan Singh",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "THE IMPACT OF GST ON MULTINATIONAL MANUFACTURING COMPANIES",
+      "date": "25.10.2024",
+      "app_no": "202441076928",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Deepshikha Patel",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "THE INFLUENCE OF INNOVATION ON CORPORATE EXPANSION",
+      "date": "25.10.2024",
+      "app_no": "202411077489",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Vinay Chandra Jha\nMr. Shailesh Singh Thakur\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "SOLAR-POWERED SEED DISPERSAL MACHINE",
+      "date": "22.10.2024",
+      "app_no": "430133-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "\"Dr. Manoj Kumar Nigam\nMr. Akash Ingle\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "INTELLIGENT DIABETIC SCREENING DEVICE",
+      "date": "22.10.2024",
+      "app_no": "430613-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Tushar Ranjan Barik",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "An Analysis of Environmental Sustainability and Its Impact on Corporate Performance",
+      "date": "18.10.2024",
+      "app_no": "202411076923",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Urvija Khatri\nMr. Shubham Singh Chandel\nDr. Jyotsna Dwivedi\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "BLUEPRINTS FOR THE STRATEGIC PLANNING AND ACHIEVEMENT OF THE ORGANISATION",
+      "date": "18.10.2024",
+      "app_no": "202431077207",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Tushar Ranjan Barik\nMs. Deepshikha Patel\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF DYNAMIC PORTFOLIO OPTIMIZATION ALGORITHM FOR PERSONALIZED WEALTH MANAGEMENT",
+      "date": "18.10.2024",
+      "app_no": "202421068221",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Mariyam Ahmed\nDr. Shinki Katyayani Pandey\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF PERSONALIZED MARKETING AUTOMATION PLATFORM FOR RETAIL BUSINESSES",
+      "date": "18.10.2024",
+      "app_no": "202421068222",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Urvija Khatri\nMrs. Nishtha Sharma\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF AI-BASED FRAUD DETECTION AND PREVENTION IN FINANCIAL",
+      "date": "18.10.2024",
+      "app_no": "202421068223",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Deepti Patnaik\nMr. Rakshak Bharti\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF DECENTRALIZED LEDGER TECHNOLOGY FOR TRANSPARENT AND TRUSTWORTHY FINANCIAL",
+      "date": "18.10.2024",
+      "app_no": "202421068224",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Anivilla Shrikant\nMs. Alpana Sharma\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF PREDICTIVE ANALYTICS IN FINANCIAL RISK MANAGEMENT USING MACHINE LEARNING",
+      "date": "18.10.2024",
+      "app_no": "202421067943",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Soumya Pandey\nDr. Eswara Veera Raghava\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR EFFICIENT GEOSPATIAL DATA STORAGE AND RETRIEVAL",
+      "date": "18.10.2024",
+      "app_no": "202421068225",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Eswara Veera Raghava\nMs. Soumya Pandey\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "AN AI-DRIVEN GEOGRAPHIC INFORMATION SYSTEM FOR URBAN PLANNING",
+      "date": "18.10.2024",
+      "app_no": "202421068226",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. A. Rajshekhar\nDr. Hari Shankar Kumar\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR PREDICTIVE LOCATION-BASED SERVICES",
+      "date": "18.10.2024",
+      "app_no": "202421068227",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Shivangi Makade\nMr. Shubham Singh Chandel\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A REAL-TIME FRAUD DETECTION SYSTEM FOR DIGITAL FINANCIAL TRANSACTIONS",
+      "date": "18.10.2024",
+      "app_no": "202421067944",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Neetu Singh\nDr. Kalidoss\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR PREVENTING INJURIES IN SPORTS USING ARTIFICIAL INTELLIGENCE AND PREDICTIVE ANALYTICS",
+      "date": "18.10.2024",
+      "app_no": "202421068228",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Saroj Nayyar\nMrs. Harsha Sharma\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR GENERATING AND ADAPTING PERSONALIZED LEARNING PATHWAYS USING MULTI-MODAL ARTIFICIAL INTELLIGENCE",
+      "date": "18.10.2024",
+      "app_no": "202421068757",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Dhananjay Kumar Jain\nDr. Rajesh Kumar Manik\"",
+      "faculty": "Faculty of Science",
+      "topic": "A SYSTEM FOR AI-DRIVEN PERSONALIZED TREATMENT PLATFORM FOR MENTAL HEALTH DISORDERS",
+      "date": "18.10.2024",
+      "app_no": "202421068758",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Akshit Lamba\nMr. Ashutosh Pandey\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR AUTOMATED AND OPTIMIZED CIVIL INFRASTRUCTURE DESIGN AND SIMULATION USING ADVANCED ARTIFICIAL INTELLIGENCE TECHNIQUES",
+      "date": "18.10.2024",
+      "app_no": "202421068759",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Manoj Mathew\nMr. A.K Kaul\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SYSTEM FOR SMART HEALTHCARE COMPANION: AI-ENHANCED DISEASE MANAGEMENT DEVICE",
+      "date": "18.10.2024",
+      "app_no": "202421068760",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Ashutosh Pandey\nDr. Akshit Lamba\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR PREDICTING SOIL STABILITY IN CIVIL ENGINEERING PROJECTS",
+      "date": "18.10.2024",
+      "app_no": "202421068761",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Hemlata Dewangan\nMr. Chandra Pratap Dhimar\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-POWERED LEGAL RISK ASSESSMENT TOOL FOR CORPORATE TRANSACTIONS",
+      "date": "18.10.2024",
+      "app_no": "202421070238",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Nuresh Chander Sharma\nMr. Mukesh Sharma\"",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-DRIVEN CONSTITUTIONAL RIGHTS VIOLATION DETECTION SYSTEM",
+      "date": "18.10.2024",
+      "app_no": "202421070239",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Chiranjeev Singh\nMr. Deepak Kumar Sahu\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "MACHINE LEARNING-DRIVEN METHOD FOR DRUG FORMULATION AND DOSAGE OPTIMIZATION",
+      "date": "18.10.2024",
+      "app_no": "202421070240",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Ashok Kumar\nMs. Rashmi Sinha\"",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AN INTELLIGENT THERAPEUTIC SYSTEM FOR MANAGING CHRONIC DISEASES",
+      "date": "18.10.2024",
+      "app_no": "202421068522",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Gulshan Kumar Behera\nDr. Lubhawani Tripathi\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR PREDICTING STUDENT PERFORMANCE USING MACHINE LEARNING",
+      "date": "18.10.2024",
+      "app_no": "202421068523",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shraddha Verma\nDr. Saroj Nayyar\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR ENHANCING CLASSROOM ENGAGEMENT",
+      "date": "18.10.2024",
+      "app_no": "202421068524",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Swapnil Shukla\nMr. Gaurav Tamrakar\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR DYNAMIC LOAD ANALYSIS IN MECHANICAL STRUCTURES USING ARTIFICIAL INTELLIGENCE",
+      "date": "18.10.2024",
+      "app_no": "202421068525",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Harsha Sharma\nMr. Gulsan Kumar Behera\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR AI-BASED SKILL GAP ANALYSIS IN EDUCATIONAL ENVIRONMENTS",
+      "date": "18.10.2024",
+      "app_no": "202421068526",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Itishri Upadhyay\nMrs. Darshi Sharma\"",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-POWERED CASE PREDICTION SYSTEM FOR PATENT INFRINGEMENT LITIGATION",
+      "date": "18.10.2024",
+      "app_no": "202421070241",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Brijmohan Singh\nMr. Birendra Kumar\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-POWERED PERSONAL INJURY CLAIM ASSESSMENT AND VALUATION TOOL",
+      "date": "18.10.2024",
+      "app_no": "202421070242",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Meenakshi Rani\nMr. Soumyadeep Chakrabarti\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-POWERED PREDICTIVE TOOL FOR IDENTIFYING WORKPLACE HARASSMENT PATTERNS",
+      "date": "18.10.2024",
+      "app_no": "202421070243",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Kalidoss\nDr. Sanjeev Kumar Yadav\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR AI-ASSISTED ATHLETE PERFORMANCE TRACKING AND ANALYSIS",
+      "date": "18.10.2024",
+      "app_no": "202421068527",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Swapnil Jain\nDr. Vinay Chandra Jha\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A METHOD FOR CONTROLLING A SMART ROBOTIC SYSTEM IN MECHANICAL ENGINEERING USING ARTIFICIAL",
+      "date": "18.10.2024",
+      "app_no": "202421068528",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Sanjeev Kumar yadav\nMrs. Neetu Singh\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR GENERATING PERSONALIZED TRAINING PROGRAMS IN PHYSICAL EDUCATION",
+      "date": "18.10.2024",
+      "app_no": "202421068529",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Lubhawani Tripathi\nDr. Shraddha Verma\"",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR GENERATING AND ADAPTING PERSONALIZED LEARNING PATHWAYS USING MULTI-MODAL ARTIFICIAL INTELLIGENCE",
+      "date": "18.10.2024",
+      "app_no": "202421068530",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Indravesh\nMr. Alok Kumar Yadav\"",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-POWERED REAL ESTATE TRANSACTION FRAUD DETECTION SYSTEM",
+      "date": "18.10.2024",
+      "app_no": "202421070244",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shahana Parveen\nMr. Sunil Kumar Yadav\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-POWERED ENVIRONMENTAL IMPACT ASSESSMENT TOOL FOR LEGAL FRAMEWORKS",
+      "date": "18.10.2024",
+      "app_no": "202421070245",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Narendra Kumar Singh\nDr. Vivek Malik\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-POWERED BEHAVIORAL PREDICTION TOOL FOR CRIME RECIDIVISM",
+      "date": "18.10.2024",
+      "app_no": "202421070246",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Srishti Shrivastava\nDr. Shivli Shrivastava\"",
+      "faculty": "Faculty of Law",
+      "topic": "A SYSTEM FOR AI-DRIVEN LEGAL ASSISTANT FOR DRAFTING INTELLECTUAL PROPERTY FILINGS",
+      "date": "18.10.2024",
+      "app_no": "202421070247",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Satvik Jain",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "THE IMPACTS OF INTERNATIONAL TRADE LAWS ON DEVELOPING ECONOMIES ARE SIGNIFICANT",
+      "date": "18.10.2024",
+      "app_no": "202411076925",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Anivilla Shrikant",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "HRM AND EMPLOYEE RETENTION STRATEGIES FOR EMPLOYEE ENGAGEMENT DURING ORGANIZATIONAL CHANGE",
+      "date": "18.10.2024",
+      "app_no": "202411076783",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. F. Rahman\nDr. Priya Vij\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "AN ADAPTIVE MACHINE LEARNING SYSTEM FOR DYNAMIC DECISION MAKING",
+      "date": "11.10.2024",
+      "app_no": "202421066280",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Rajeev Kumar Bhaskar\nDr. Nidhi Mishra\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM OF DEEP LEARNING-BASED SENTIMENT ANALYSIS FOR SOCIAL MEDIA",
+      "date": "11.10.2024",
+      "app_no": "202421066283",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Uruj Jaleel\nDr. Abhijeet Madhukar Havel\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM OF NEURAL NETWORK ARCHITECTURE FOR REAL-TIME IMAGE RECOGNITION",
+      "date": "11.10.2024",
+      "app_no": "202421066284",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Manish Nandy\nMr. Debarghya Biswas\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "AN AI-POWERED PREDICTIVE MAINTENANCE SYSTEM FOR INDUSTRIAL EQUIPMENT",
+      "date": "11.10.2024",
+      "app_no": "202421067524",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Rakshak Bharti\nDr. Deepti Patnaik\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "AN INTELLIGENT ALGORITHMIC TRADING SYSTEM FOR ENHANCED FINANCIAL DECISION MAKING",
+      "date": "11.10.2024",
+      "app_no": "202421067525",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Chandra Bhushan Singh\nMs. Angel Mary Xess\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "AN AUTOMATED FINANCIAL TRANSACTION PROCESSING SYSTEM USING BLOCKCHAIN TECHNOLOGY",
+      "date": "11.10.2024",
+      "app_no": "202421067526",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Chandni Sawlani\nMr. Manish Nandy\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "AN AI-ENHANCED CYBERSECURITY SYSTEM WITH BEHAVIOURAL ANALYSIS",
+      "date": "11.10.2024",
+      "app_no": "202421067527",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Deepshikha Patel\nDr. Satvik Jain\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF CRYPTOCURRENCY PAYMENT GATEWAY WITH SEAMLESS INTEGRATION INTO TRADITIONAL BANKING",
+      "date": "11.10.2024",
+      "app_no": "202421067528",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Angel Mary Xess\nDr. Chandra Bhushan singh\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF ARTIFICIAL INTELLIGENCE-DRIVEN ROBO-ADVISORS FOR PERSONALIZED FINANCIAL PLANNING",
+      "date": "11.10.2024",
+      "app_no": "202421067529",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. NIshtha Sharma\nMs. Urvija Khatri\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF SECURE MULTI-FACTOR AUTHENTICATION FRAMEWORK FOR FINANCIAL TRANSACTIONS",
+      "date": "11.10.2024",
+      "app_no": "202421067530",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shinki Katyayani Pandey\nDr. Anivilla Shrikant\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF BLOCKCHAIN-BASED TOKENIZATION OF ASSETS FOR EFFICIENT FINANCIAL TRANSACTIONS",
+      "date": "11.10.2024",
+      "app_no": "202421067531",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Shubham Singh Chandel\nMr. Tushar Ranjan Barik\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM OF SMART CONTRACTS FOR AUTOMATED AND TRUSTWORTHY FINANCIAL AGREEMENTS",
+      "date": "11.10.2024",
+      "app_no": "202421067532",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Jharna Maiti\nDr. Amit Joshi\"",
+      "faculty": "Faculty of Science",
+      "topic": "A REMOTE MONITORING AND CONTROL SYSTEM FOR LIVESTOCK HEALTH AND WELFARE",
+      "date": "11.10.2024",
+      "app_no": "202421067062",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Kamlesh Kumar Yadav\nMs. Chandni Sawlani\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM OF AUTONOMOUS AGENTS FOR SMART RESOURCE ALLOCATION IN IOT",
+      "date": "11.10.2024",
+      "app_no": "202421067063",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Nidhi Mishra\nMs. Palvi Soni\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM SELF-OPTIMIZING NEURAL NETWORKS FOR EFFICIENT ENERGY CONSUMPTION",
+      "date": "11.10.2024",
+      "app_no": "202421067064",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Priya Vij\nDr. F. Rahman\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM OF DISTRIBUTED MACHINE LEARNING FOR FEDERATED EDGE COMPUTING",
+      "date": "11.10.2024",
+      "app_no": "202421067065",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Nuresh Kumar Khunte\nDr. Rahul Mishra\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A SYSTEM OF COGNITIVE COMPUTING IN AUTONOMOUS VEHICLES FOR ENHANCED SAFETY",
+      "date": "11.10.2024",
+      "app_no": "202421067066",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Urvashi Sharma\nMs. Lipsa Dash\"",
+      "faculty": "Faculty of Science",
+      "topic": "AN AI-DRIVEN MEDICAL DIAGNOSIS SYSTEM WITH INTERPRETABILITY FEATURES",
+      "date": "11.10.2024",
+      "app_no": "202421067067",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Palvi Soni\nMr. Rajeev Kumar Bhaskar\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM OF ROBUST NATURAL LANGUAGE PROCESSING FOR MULTILINGUAL CONVERSATIONAL INTERFACES",
+      "date": "11.10.2024",
+      "app_no": "202421067068",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Sanjay Kumar\nMr. Manish Nandy\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A HUMAN-MACHINE COLLABORATION THROUGH EXPLAINABLE AI SYSTEM",
+      "date": "11.10.2024",
+      "app_no": "202421067069",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Abhijeet Madhukar Haval\nDr. Uruj Jaleel\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM OF COMPUTER VISION ALGORITHMS FOR AUTONOMOUS NAVIGATION IN UNSTRUCTURED",
+      "date": "11.10.2024",
+      "app_no": "202421067070",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Debarghya Biswas\nMr. Kamlesh Kumar Yadav\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM OF BLOCKCHAIN INTEGRATION FOR SECURE AND TRANSPARENT AI DATA TRANSACTIONS",
+      "date": "11.10.2024",
+      "app_no": "202421067071",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dawakit Lepcha\nMr. Rakshak Bharti\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "ANALYSIS OF SOCIAL MEDIA MARKETING IMPACT ON CONSUMER BEHAVIOUR",
+      "date": "11.10.2024",
+      "app_no": "202431074477",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Kanchan Thakur\nMs. Mariyam Ahmed\"",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "THE INFLUENCER MARKETING EFFECT ON GENERATION Z'S PRODUCT BUYING BEHAVIOR",
+      "date": "09.10.2024",
+      "app_no": "202431076450",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mrs. Ashu Nayak\nMs. Aakansha Soy\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A BLOCKCHAIN-BASED SUPPLY CHAIN MANAGEMENT SYSTEM FOR AGRICULTURE PRODUCTS",
+      "date": "04.10.2024",
+      "app_no": "202421065166",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Aupa Singh\nMrs. Ashu Nayak\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "AN AI-DRIVEN SOIL NUTRIENT AND MOISTURE OPTIMIZATION SYSTEM",
+      "date": "04.10.2024",
+      "app_no": "202421065169",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Akanksha Soy\nMr. Om Prakash Dewangan\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "AN INTEGRATED PEST AND DISEASE MANAGEMENT SYSTEM USING MACHINE LEARNING",
+      "date": "04.10.2024",
+      "app_no": "202421065170",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Manoj Kumar Nigam\nMr. Akash Ingle\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "AN AUTOMATED DRONE-BASED CROP HEALTH MONITORING AND MANAGEMENT SYSTEM",
+      "date": "04.10.2024",
+      "app_no": "202421065171",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Vinay Chandra Jha\nMr. Shailesh Singh Thakur\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "AN AUTONOMOUS PRECISION AGRICULTURE ROBOT SYSTEM FOR PLANTING AND HARVESTING",
+      "date": "04.10.2024",
+      "app_no": "202421065172",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Mr. Om Prakash Dewangan\nDr. Anupa Sinha\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SMART IRRIGATION SYSTEM UTILIZING PREDICTIVE ANALYTICS AND IOT SENSORS",
+      "date": "04.10.2024",
+      "app_no": "202421065173",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Harishankar Kumar\nDr. A. Rajshekhar\"",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "AN AUTOMATED VERTICAL FARMING SYSTEM WITH REAL-TIME ENVIRONMENTAL CONTROL",
+      "date": "04.10.2024",
+      "app_no": "202421066274",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Abhishek Kumar Pandey",
+      "faculty": "Faculty of Science",
+      "topic": "A SMART FERTILIZATION SYSTEM WITH ADAPTIVE NUTRIENT DELIVERY",
+      "date": "04.10.2024",
+      "app_no": "202421066277",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Ms. Akanksha Soy\nMr. Om Prakash Dewangan\"",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A RENEWABLE ENERGY-POWERED GREENHOUSE CLIMATE CONTROL SYSTEM",
+      "date": "04.10.2024",
+      "app_no": "202421066279",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "HYDROGEN FUELLED E-BIKE",
+      "date": "01.10.2024",
+      "app_no": "6335711",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Mr. Kamlesh kumar Yadav\n Ms. Aakansha Soy\n Ms. L. Jyoti Reddy \n Mr. Manish Nandy\n Ms. Laboni Saha \n Ms. Ragini Kushwaha\n Ms. Prerna Dusi",
+      "faculty": "Faculty of CS & IT",
+      "topic": "DATA CENTER MANAGING SMART DEVICE",
+      "date": "29.09.2024",
+      "app_no": "431394-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "\"Mr. Naimish Nanda\nDr. Rajesh Kumar Manik\nDr. Indrani Sarkar\nDr. Anushree Saha\nMr.Smruti Ranjan Dash\nDr. Faiz Bux\nDr. Dhananjay Kumar\nMs. Lipsa Dash\"",
+      "faculty": "Faculty of Science",
+      "topic": "INNOVATIVE YOGA MAT WITH INTEGRATED MEDICAL SENSORS FOR REAL-TIME HEALTH MONITORING",
+      "date": "20.09.2024",
+      "app_no": "6382737",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Omprakash Dewangan\nDr. Swapnil Jain\nDr. Asha Ambhaikar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "DEVICE TO DETECT ENVIRONMENTAL POLLUTION",
+      "date": "02.09.2024",
+      "app_no": "403147-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "EFFECTIVE BUSINESS COMMUNICATION IN THE DIGITAL AGE: STRATEGIES FOR SUCCESS",
+      "date": "30.08.2024",
+      "app_no": "202421059448",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Vijayalaxmi Biradar\nMr. Anup Kumar Jana\nMr. Sarat Chandra Mohanty\nDr. Anita Verma\nDr. Anu G. Pillai\nMs. Rupal Gupta\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "A REMOTE-CONTROLLED POND/RIVER/LAKES CLEANING ROBOT SYSTEM",
+      "date": "23.08.2024",
+      "app_no": "202421049270",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Vijayalaxmi Biradar\nMr. Anup Kumar Jana\nMr. Sarat Chandra Mohanty\nDr. Anita Verma\nDr. Anu G. Pillai\nMs. Rupal Gupta\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "AN IOT-BASED SMART GARBAGE MONITORING SYSTEM FOR EFFICIENT WASTE MANAGEMENT",
+      "date": "09.08.2024",
+      "app_no": "202421054364",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "METHOD OF EXTRACTION OF FIBRES FROM URGINEA INDICA KUNTH ( WILD ONION)",
+      "date": "07.08.2024",
+      "app_no": "202421059802",
+      "status": "Published"
+    },
+    {
+      "inventor": "Naimish Nanda",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AUTOMATED DEVICE FOR DETECTING DISINTEGRATION TIME FOR DIFFERENT TABLETS",
+      "date": "05.08.2024",
+      "app_no": "6381047",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Manoj Kumar Nigam",
+      "faculty": "Faculty of Engineering",
+      "topic": "SOLAR POWERED AGRICULTURE ROBOT",
+      "date": "24.07.2024",
+      "app_no": "6377728",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Ashok Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A LIMIT TEST APPARATUS AND METHOD THEREOF",
+      "date": "19.07.2024",
+      "app_no": "202421046501",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Deepak Kumar Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A 3D-PRINTED PERSONALIZED MEDICATION DISPENSER SYSTEM",
+      "date": "19.07.2024",
+      "app_no": "202421042059",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Harish Jaiswal",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AN AUTOMATED COMPOUNDING PHARMACY ROBOT (ACPR) SYSTEM",
+      "date": "19.07.2024",
+      "app_no": "202421042062",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Ravindra Pandey",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A PERSONAL FINANCIAL HEALTH TRACKER SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421043752",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Lokeshwari Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AUTOMATED MEDICATION DISPENSING SYSTEM AND METHOD THEREOF",
+      "date": "12.07.2024",
+      "app_no": "202421043753",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Urvashi Jain",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MEDICATION ADHERENCE GAMIFICATION PLATFORM SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421043754",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Gyan Prakash",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "AN IMMERSIVE VIRTUAL ANTHROPOLOGY FIELDWORK SIMULATION PLATFORM SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421043755",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Chetan Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "PHARMACY MEDICATION FLAVOURING SYSTEM AND METHOD THEREOF",
+      "date": "12.07.2024",
+      "app_no": "202421043756",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Chiranjeev Singh",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AN AI-ENHANCED PERSONALIZED PHARMACOKINETICS PLATFORM (AIPP) SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044620",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sudeep Kumar Yadav",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "HISTORICAL DOCUMENT DIGITIZATION SYSTEM AND METHOD THEREOF",
+      "date": "12.07.2024",
+      "app_no": "202421043748",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Beyant Singh",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MEDICATION REMINDER LAMP SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421043757",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Naresh Chandravanshi",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "MEDICATION DELIVERY TEMPERATURE TRACKING SYSTEM AND METHOD THEREOF",
+      "date": "12.07.2024",
+      "app_no": "202421043758",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Anamika Pandey",
+      "faculty": "Faculty of Science",
+      "topic": "AN AI-ENHANCED REAL-TIME GLOBAL ENVIRONMENTAL MONITORING AND PREDICTION SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044621",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Mamta Rani",
+      "faculty": "Faculty of Education",
+      "topic": "AN EDUCATIONAL PROGRAM PLANNING AND EVALUATION SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044622",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sanjay Kumar Yadav",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A CULTURAL HERITAGE INFORMATIVE SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044623",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Ravi Kumar Yadav",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A MULTILINGUAL AI-POWERED CONVERSATIONAL PARTNER AND LANGUAGE LEARNING ASSISTANT SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421043749",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Birendra Kumar Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A SMART INHALER WITH INTEGRATED ENVIRONMENTAL SENSORS (SIES) SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421043750",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Yashpal Singh",
+      "faculty": "Faculty of Education",
+      "topic": "AN INTEGRATED MODULAR ROBOTICS LEARNING SYSTEM WITH PORTABLE PROGRAMMING BACKPACK",
+      "date": "12.07.2024",
+      "app_no": "202421044624",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Vandana Yadav",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "INTELLIGENT HINDI LANGUAGE PROOFREADING AND PLAGIARISM DETECTION SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044625",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Santosh Devi",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "AN INTERACTIVE LITERATURE ANALYSIS TOOL (ILAT) SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044626",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Anil Kumari",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "A SOCIAL TREND TRACKER (STT) SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044627",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Devendra Kumar Singh",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "INTELLIGENT HINDI LANGUAGE TRANSLATION AND COMPREHENSION SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044647",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Shikha Kumari Rajak",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A GEOSPATIAL HEALTH ALERT SYSTEM (GHAS)",
+      "date": "12.07.2024",
+      "app_no": "202421044648",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Ravi Kumar Yadav",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "AN AI-GUIDED PATHOPHYSIOLOGY DIAGNOSTIC AND TREATMENT PLATFORM (AIPDT) SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421044649",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Monika Barsagade",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A SMART PATHOPHYSIOLOGY-INFORMED DRUG DELIVERY SYSTEM (SPIDDS)",
+      "date": "12.07.2024",
+      "app_no": "202421044650",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Pawan Kumar",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-DRIVEN ENVIRONMENTAL COMPLIANCE AND MONITORING SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421040981",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Ashish Ranjan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MEDICATION DISPENSING ROBOT FOR PHARMACIES SYSTEM",
+      "date": "12.07.2024",
+      "app_no": "202421043751",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Pranjali Verma",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MEDITATION IDENTIFICATION AND SORTING SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042058",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Chandra Pratap Dhimar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A-REAL TIME DIGITAL PILL TRACKER (RDPT) SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042060",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Jitendra Kumar Sinha",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A BIO-SENSING SMART PATH FOR CONTINUOUS DRUG MONITORING (BSSP-CDM) SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042061",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Nitish Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MEDICATION TEMPERATURE MONITORING TAG SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042063",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sachin Pradhan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MEDICATION DISPENSING VENDING MACHINE SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042064",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Mahendra Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "PERSONALISED MEDICATION REMINDER MIRROR SYSTEM AND METHOD THEREOF",
+      "date": "05.07.2024",
+      "app_no": "202421042065",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Lakhan Lal Kashyap",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A MEDICATION ADHERENCE TRACKING BRACELET SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042066",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Naina Bhoyar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A NANOPARTICLE-ENHANCED DRUG DELIVERY SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042067",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Yogendra Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A SMART PILL BOTTLE WITH BUILT-IN REMINDER SYSTEM",
+      "date": "05.07.2024",
+      "app_no": "202421042068",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Krishna Kumar Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "MEDICATION ADHERENCE MONITORING SYSTEM AND METHOD THEREOF",
+      "date": "05.07.2024",
+      "app_no": "202421042069",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Poorti Sharma",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "A VIRTUAL REALITY MEDICATION COUNSELING SYSTEM (VRMCS)",
+      "date": "05.07.2024",
+      "app_no": "202421042070",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Akanksha Dubey",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "MEDICATION ADHERENCE BRACELET SYSTEM AND METHOD THEREOF",
+      "date": "05.07.2024",
+      "app_no": "202421043746",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Aman",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "MEDICATION ADHERENCE GAMING SYSTEM AND METHOD THEREOF",
+      "date": "05.07.2024",
+      "app_no": "202421043747",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Deepak Kumar Srivastava",
+      "faculty": "Faculty of Law",
+      "topic": "LEGAL CASE ANALYTICS AND PREDICTION SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421039954",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Amik Sharma",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "VIRTUAL REALITY FITNESS TRAINING SYSTEM AND METHOD THEREOF",
+      "date": "28.06.2024",
+      "app_no": "202421039955",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Narendra Kumar Patel",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "ARTIFICIAL INTELLIGENCE (AI)-POWERED HERITAGE PRESERVATION SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421039951",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Arvind Kumar Tiwari",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "DIGITAL CAREER DEVELOPMENT SYSTEM AND METHOD THEREOF",
+      "date": "28.06.2024",
+      "app_no": "202421039952",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Deepak Tiwari",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "SMART FINANCIAL ADVISORY SYSTEM AND METHOD THEREOF",
+      "date": "28.06.2024",
+      "app_no": "202421039953",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Ashish Agrawal",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AN INTEGRATED PHARMACEUTICAL RESEARCH AND PRACTICE PLATFORM SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040974",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Birendra Kumar",
+      "faculty": "Faculty of Law",
+      "topic": "A SMART LEGAL CONTRACT VALIDATOR (SLCV) SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040194",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Alok Kumar Yadav",
+      "faculty": "Faculty of Law",
+      "topic": "AI-ENHANCED TORT CLAIM ASSESSMENT AND LITIGATION SUPPORT SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040195",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Ragini Patel",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "PHARMACEUTICAL INVENTORY OPTIMIZATION SYSTEM AND METHOD THEREOF",
+      "date": "28.06.2024",
+      "app_no": "202421040196",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Vijay Shankar Yadav",
+      "faculty": "Faculty of Law",
+      "topic": "AN INTELLIGENT LEGAL DOCUMENT ANALYSIS AND DRAFTING ASSISTANT SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040197",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Dilip Dwivedy",
+      "faculty": "Faculty of Law",
+      "topic": "A SMART CONTRACT LIFECYCLE MANAGEMENT SYSTEM (SCLMS)",
+      "date": "28.06.2024",
+      "app_no": "202421040198",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Tripti Dewangan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "PERSONALIZED FAMILY HEALTH AND WELLNESS MANAGEMENT SYSTEM AND METHOD THEREOF",
+      "date": "28.06.2024",
+      "app_no": "202421040975",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Hemlata Dewangan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "PRECISION PHARMACOTHERAPY SYSTEM AND METHOD THEREOF",
+      "date": "28.06.2024",
+      "app_no": "202421040976",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Suresh Chandra Yadav",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-POWERED TAX COMPLIANCE AND OPTIMIZATION SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040977",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Anil Kumar Singh",
+      "faculty": "Faculty of Law",
+      "topic": "A WORKPLACE COMPLIANCE AND FAIRNESS MONITORING SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040978",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sanjay Kumar Mire",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-ENHANCED PHARMACEUTICAL MANUFACTURING COMPLIANCE AND OPTIMIZATION SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040979",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Prachi Gurudiwan",
+      "faculty": "Faculty of Law",
+      "topic": "AN INTEGRATED PHARMACEUTICAL EDUCATION AND TRAINING PLATFORM SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040980",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Arvind Kumar Yadav",
+      "faculty": "Faculty of Law",
+      "topic": "AN AI-DRIVEN COURT CASE MANAGEMENT AND OPTIMIZATION SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040982",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Bhuvaneshwari Dewangan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AN PORTABLE PHARMACOGENOMICS ANALYZER (PPA) SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "202421040983",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Ashish Ranjan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "BIOSAFE CABINET",
+      "date": "28.06.2024",
+      "app_no": "411569-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Narendra Kumar Patel",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "ARTIFICIAL INTELLIGENCE (AI)-POWERD HERITAGE PRESERVATION SYSTEM",
+      "date": "28.06.2024",
+      "app_no": "2024210399951",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Gopesh Kumar Bharti",
+      "faculty": "Faculty of CS & IT",
+      "topic": "AI- BASED FIRE FIGHTING DRONE",
+      "date": "25.06.2024",
+      "app_no": "421142-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Vinay Chandra Jha",
+      "faculty": "Faculty of Engineering",
+      "topic": "BOILER WITH HYBRID POWER SYSTEM",
+      "date": "24.06.2024",
+      "app_no": "6372287",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Aditya Prakash Saxena",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR AN ASTROLOGY BASED VIRTUAL ASSISTANT SYSTEM",
+      "date": "21.06.2024",
+      "app_no": "202421029135",
+      "status": "Published"
+    },
+    {
+      "inventor": "Saroj Nayyar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "ROBOTIC ARM FOR TEACHING PURPOSE",
+      "date": "14.06.2024",
+      "app_no": "418866-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Vijayalaxmi Biradar",
+      "faculty": "Faculty of Engineering",
+      "topic": "PORTABLE GEO-TAGGED GROUND WATER QUALITY MONITORING SYSTEM",
+      "date": "14.06.2024",
+      "app_no": "202421036552",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sunil Kumar Yadav",
+      "faculty": "Faculty of Law",
+      "topic": "LAW SCHOOL LIBRARY RESOURCES AGGREGATOR SYSTEM AND METHOD THEREOF",
+      "date": "14.06.2024",
+      "app_no": "202421037522",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Arvind Kumar Saxena",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "INTELLIGENT BUSINESS MANAGEMENT SYSTEM AND METHOD THEREOF",
+      "date": "14.06.2024",
+      "app_no": "202421037523",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Vinod Kumar Vishwakarma",
+      "faculty": "Faculty of Science",
+      "topic": "A MATH PROBLEM SOLVING SYSTEM",
+      "date": "14.06.2024",
+      "app_no": "202421037695",
+      "status": "Published"
+    },
+    {
+      "inventor": "Saroj Nayyar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "DEVICE FOR ENHANCING COMPUTER NETWORK SAFETY",
+      "date": "10.06.2024",
+      "app_no": "410051-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Praveen Kumar Yadav",
+      "faculty": "Faculty of Science",
+      "topic": "REMOTE HEALTH MONITORING WITH BLE CAPABILITY FOR COVID-19 DOCTORS MANAGEMENT",
+      "date": "31.05.2024",
+      "app_no": "202441040940",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Rishikant Agnihotri",
+      "faculty": "Faculty of Science",
+      "topic": "A SYSTEM FOR AUGMENTED REALITY-ENHANCED MATHEMATICS EDUCATION",
+      "date": "24.05.2024",
+      "app_no": "202421035573",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sourabh Kumar Shrivastav",
+      "faculty": "Faculty of Science",
+      "topic": "INTELLIGENT CHEMICAL REACTION PREDICTION SYSTEM AND METHOD THEREOF",
+      "date": "24.05.2024",
+      "app_no": "202421035574",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Ashwani Kumar Dwivedi",
+      "faculty": "Faculty of Science",
+      "topic": "A SYSTEM TO DEVELOP INTELLIGENT MATHEMATICS PROBLEM GENERATOR AND METHOD THEREOF",
+      "date": "24.05.2024",
+      "app_no": "202421035575",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Narendra Kumar Singh",
+      "faculty": "Faculty of Law",
+      "topic": "PLAINT AND WRITTEN STATEMENT ASSISTANCE SYSTEM AND METHOD THEREOF",
+      "date": "24.05.2024",
+      "app_no": "202421035576",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Om Hari Narayan Kushwaha",
+      "faculty": "Faculty of Science",
+      "topic": "DYNAMIC MATH CURRICULUM GENERATION SYSTEM AND METHOD THEREOF",
+      "date": "24.05.2024",
+      "app_no": "202421035577",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Dindyal Singh",
+      "faculty": "Faculty of Science",
+      "topic": "SMART PHYSICS EXPERIMENT ASSISTANT SYSTEM AND METHOD THEREOF",
+      "date": "17.05.2024",
+      "app_no": "202421030985",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Beyant Singh",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "ULTRASONIC CELL DISRUPTOR",
+      "date": "16.05.2024",
+      "app_no": "411195-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Sourabh Kumar Shrivastav",
+      "faculty": "Faculty of Science",
+      "topic": "BURNER WITH TEST TUBE HOLDER",
+      "date": "16.05.2024",
+      "app_no": "411196-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Rishikant Agnihotri",
+      "faculty": "Faculty of Science",
+      "topic": "MATHEMATICAL LEARNING GAME",
+      "date": "16.05.2024",
+      "app_no": "411567-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Prachi Gurudiwan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "ZETA POTENTIAL ANALYZER",
+      "date": "16.05.2024",
+      "app_no": "411570-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Nitish Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "VAPORIZER STEAMER",
+      "date": "16.05.2024",
+      "app_no": "411669-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Naresh Chandravanshi",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DIGITAL PH METER",
+      "date": "16.05.2024",
+      "app_no": "412233-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Urvashi Jain",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "PILLS DISPENSER",
+      "date": "16.05.2024",
+      "app_no": "412306-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Priya Vij",
+      "faculty": "Faculty of CS & IT",
+      "topic": "PRINTER",
+      "date": "16.05.2024",
+      "app_no": "412322-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Doc. Chetan Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DENTAL IMPRESSION TRAY",
+      "date": "16.05.2024",
+      "app_no": "411197-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Sachin Pradhan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "RESPIRATORY NEBULIZER",
+      "date": "16.05.2024",
+      "app_no": "412235-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Yogendra Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DIGITAL WEIGHING SCALE FOR PHARMACEUTICAL LABS",
+      "date": "16.05.2024",
+      "app_no": "411192-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Munshi Lal Patel",
+      "faculty": "Faculty of Science",
+      "topic": "AN AUTOMATED ANIMAL BEHAVIOUR ANALYSIS SYSTEM AND METHOD THEREOF",
+      "date": "10.05.2024",
+      "app_no": "202421030783",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Amar Jeet",
+      "faculty": "Faculty of Science",
+      "topic": "A SMART WILDLIFE MONITORING AND CONSERVATION DRONES SYSTEM",
+      "date": "10.05.2024",
+      "app_no": "202421030784",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Mukesh Sharma",
+      "faculty": "Faculty of Law",
+      "topic": "A COURT FEES FOUNDER SYSTEM",
+      "date": "10.05.2024",
+      "app_no": "202421030785",
+      "status": "Published"
+    },
+    {
+      "inventor": "Zubair Ahmed Khan Dr. Asha Ambarkar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "IOT BASED WIRELESS SENSOR NODES FOR NETWORK SECURITY",
+      "date": "09.05.2024",
+      "app_no": "409715-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mrs. Deepti Patnaik",
+      "faculty": "Faculty of CS & IT",
+      "topic": "Algorithm for real time economic forecasting and analysis",
+      "date": "04.05.2024",
+      "app_no": "202441035498",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Nidhi Mishra",
+      "faculty": "Faculty of CS & IT",
+      "topic": "COMPUTER",
+      "date": "03.05.2024",
+      "app_no": "411571-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Awadh Kishor Trivedi",
+      "faculty": "Faculty of Education",
+      "topic": "SYSTEM FOR DEVELOPING PART-OF-SPEECH TAGGER, STEMMER AND NAMED ENTITY RECOGNIZER IN MAITHILI",
+      "date": "03.05.2024",
+      "app_no": "202421028893",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Vijay Kumar Shukla",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM FOR OPTIMIZING FOOD DELIVERY",
+      "date": "03.05.2024",
+      "app_no": "202421028894",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Srishti Singh Chauhan",
+      "faculty": "Faculty of technology",
+      "topic": "A METHOD FOR FABRICATING STAINLESS STEELS WITH BIOCOMPATIBLE PROPERTIES FOR MEDICAL DEVICES",
+      "date": "03.05.2024",
+      "app_no": "202421028895",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Manoj Kumar",
+      "faculty": "Faculty of Science",
+      "topic": "METHOD OF FABRICATION OF HARD-TO-CUT MATERIALS",
+      "date": "03.05.2024",
+      "app_no": "202421028896",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Nidhi Mishra",
+      "faculty": "Faculty of CS & IT",
+      "topic": "SYSTEM FOR SEAMLESSLY CONNECTING ROOM OWNERS AND TENANTS",
+      "date": "03.05.2024",
+      "app_no": "202421028897",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Priya Vij",
+      "faculty": "Faculty of CS & IT",
+      "topic": "A SYSTEM AND METHOD FOR STORING FILES IN A DECENTRALISED CLOUD STORAGE",
+      "date": "03.05.2024",
+      "app_no": "202421029132",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Suchitra Mishra",
+      "faculty": "Faculty of Education",
+      "topic": "COMPREHENSIVE DOCUMENTATION METHOD FOR HAND BLOCK PRINTING PRESERVATION",
+      "date": "03.05.2024",
+      "app_no": "202421029133",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Neeraj Tiwari",
+      "faculty": "Faculty of Education",
+      "topic": "AUTHENTICITY CHECK OF PERSON'S IDENTITY VERIFICATION SYSTEM",
+      "date": "03.05.2024",
+      "app_no": "202421029134",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. S.K. Gupta",
+      "faculty": "Faculty of Education",
+      "topic": "A METHOD FOR EVALUATING CHANGING STUDENTS MINDSET IN OFFLINE AND ONLINE CLASSES",
+      "date": "03.05.2024",
+      "app_no": "202421029136",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Saroj Nayyar",
+      "faculty": "Faculty of Education",
+      "topic": "ARTIFICIALLY INTELLIGENT BOARD FOR TEACHING",
+      "date": "30.04.2024",
+      "app_no": "415314-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Anupa Sinha",
+      "faculty": "Faculty of CS & IT",
+      "topic": "IOT BASED CROP HEALTH MONITORING DEVICE",
+      "date": "27.04.2024",
+      "app_no": "415135-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Bipin Pradhan",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "DIGITAL MARKETING STRATEGIES TO IMPROVE CUSTOMER EXPERIENCE AND ENGAGEMENT",
+      "date": "26.04.2024",
+      "app_no": "202441032257",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shraddha Verma",
+      "faculty": "Faculty of Education",
+      "topic": "AI POWERED INTERACTIVE ENGLISH LEARNING BOARD",
+      "date": "21.04.2024",
+      "app_no": "6359678",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Shraddha Verma Dr. Lubhawani tripathi Hersha Sharma Mr. Gulshan Kumar Behera",
+      "faculty": "Faculty of Education",
+      "topic": "Device to identify student alertness",
+      "date": "18.04.2024",
+      "app_no": "406453-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Abhishek Kumar Pandey",
+      "faculty": "Faculty of Science",
+      "topic": "A METHOD FOR FORMULATION OF USER FRIENDLY LESS TOXIC SCENTED TOILET CLEANER",
+      "date": "12.04.2024",
+      "app_no": "202421018937",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "PORTABLE HIGH-SPEED CENTRIFUGE DEVICE FOR SEPARATING AND ISOLATING COMPONENTS",
+      "date": "12.04.2024",
+      "app_no": "406316-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Khushboo Gupta",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "AI BASED HEALTHCARE DEVICE FOR DIAGNOSING ABDOMINAL DISEASES",
+      "date": "10.04.2024",
+      "app_no": "413169-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Dindayal Singh",
+      "faculty": "Faculty of Science",
+      "topic": "DIGITAL AMMETER",
+      "date": "02.04.2024",
+      "app_no": "412323-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Munshi Lal Patel",
+      "faculty": "Faculty of Science",
+      "topic": "MICROSCOPE",
+      "date": "02.04.2024",
+      "app_no": "412324-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Mahendra Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "BLOOD VISCOSITY TESTER",
+      "date": "01.04.2024",
+      "app_no": "412231-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Akanksha Dubey",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "BLOOD ANALYZER",
+      "date": "01.04.2024",
+      "app_no": "412232-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Lakhan Lal Kashyap",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "ALCOHOL BREATH DETECTOR",
+      "date": "01.04.2024",
+      "app_no": "412234-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Vinod Kumar Vishwakarma",
+      "faculty": "Faculty of Science",
+      "topic": "PROTRACTOR WITH A DIGITAL ANGLE FINDER SCALE",
+      "date": "01.04.2024",
+      "app_no": "412307-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Ashwani Kumar Dwivedi",
+      "faculty": "Faculty of Law",
+      "topic": "DIGITAL COMPASS",
+      "date": "27.03.2024",
+      "app_no": "411670-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Om Hari Narayan Kushwaha",
+      "faculty": "Faculty of Science",
+      "topic": "DUAL MODE SCIENTIFIC CALCULATOR",
+      "date": "27.03.2024",
+      "app_no": "411671-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Manoj Kumar",
+      "faculty": "Faculty of Science",
+      "topic": "THERMOMETER",
+      "date": "27.03.2024",
+      "app_no": "411672-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Naina Bhoyar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "GRANULATOR",
+      "date": "27.03.2024",
+      "app_no": "411673-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Birendra Kumar Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "THERMO FISHER DEVICE",
+      "date": "26.03.2024",
+      "app_no": "411565-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Srishti Singh Chauhan",
+      "faculty": "Faculty of Engineering",
+      "topic": "SURGICAL LIGHTS",
+      "date": "26.03.2024",
+      "app_no": "411568-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Lokeshwari Sahu",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "FRIABILITY TESTER",
+      "date": "21.03.2024",
+      "app_no": "411194-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Doc. Moniza Nurez Khan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "GLUCOSE MONITOR",
+      "date": "21.03.2024",
+      "app_no": "411193-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Bhuvaneshwari Dewangan",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "HOT BEAD STERILIZER",
+      "date": "21.03.2024",
+      "app_no": "411199-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "PORTABLE HIGH-SPEED CENTRIFUGE DEVICE FOR SEPARATING AND ISOLATING COMPONENTS",
+      "date": "18.03.2024",
+      "app_no": "6353581",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "SMART KITCHEN WASTE MANAGING DEVICE",
+      "date": "18.03.2024",
+      "app_no": "6353580",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Pranjul Shrivastava",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "THREE-DIMENSIONAL DENTAL SCANNING SYSTEM",
+      "date": "13.03.2024",
+      "app_no": "6352731",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Shailesh Deshmukh",
+      "faculty": "Faculty of Engineering",
+      "topic": "PORTABLE SOLAR-POWERED WATER PURIFIER",
+      "date": "12.03.2024",
+      "app_no": "6350807",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "\"Priyanka Gupta \"",
+      "faculty": "Faculty of Science",
+      "topic": "EFFECT OF CUO NANOPARTICLES ON THE PHOTODEGRADATION OF METHYL ORANGE (MO) DYE IN AQUEOUS MEDIA",
+      "date": "01.03.2024",
+      "app_no": "202421002773",
+      "status": "Published"
+    },
+    {
+      "inventor": "\"Dr. Shraddha Verma\nDr.Lubhawani Tripathi\"",
+      "faculty": "Faculty of Education",
+      "topic": "TEACHER HAPPINESS MONITORING DEVICE",
+      "date": "23.02.2024",
+      "app_no": "403268-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Naresh Kumar Khunte",
+      "faculty": "Faculty of Engineering",
+      "topic": "SMART ROBOTIC SYSTEM TO ASSIST STUDENTS",
+      "date": "17.02.2024",
+      "app_no": "407875-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "FACE ANTI-SPOOFING DEVICE",
+      "date": "16.02.2024",
+      "app_no": "402922-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "\"Dr. Manoj Kumar Nigam\nDr. Shailesh Deshmukh\"",
+      "faculty": "Faculty of Engineering",
+      "topic": "DIGITAL BATTERY CHARGER",
+      "date": "09.02.2024",
+      "app_no": "401975-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "SMART KITCHEN WASTE MANAGING DEVICE",
+      "date": "30.01.2024",
+      "app_no": "406080-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "WEARABLE DEVICE FOR MEASURING BIOSIGNALS FORM THE BODY",
+      "date": "19.01.2024",
+      "app_no": "399488-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Swapnil Shukla",
+      "faculty": "Faculty of Engineering",
+      "topic": "SYNTHESIS AND PROPERTY STUDIES OF MAGNETIC OXIDE MATERIALS AND ZNO NANOPARTICLES",
+      "date": "05.01.2024",
+      "app_no": "202341082659",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "WEARABLE DEVICE FOR MEASURING BIOSIGNALS FORM THE BODY",
+      "date": "04.01.2024",
+      "app_no": "6333920",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Mr. Ram Girdhar\nDr.Chandra Bhooshan Singh\nMr. Tushar Ranjan Barik\nMs. Nishtha Sharma\nMs. Mariyam Ahmed",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "THE IMPACT ADVERTISING RESEARCH PRACTICES ON THE ADVERTISING PERFORMANCE OF COMPANIES",
+      "date": "22.12.2023",
+      "app_no": "202321072106",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Nidhi Goenka\nMr.Dheeraj Daniel\nMs. Sujata\nMs. Deepshikha Patel\nMs. Shivangi Makade",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "AN EXAMINATION OF FINANCIAL MANAGEMENT METHODOLOGIES IN RELATION TO CAPITAL BUDGETING STRATEGIES AND INVESTMENT DECISION-MAKING",
+      "date": "22.12.2023",
+      "app_no": "202321068469",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shraddha Verma",
+      "faculty": "Faculty of Education",
+      "topic": "BROWSED DATA OPTIMIZING DEVICE",
+      "date": "22.12.2023",
+      "app_no": "396561-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Nimmi Sharma\nMr.Rajendra Kumar Sahu",
+      "faculty": "Faculty of Engineering",
+      "topic": "WIRELESS TEMPERATURE ANALYZER",
+      "date": "21.12.2023",
+      "app_no": "397580-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Lt. Vibha Chandrakar",
+      "faculty": "Faculty of Science",
+      "topic": "INTERACTIVE THERMOCHROMIC AND SCENT-INFUSED TEXTILE",
+      "date": "24.11.2023",
+      "app_no": "202321072565",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Priti Kumari",
+      "faculty": "Faculty of Education",
+      "topic": "A SYSTEM FOR ENHANCING HUNTING PROFICIENCY AMONG INDIGENOUS COMMUNITIES",
+      "date": "24.11.2023",
+      "app_no": "203221072566",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Jasmine Joshi",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "PERFORMANCE-BASED APPRAISAL SYSTEM FOR CONDUCTING FAIR AND ACCURATE APPRAISAL PROCESS",
+      "date": "24.11.2023",
+      "app_no": "202321072231",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Satvik Jain",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "A SYSTEM FOR SUGGESTING DYNAMIC PRICES OF PRODUCTS",
+      "date": "24.11.2023",
+      "app_no": "202321072232",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Swapnil Jain",
+      "faculty": "Faculty of Technology",
+      "topic": "COOL VEG HAVEN: SUSTAINABLE COOLING SOLUTION FOR RURAL INDIA",
+      "date": "24.11.2023",
+      "app_no": "202321072229",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Amit Joshi ,Ms. Jharna Maiti",
+      "faculty": "Faculty of Science",
+      "topic": "A METHOD FOR ISOLATING BIOACTIVE COMPOUNDS FROM THE GINKGO BILOBA PLANT HAVING ANTICANCER PROPERTY",
+      "date": "21.11.2023",
+      "app_no": "202321072230",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Dhananjay Kumar Jain",
+      "faculty": "Faculty of Science",
+      "topic": "A SYSTEM AND METHOD FOR SUGGESTING YOGIC REMEDIES FOR PSYCHOPHYSIOLOGICAL GENITOURINARY DISORDERS",
+      "date": "21.11.2023",
+      "app_no": "202321030003",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Aman Kumar Gupta,Mr. Piyush Das",
+      "faculty": "Faculty of Science & Technology",
+      "topic": "AN AI-BASED SYSTEM AND METHOD FOR GENERATING ARCHITECTURAL DESIGNS OF INSTITUTIONAL BUILDINGS",
+      "date": "21.11.2023",
+      "app_no": "202321030004",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sandip Prasad Tiwari",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "ARTIFICIAL INTELLIGENCE BASED DEVICE FOR FINGER PLETHYSMOGRAPH",
+      "date": "06.11.2023",
+      "app_no": "6324344",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR DETECTING CARBON POLLUTION",
+      "date": "30.10.2023",
+      "app_no": "393099-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Sandip Prasad Tiwari",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DEVICE FOR DEVELOPING NANO CAPSULES FOR PEPTIC ULCER",
+      "date": "25.10.2023",
+      "app_no": "6321691",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Om Prakash Dewangan",
+      "faculty": "Faculty of IT",
+      "topic": "AI-ENABLED MOBILE DEVICE FOR LOGISTIC FACILITY MANAGEMENT",
+      "date": "20.10.2023",
+      "app_no": "392134-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Lubhawani Tripathi",
+      "faculty": "Faculty of Education",
+      "topic": "STUDENT PERFORMANCE PREDICTION DEVICE",
+      "date": "18.10.2023",
+      "app_no": "397906-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Nishtha Sharma",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "INNOVATIVE TECHNIQUE TO EXPORT INDIAN COMMODITIES TO OTHER COUNTRIES BY IMPLEMENTING NOVEL SUPPLY CHAIN PROCESS.",
+      "date": "18.10.2023",
+      "app_no": "202321063192",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "BIOSENSOR DEVICE FOR CANCER CELL DETECTION",
+      "date": "16.10.2023",
+      "app_no": "393041-002",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR DETECTING CARBON POLLUTION",
+      "date": "12.10.2023",
+      "app_no": "6317657",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi ,Dr. Vijaylaxmi Birdar ,Mr. Honey Gaur",
+      "faculty": "Faculty of Science & Technology",
+      "topic": "BIOSENSOR DEVICE FOR CANCER CELL DETECTION",
+      "date": "12.10.2023",
+      "app_no": "6317655",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR DETECTING SOIL QUALITY",
+      "date": "12.10.2023",
+      "app_no": "6317656",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR DETECTING SOIL QUALITY",
+      "date": "05.10.2023",
+      "app_no": "393041-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "CARDIOVASCULAR MECHANICAL DEVICE FOR HEART PATIENT",
+      "date": "05.10.2023",
+      "app_no": "393100-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Om Prakash Dewangan",
+      "faculty": "Faculty of IT",
+      "topic": "ADVANCED NETWORK SECURITY SYSTEM WITH AI-POWERED THREAT DETECTION",
+      "date": "29.09.2023",
+      "app_no": "202321050825",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Amit Joshi",
+      "faculty": "Faculty of Science",
+      "topic": "INFRARED TRACKING LIGHT USED FOR CANCER THERAPY",
+      "date": "27-09-2023",
+      "app_no": "392900-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Rajesh Kumar Manik,Dr. Shilpi Srivastava,Dr. Asha Ambhaikar,Dr. Faiz Bux,Dr. Dhananjay Jain,Dr. Alok Verma,Dr. Nimesh Joshi,Mr. Sheikh Abdul Kadir",
+      "faculty": "Faculty of Science",
+      "topic": "SANDHI MITRA: AYURVEDIC SUPPORT FOR JOINT HEALTH",
+      "date": "22.09.2023",
+      "app_no": "202321051456",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Anupa Sinha",
+      "faculty": "Faculty of IT",
+      "topic": "ATTENDANCE MANAGEMENT SYSTEM USING BIOMETRICS",
+      "date": "04.08.2023",
+      "app_no": "387569-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "BIOSENSOR DEVICE FOR MEASURING BIOLOGICAL OR CHEMICAL REACTIONS",
+      "date": "03.08.2023",
+      "app_no": "383549-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Shailesh Deshmukh,Mr. Mahesh Ahuja",
+      "faculty": "Faculty of Technology",
+      "topic": "DEVICE FOR ELECTRICITY GENERATION FROM WASTEWATER TREATMENT",
+      "date": "07.07.2023",
+      "app_no": "383343-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Ravi Prakash Mahobia",
+      "faculty": "Faculty of Technology",
+      "topic": "IOT BASED REMOTE ACCESS CONTROL IN WATER LEVEL MONITORING FOR WATER MANAGEMENT",
+      "date": "04.07.2023",
+      "app_no": "202341020621",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Abhismita Roy",
+      "faculty": "Faculty of Science",
+      "topic": "IOT BASED WEARABLE HEALTH MONITORING DEVICE",
+      "date": "30.06.2023",
+      "app_no": "383007-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "BIOSENSOR DEVICE FOR MEASURING BIOLOGICAL OR CHEMICAL",
+      "date": "28.06.2023",
+      "app_no": "6291366",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Mr. Shailesh Deshmukh,Anu G Pillai,Mr. Rahul Baghel,Mr. Mahesh Ahuja,Dr. Alok Verma",
+      "faculty": "Faculty of Technology",
+      "topic": "WIRELESS POWER TRANSMISSION SYSTEM USING MAGNETIC RESONANCE COUPLING",
+      "date": "23.06.2023",
+      "app_no": "202321035069",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Amit Joshi",
+      "faculty": "Faculty of Science",
+      "topic": "RHODODENDRON ARBOREUM WITH ZINGIBER OFFICINALIS AS A TONIC OF IMMUNOGENICITY",
+      "date": "16.06.2023",
+      "app_no": "202321030965",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Smita Premanand",
+      "faculty": "Faculty of Science",
+      "topic": "TIE & DYE TECHNIQUE RECOGNITION SYSTEM (TDRS) FOR TRADITIONAL FABRICS",
+      "date": "16.06.2023",
+      "app_no": "202321033569",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Ajay Kumar Shukla",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "SYSTEM AND METHOD FOR ANALYZING AND STUDYING CHHATTISGARHI AND BHOJPURI FOLK MUSIC",
+      "date": "16.06.2023",
+      "app_no": "202321033873",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Nuresh Kumar Khunte",
+      "faculty": "Faculty of Technology",
+      "topic": "BANANA AND GLASS FIBER REINFORCED HYBRID POLYMER COMPOSITE WITH ENHANCED STRENGTH AND STIFFNESS PROPERTIES",
+      "date": "16.06.2023",
+      "app_no": "202321033886",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Avtar Kishan Kaul",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "SYSTEM AND METHOD FOR IMPLEMENTING CSRCCBM FOR INDIAN CORPORATIONS",
+      "date": "16.06.2023",
+      "app_no": "202321033905",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. A Vijayanand",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "SYSTEM ADDRESSING MIDDLE CLASS ISSUES ACCORDING TO CLIFFORD ODETS' WORK",
+      "date": "16.06.2023",
+      "app_no": "202321033942",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. A Vijayanand",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "VIRTUAL REALITY SYSTEM FOR EXPLORING LIFE IN INDIA DURING E.M. FORSTER'S 'A PASSAGE TO INDIA'",
+      "date": "16.06.2023",
+      "app_no": "202321033944",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sandip Tiwari,Ms. Rajni Yadav,Mr. Saurabh Sharma",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "CURCUMA ANGUSTIFOLIA POWDER BASED NUTRACEUTICAL BEVERAGE WITH HEALTH BENEFITS",
+      "date": "16.06.2023",
+      "app_no": "202321033952",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. A Vijayanand",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "AUTOMATED POETRY ANALYSIS SYSTEM",
+      "date": "16.06.2023",
+      "app_no": "202321033965",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Neelam Ahirwar",
+      "faculty": "Faculty of Science",
+      "topic": "TOXICOLOGICAL EVIDENCE IN FORENSIC PHARMACOLOGY",
+      "date": "02.06.2023",
+      "app_no": "202321030688",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. N. K. Chapekar",
+      "faculty": "Faculty of Technology",
+      "topic": "IOT BASED WEARABLE MEDICAL MONITORING DEVICE",
+      "date": "31.05.2023",
+      "app_no": "387404-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR DETECTING FRUIT QUALITY",
+      "date": "23.05.2023",
+      "app_no": "381302-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Ruchi Chandrakar",
+      "faculty": "Faculty of Technology",
+      "topic": "AN EXPERIMENTAL STUDY OF PARTIAL REPLACEMENT OF CEMENT IN CONCRETE WITH MARBALDUST POWDER AND RECKON FIBRE IS USED AS AN ADMIXTURE\"",
+      "date": "19.05.2023",
+      "app_no": "202321006076",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Riya Goel Dr. Sunayana Shukla",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "MODEL FOR INFERRING PREFERENCE AND LIFESTYLE INFORMATION FROM IMAGES POSTED IN SOCIAL MEDIA",
+      "date": "19.05.2023",
+      "app_no": "202321006077",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Priti Kumari",
+      "faculty": "Faculty of Education",
+      "topic": "QUESTIONNAIRE FOR SURVEY: THE KNOWLEDGE OF VEDIC BELIEFS",
+      "date": "19.05.2023",
+      "app_no": "202321006080",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Pooja P. Raj & Mrs. Swati Tiwari",
+      "faculty": "Faculty of IT",
+      "topic": "REAL TIME LIP SYNCHRONIZATION IN TEXT TO SPEECH AND ROBOT MOUTH",
+      "date": "19.05.2023",
+      "app_no": "202321006070",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Muskan Diwan & Ms. Neha Choithramani",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "COST MANAGEMENT MODEL FOR REVIVAL OF PSUS",
+      "date": "19.05.2023",
+      "app_no": "202321006074",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Shilpa Sharma Dr. Abhishek Tripathi",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "INVERTED ECONOMIC GROWTH MODEL DURING CRISIS.",
+      "date": "19.05.2023",
+      "app_no": "202321006073",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Jasmine Joshi Ms. Mariyam Ahmed",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "ACADEMIC HR PERFORMANCE MEASUREMENT USING BLOOM'S TAXONOMY",
+      "date": "19.05.2023",
+      "app_no": "202321006068",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Om Prakash Dewangan Mr. Proshanta Sarkar",
+      "faculty": "Faculty of IT",
+      "topic": "DEVICE TO TRACK THE PROBLEM IN THE OFFICE ENVIRONMENT AND TO OBTAIN SOLUTIONS USING THE MACHINE LEARNING ALGORITHM EMBEDDED INTO THE SYSTEM",
+      "date": "19.05.2023",
+      "app_no": "202321006088",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Om Prakash Dewangan Mr. Proshanta Sarkar",
+      "faculty": "Faculty of IT",
+      "topic": "THE ROLE OF THINGWORX AS INDUSTRIAL IOT IN INTERNET OF THINGS",
+      "date": "19.05.2023",
+      "app_no": "202321006083",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Avtar Kishan Kaul",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "HUMAN RESOURCE MANAGEMENT PRACTICES AND CSR \u2013 A PRAGMATIC MODEL",
+      "date": "19.05.2023",
+      "app_no": "202321006085",
+      "status": "Published"
+    },
+    {
+      "inventor": "Lt. Vibha Chandrakar",
+      "faculty": "Faculty of Science",
+      "topic": "BODY IMAGE AND HIGH FASHION MODELS IN THE 21ST CENTURY",
+      "date": "19.05.2023",
+      "app_no": "202321006079",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Vineeta Diwan",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "PRODUCTION OF VEGAN LEATHER FROM LOTUS TO PROMOTE AS SUSTAINABLE LEATHER INSTATE OF CHHATTISGARH",
+      "date": "19.05.2023",
+      "app_no": "202321006082",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Vineeta Diwan",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "PRODUCTION OF FIBER FROM WATER HYACINTH AS AN INNOVATION IN HANDLOOM INDUSTRY AS A SOLUTION AGAINST WATER HYACINTH POLLUTION",
+      "date": "19.05.2023",
+      "app_no": "202321006086",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sushma Dubey",
+      "faculty": "Faculty of Science",
+      "topic": "PRODUCTION OF BIOFUELS BIOETHANOL AND BIOGAS FROM WATER HYACINTH IN CHHATTISGARH",
+      "date": "19.05.2023",
+      "app_no": "202321006069",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sunayana Shukla & Ms. Riya Goel",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "PSYCHOANALYTICAL MODEL DEPICTING THE EFFECT OF SUBLIMINAL MESSAGES IN ADVERTISEMENTS",
+      "date": "19.05.2023",
+      "app_no": "202321006072",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Rajesh Kumar Manik",
+      "faculty": "Faculty of Science",
+      "topic": "A PRACTICE OF PANCHA YOGABHYASA IN MANAGEMENT OF MIGRAINE HEADACHE",
+      "date": "19.05.2023",
+      "app_no": "202321006089",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Paromita Banerjee",
+      "faculty": "Faculty of Science",
+      "topic": "IDENTIFICATION OF MICROORGANISMS USING IOT/APP BASED METHODS",
+      "date": "19.05.2023",
+      "app_no": "202321006084",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Deepa Biswas",
+      "faculty": "Faculty of Science",
+      "topic": "PRODUCTION OF BIO-PESTICIDE BY LEMON GRASS PLANT (CYMBOPOGON CITRATUS)",
+      "date": "19.05.2023",
+      "app_no": "202321006071",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Amit Joshi Dr. Prashant Kumar",
+      "faculty": "Faculty of Science",
+      "topic": "EPITOPE BASED VACCINE DESIGN AGAINST MONKEYPOX VIRUS BY DEPLOYING LATEST IMMUNOINFORMATICS APPROACH",
+      "date": "19.05.2023",
+      "app_no": "202321006081",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Abhishek Tripathi Ms. Shinki K. Pandey",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "VAR MODEL FOR MEASURING CRYPTOCURRENCY VOLATILITY",
+      "date": "19.05.2023",
+      "app_no": "202321006078",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. A Rajshekhar",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "HERBAL AGARBATTI (PROCESS PERCENT)",
+      "date": "19.05.2023",
+      "app_no": "202321006087",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms.Ruchi Chandrakar",
+      "faculty": "Faculty of Technology",
+      "topic": "DEVICE TO ANALYSIS THE HEALTH OF CONCRETE BRIDGE",
+      "date": "19.05.2023",
+      "app_no": "379778-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Prashant Kumar",
+      "faculty": "Faculty of Science",
+      "topic": "TABLET DISSOLUTION TESTING APPARATUS",
+      "date": "17.05.2023",
+      "app_no": "379480-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of IT",
+      "topic": "MULTILAYERED TELE-HEALTHCARE DATA ANALYSIS SYSTEM",
+      "date": "11.05.2023",
+      "app_no": "202321033329",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR MEASURING PH VALUE OF FLUID",
+      "date": "08.05.2023",
+      "app_no": "378180-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Ms. Akanksha Mishra ,Ms Kirti Nahak ,Mrs. Divya ,Ms. Nikita Pathrotkar ,Ms. Anupa Sinha, Mr. Akash Pandey",
+      "faculty": "Faculty of IT",
+      "topic": "MICROWAVE SENSOR BASED SOIL ANALYZER",
+      "date": "01.05.2023",
+      "app_no": "385422-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Alka Pandey",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "SYSTEM FOR REAL-TIME TRACKING AND MONITORING OF INVENTORY IN A SUPPLY CHAIN",
+      "date": "28.04.2023",
+      "app_no": "202321021542",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Sahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR DETECTING FRUIT QUALITY",
+      "date": "27.04.2023",
+      "app_no": "6275901",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Vijayalaxmi Biradar ,Mr. Anup Kumar Jana,Mr. Sarat Chandra Mohanty,Mrs. Anu G. Pillai,Mr. Pankaj Tiwari",
+      "faculty": "Faculty of Technology",
+      "topic": "DIGITALIZATION OF EDUCATION- CHALLENGES AND MEASURES FOR PROMOTION INNOVATIVE TECHNOLOGY FOR DELIVERING EDUCATIONAL CONTENT IN A REMOTE LEARNING ENVIRONMENT",
+      "date": "20.04.2023",
+      "app_no": "202321028905",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Proshanta Sarkar, Mr. Om Prakash Dewangan, Ms. Pooja P. Raj, Mr. Kamlesh Kumar Yadav, Ms. Swati Tiwari, Mr. Pawan Kumar",
+      "faculty": "Faculty of IT",
+      "topic": "MICROWAVE SENSOR BASED SOIL ANALYZER",
+      "date": "28.03.2023",
+      "app_no": "382437-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "DEVICE FOR MEASURING PH VALUE OF FLUID",
+      "date": "08.03.2023",
+      "app_no": "6265148",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Abhishek Tripathi",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "IMPACT OF DIGITAL ECONOMY GROWTH TOWARDS NON-DIGITAL SECTOR IN INDIA",
+      "date": "27.01.2023",
+      "app_no": "202321001222",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shraddha Verma",
+      "faculty": "Faculty of Education",
+      "topic": "DEVICE FOR ANALYSING THE EMPLOYEE WORK CONTRIBUTION",
+      "date": "27.01.2023",
+      "app_no": "376509-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms.Khushboo Gupta",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "NANOTECHNOLOGY APPROACH TO THE EFFECT OF TOPICAL CREAMS FOR TREATING BLOOD CANCER",
+      "date": "20.01.2023",
+      "app_no": "202311003020",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shilpi Bhattacharya, Ms. Arunima Das",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "GENDER DECEPTION TRACKING DEVICE",
+      "date": "18.01.2023",
+      "app_no": "366069-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. L Jyothi Reddy",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "AN ARTIFICIAL INTELLIGENCE (AI) BASED WATER RESOURCE MANAGEMENT SYSTEM",
+      "date": "13.01.2023",
+      "app_no": "202221075707",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Abha Sahu",
+      "faculty": "Faculty of Technology",
+      "topic": "METHOD FOR CONVERTING A THREE-DIMENSIONAL LIDAR DATASET TO A PROJECTION SHAPE, AND A MULTI-CHANNEL TWO-DIMENSIONAL IMAGE FOR PERFORMING SEGMENTATION",
+      "date": "13.01.2023",
+      "app_no": "202241075293",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Shailesh M Deshmukh Mr. Mahesh Ahuja",
+      "faculty": "Faculty of Technology",
+      "topic": "AN IMPROVISED DESIGN AND DEVELOPMENT OF SOLAR CHARGING STATION FOR EV",
+      "date": "30.12.2022",
+      "app_no": "202241073518",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Ranjeeta Singh",
+      "faculty": "Faculty of Education",
+      "topic": "LIBRARY AUTOMATION THROUGH RFID, IOT, AND AI: A SYSTEM AND METHOD FOR MANAGING BOOKS, ARTICLES, AND JOURNAL",
+      "date": "16.12.2022",
+      "app_no": "202211069521",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Nishikant Chapekar Mr. Honey Gaur",
+      "faculty": "Faculty of Technology",
+      "topic": "MICROSTRUCTURAL ANALYSIS OF RECYCLED AGGREGATE CONCRETE",
+      "date": "14.10.2022",
+      "app_no": "202221031563",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Swapnil Shukla Mr. Kunal Dewangan",
+      "faculty": "Faculty of Technology",
+      "topic": "DESIGN OF SUSTAINABLE LASER METAL DEPOSITION OF ALUMINIUM ALLOYS FOR ANTI-EROSION IN AUTOMOBILE INDUSTRY",
+      "date": "02.10.2022",
+      "app_no": "202211056598",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Ravi Prakash Mohabia",
+      "faculty": "Faculty of Technology",
+      "topic": "OFFICE POWER MANAGEMENT DEVICE",
+      "date": "30.09.2022",
+      "app_no": "363915-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Priyanka Gupta Mr. Gaurav Tamrakar",
+      "faculty": "Faculty of Science & Technology",
+      "topic": "ANALYSIS OF HEAVY METALS & PHYSICOCHEMICAL PROPERTIES IN GROUND WATER",
+      "date": "12.08.2022",
+      "app_no": "202221043674",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Shailesh M Deshmukh",
+      "faculty": "Faculty of Technology",
+      "topic": "SMART SOFT KEY DESIGN FOR ELECTRICAL SWITCHES",
+      "date": "05.08.2022",
+      "app_no": "202241041614",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "MULTIPROTOCOL SUPPORT MEDICAL EQUIPMENT INTEGRATION SYSTEM",
+      "date": "15.07.2022",
+      "app_no": "202221036157",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "AN UNDECA SACCHARIDE RIBOSE STRUCTURE ISOLATED FROM GADDI SHEEP MILK",
+      "date": "07.07.2022",
+      "app_no": "202221039183",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Khushboo Sahu",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "CELEBRITY BRAND ENDORSEMENT AN EFFECTIVE STRATEGY TO GENERATE SALES",
+      "date": "01.07.2022",
+      "app_no": "202221033068",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Krushna Chandra Dalai",
+      "faculty": "Faculty of Law",
+      "topic": "LEGAL CLINIC TOOLS AND TECHNIQUES APPRAISAL",
+      "date": "01.07.2022",
+      "app_no": "202221033067",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Kapil Kelkar",
+      "faculty": "Faculty of Science",
+      "topic": "`INFLUENCE OF SOCIAL MEDIA ON FASHION INDUSTRY",
+      "date": "01.07.2022",
+      "app_no": "202221033066",
+      "status": "Published"
+    },
+    {
+      "inventor": "Lt. Vibha Chandrakar",
+      "faculty": "Faculty of Science",
+      "topic": "UNIQUE DEVICES USED IN FASHION INDUSTRY",
+      "date": "01.07.2022",
+      "app_no": "202221033069",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Swati Agrawal",
+      "faculty": "Faculty of Technology",
+      "topic": "ENVIRONMENTAL IMPACT OF LEACHATE POLLUTION OF GROUNDWATER SUPPLY",
+      "date": "24.06.2022",
+      "app_no": "202221032041",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar Dr. Rika Sharma",
+      "faculty": "Faculty of Technology",
+      "topic": "IOT IN HEALTH CARE SYSTEMS",
+      "date": "24.06.2022",
+      "app_no": "202221031799",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "TRAINING NEED ANALYSIS",
+      "date": "24.06.2022",
+      "app_no": "202221032545",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "PERFORMANCE APPRAISAL SYSTEMS",
+      "date": "24.06.2022",
+      "app_no": "202221032546",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. R. Sridhar Ms. Rajni Yadav",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "HERBAL GEL DIFFUSER FOR NASAL CONGESTION",
+      "date": "24.06.2022",
+      "app_no": "202221032552",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Rika Sharma Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "DATA SCIENCE IN CLIMATE CHANGE",
+      "date": "24.06.2022",
+      "app_no": "202221031800",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sandip Tiwari",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DEVELOPMENT OF POLYMERIC NANOGEL FOR ATOPIC ECZEMA",
+      "date": "24.06.2022",
+      "app_no": "202221032550",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shilpi Bhattacharya",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "BIOPOLITICS: A BLOT ON EXISTING REALITIES OF GENDER, CLASS,CASTE AND SEXUALITY WITH REFERENCE TO SALMAN RUSHDIE'S MIDNIGHT CHILDREN AND MAHASWETA DEVI\u2019S MOTHER OF 1084",
+      "date": "24.06.2022",
+      "app_no": "202221032551",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Vineeta Diwan Dr. Sushma Dubey",
+      "faculty": "Faculty of Science",
+      "topic": "PRODUCTION AND PROMOTION OF LOTUS FIBER AS AN INNOVATION IN HANDLOOM SECTOR OF CHHATTISGARH",
+      "date": "24.06.2022",
+      "app_no": "202221032062",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Akshit Lamba",
+      "faculty": "Faculty of Technology",
+      "topic": "DESIGN AND SEISMIC ANALYSIS OF INTZE TYPE WATER TANK",
+      "date": "24.06.2022",
+      "app_no": "202221032040",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Deependra Soni Dr. Sandip Prasad Tiwari",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "HERBAL AIR MICROBES STERILIZING STICK AND METHOD OF PREPARATION THEREOF",
+      "date": "24.06.2022",
+      "app_no": "202221032549",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Honey Gaur",
+      "faculty": "Faculty of Technology",
+      "topic": "REPLACEMENT OF COARSE AGGREGATES WITH JHAMA BRICKS FOR PREPARATION OF CONCRETE",
+      "date": "24.06.2022",
+      "app_no": "202221031798",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Kushagra Pandey",
+      "faculty": "Faculty of Technology",
+      "topic": "LOGISTIC MODEL FOR CHOICE BASED BEHAVIOR FOR AIRWAYS AND RAILWAYS TRAVELLERS IN INDIAN CONTEXT",
+      "date": "24.06.2022",
+      "app_no": "202221032058",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Mahesh Ahuja",
+      "faculty": "Faculty of Technology",
+      "topic": "INVENTION RELATES TO AN ARRANGEMENT AND A METHOD FOR IMPROVING POWER QUALITY USING DYNAMIC VOLTAGE RESTORER",
+      "date": "24.06.2022",
+      "app_no": "202221032553",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Manas Rathore",
+      "faculty": "Faculty of Technology",
+      "topic": "CONSTRUCTION PROJECT MANAGEMENT SYSTEM & METHOD",
+      "date": "24.06.2022",
+      "app_no": "202221032057",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Omprakash Dewangan Mr. Kailash Prasad Dewangan",
+      "faculty": "Faculty of Technology",
+      "topic": "MACHINE LEARNING ALGORITHM & USAGE",
+      "date": "24.06.2022",
+      "app_no": "202221032061",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Shailesh M Deshmukh",
+      "faculty": "Faculty of Technology",
+      "topic": "DESIGN OF MICROGRIDS FOR HYBRID ELECTRIC VEHICLES CHARGING STATIONS",
+      "date": "24.06.2022",
+      "app_no": "202221032059",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Shashank Girhepunje Mrs. Avantika Singh",
+      "faculty": "Faculty of Technology",
+      "topic": "NATURAL LANGUAGE PROCESSING ON SOCIAL MEDIA",
+      "date": "24.06.2022",
+      "app_no": "202221032547",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Kirti Sahu Tirpude Mr. Honey Gaur",
+      "faculty": "Faculty of Technology",
+      "topic": "RESTORATION OF DISTRESSED FOUNDATION STRUCTURES",
+      "date": "24.06.2022",
+      "app_no": "202221032548",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Shikha Tiwari Dr. Guddi Singh",
+      "faculty": "Faculty of Technology",
+      "topic": "DETECTION AND RECOGNITION OF DRONES BASED ON DEEP LEARNING",
+      "date": "24.06.2022",
+      "app_no": "202221032060",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Smita Premanand",
+      "faculty": "Faculty of Science",
+      "topic": "SOLUTION OF WEAVER'S SURVIVAL PROBLEM IN THE HANDLOOM INDUSTRY",
+      "date": "24.06.2022",
+      "app_no": "202221032063",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Rajni Yadav",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DEVELOPMENT OF HYDROPHILIC HERBAL GEL FOR XEROSIS",
+      "date": "17.06.2022",
+      "app_no": "202221031565",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL POLYSACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP MILK",
+      "date": "17.06.2022",
+      "app_no": "202221031245",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A POLYSACCHARIDE RIBOSE STRUCTURE ISOLATED FROM GADDI SHEEP MILK",
+      "date": "17.06.2022",
+      "app_no": "202221031247",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Namrata Shrivastava",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "IMPACT OF FDI INFLOWS AND EXPORTS ON INDIAN ECONOMY",
+      "date": "17.06.2022",
+      "app_no": "202221031401",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Parakh Sehgal",
+      "faculty": "Faculty of Science",
+      "topic": "GLOWY THE SOAPY-NATURALLY HERB BASED SKIN GLOW ENHANCER SOAP",
+      "date": "17.06.2022",
+      "app_no": "202221031561",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shilpi Bhattacharya Ms. Anurima Das",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "APPLICATION ACCEPTED CERTIFICATE OF DESIGN NOT GENERATED",
+      "date": "15.06.2022",
+      "app_no": "366069-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Rajni Yadav",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "HERBAL COMPOSITION WITH ANTIMICROBIAL ACTIVITY",
+      "date": "10.06.2022",
+      "app_no": "202221030119",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sudeep Mandal",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "PHYTOCHEMICAL SCREENING, ANTIMICROBIAL, AND ANTIOXIDANT FREE RADICAL SCAVENGING ACTIVITY OF ORTHOSIPHON PALLIDUS",
+      "date": "15.04.2022",
+      "app_no": "20011020408",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sushma Dubey",
+      "faculty": "Faculty of Science",
+      "topic": "PRODUCTION AND CHARACTERIZATION OF ENZYME FROM DIFFERENT FUNGAL SPECIES ISOLATED FROM BIODETERIORATED PAINTING OF JOGIMARA CAVE: A BIOTECHNOLOGICAL ASPECT",
+      "date": "14.01.2022",
+      "app_no": "202121041555",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shilpi Shrivastava",
+      "faculty": "Faculty of Science",
+      "topic": "HEAVY METAL CONTAMINATION DETECTING GLOVES",
+      "date": "10.01.2022",
+      "app_no": "356425-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "SECURE COMMUNICATION FOR IOT HEALTHCARE SYSTEM USING SIDECHAIN AND TRUST BASED ROUTING",
+      "date": "10.12.2021",
+      "app_no": "202121056329",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "AUGMENTATION OF E-VOTING INFORMATION IN SIDE CHAINS USING MACHINE LEARNING: A HIGH PERFORMANCE SYSTEM DESIGN",
+      "date": "10.12.2021",
+      "app_no": "202121056328",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shilpi Bhattacharya",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "INDIVIDUAL MORAL THINKING TOWARDS ENVIRONMENT ISSUES AND CONCERNS WITH SPECIAL REFERENCE TO THE NOVELS OF AMITAV CONCEPT THROUGH ATTAINMENT MODEL",
+      "date": "26.11.2021",
+      "app_no": "202121041552",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Monika Sethi",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "EXPERIENTIAL LEARNING FOR ENHANCING LEADERSHIP SKILLS IN GRADUATE AND UNDERGRADUATE STUDENTS OF MANAGEMENT",
+      "date": "26.11.2021",
+      "app_no": "202121041550",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Monika Sethi",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "TOTAL QUALITY MANAGEMENT (TQM)AND TOTAL PRODUCTIVE MAINTENANCE (TPM) IN LIVE PROJECTS OF GRADUATE STUDENTS OF MANAGEMENT",
+      "date": "26.11.2021",
+      "app_no": "202121041548",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Monika Sethi",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "EXPERIENTIAL LEARNING FOR CAREER DEVELOPMENT TRAINING FOR MANAGEMENT STUDENTS",
+      "date": "26.11.2021",
+      "app_no": "202121041558",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. R Sridhar",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "DRIVING EXPERIENCE SIMULATION OF TWO WHEELER AND FOUR WHEELER",
+      "date": "26.11.2021",
+      "app_no": "202121041553",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. R Sridhar",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "UNIQUE BUSINESS PROCESS",
+      "date": "26.11.2021",
+      "app_no": "202121041557",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "REVIEWING OF ORGANIZATION DEVELOPMENT INTERVENTIONS IN ORGANIZATIONS",
+      "date": "26.11.2021",
+      "app_no": "202121041559",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "STRATEGIC HUMAN RESOURCE MANAGEMENT",
+      "date": "26.11.2021",
+      "app_no": "202121041547",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sandeep Mishra",
+      "faculty": "Faculty of Technology",
+      "topic": "IMAGE PROCESSING DETECT THE FACE AND DISPLAY THE REQUIRED OUTPUT INFORMATION",
+      "date": "26.11.2021",
+      "app_no": "202121041556",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Honey Gaur",
+      "faculty": "Faculty of Technology",
+      "topic": "DESIGN OF PERFORMANCE BASED CONCRETE USING SAND RECLAIMED FROM CONSTRUCTION AND DEMOLITION WASTE",
+      "date": "26.11.2021",
+      "app_no": "202121041551",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Rajni Yadav",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DEVELOPMENT OF COFFEE TABLET FOR ITS SKIN REJUVENATING EFFECT",
+      "date": "26.11.2021",
+      "app_no": "202121041554",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL POLYSACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (NATIONAL)",
+      "date": "19.11.2021",
+      "app_no": "202121038593",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL DECCA SACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (NATIONAL)",
+      "date": "19.11.2021",
+      "app_no": "202121035935",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL POLYSACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (NATIONAL)",
+      "date": "19.11.2021",
+      "app_no": "202121035936",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr.Sunil Kumar",
+      "faculty": "Faculty of Technology",
+      "topic": "INTERNET ENABLED SINGLE LINE ELECTRICITY DISTRIBUTION & SYSTEM",
+      "date": "03.09.2021",
+      "app_no": "202121037967",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL POLYSACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (INTERNATIONAL)",
+      "date": "25.08.2021",
+      "app_no": "2021107484",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "SMART REFRIGERATOR USING IOT AND INTELLIGENT CLOUD FOR LIFE EXPEDIENCE",
+      "date": "24.08.2021",
+      "app_no": "2021106924",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL POLYSACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (INTERNATIONAL)",
+      "date": "23.08.2021",
+      "app_no": "2021106544",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL TRISACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK AND THEIR BIOACTIVE PROPERTIES (INTERNATIONAL)",
+      "date": "21.08.2021",
+      "app_no": "2021106363",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL DECCA SACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (INTERNATIONAL)",
+      "date": "09.08.2021",
+      "app_no": "2021106439",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL TRISACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (INTERNATIONAL)",
+      "date": "30.07.2021",
+      "app_no": "2021106392",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "THE BIOLOGICAL IMPORTANCE OF GADDI SHEEP'S MILK OLIGOSACCHARIDES (INTERNATIONAL)",
+      "date": "29.07.2021",
+      "app_no": "2021104729",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL TRISACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK AND THEIR BIOACTIVE PROPERTIES (NATIONAL)",
+      "date": "26.07.2021",
+      "app_no": "202121033474",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "A NOVEL TRISACCHARIDE STRUCTURE ISOLATED FROM GADDI SHEEP'S MILK (NATIONAL)",
+      "date": "26.07.2021",
+      "app_no": "202121034415",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Deependra Soni",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "NOVEL PHYTOACTIVE EXTRACTS BASED FORMULATIONS OF HELICTERES ISORA FOR MUSCULAR AND NERVINE DISORDERS",
+      "date": "11.06.2021",
+      "app_no": "201921050710",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "IOT BASED DEVICE FOR SOCIAL DISTANCING TO STOP SPREADING CORONAVIRUS",
+      "date": "16.05.2021",
+      "app_no": "2021102602",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "SCALABLE DATA PROCESSING FOR PREDICTION, BATCH COMPUTATION AND ANALYSIS AND RESPONSE TIMES USING GOOGLE BIGQUERY",
+      "date": "16.04.2021",
+      "app_no": "202121015868",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "REMOVAL OF ENVIRONMENTAL POLLUTION BY ENHANCING GROWTH OF TRICHODERMA USING OLIGOSACCHARIDES EXTRACTED FROM GADDI SHEEP'S MILK",
+      "date": "25.03.2021",
+      "app_no": "2021101308",
+      "status": "Grant"
+    },
+    {
+      "inventor": "Mr. Om Prakash Dewangan",
+      "faculty": "Faculty of Technology",
+      "topic": "STRESS AND EMOTIONS DETECTING CAP",
+      "date": "08.03.2021",
+      "app_no": "340329-001",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "AES AND RSA-BASED HYBRID ALGORITHMS FOR MESSAGE ENCRYPTION & DECRYPTION",
+      "date": "26.02.2021",
+      "app_no": "202121007215",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Asha Ambhaikar",
+      "faculty": "Faculty of Technology",
+      "topic": "BIG DATA SECURITY ENHANCEMENT BASED INTRUSION DETECTION SYSTEM USING K-MEAN CLUSTERING OF DECOMPOSITED FEATURES",
+      "date": "12.02.2021",
+      "app_no": "202121004801",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Paritosh Dube",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "ADVANCED SUPPLY CHAIN LINK PERFORMANCE AND FINANCIAL STATEMENT ANALYZER",
+      "date": "22.01.2021",
+      "app_no": "202021055414",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Rahul Mishra",
+      "faculty": "Faculty of Technology",
+      "topic": "INTELLIGENT DATASET DISCOVERY IN DATA ANALYTICS AND MACHINE LEARNING ALGORITHM",
+      "date": "22.01.2021",
+      "app_no": "202021055415",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shilpi Shrivastava",
+      "faculty": "Faculty of Science",
+      "topic": "INTELLIGENT METHOD AND PROCESS TO EXTRACTION OF SILICA FROM RICE HULLS",
+      "date": "22.01.2021",
+      "app_no": "202021055416",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Sudeep Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "HERBAL DISINFECTANT (LIQUID, POWDER, SEMI- LIQUID) FOR PANDEMIC CONDITION (COVID19)",
+      "date": "22.01.2021",
+      "app_no": "202021055417",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mrs. Shobha Singh Thakur",
+      "faculty": "Faculty of Law",
+      "topic": "ANALYSIS OF THE VARIOUS SCHOOLS OF THOUGHT IN RELATION TO THE MEANING OF LAW",
+      "date": "22.01.2021",
+      "app_no": "202021055418",
+      "status": "Published"
+    },
+    {
+      "inventor": "Mr. Rahul Chawda",
+      "faculty": "Faculty of IT",
+      "topic": "ADVANCED MOBILE AD HOC NETWORK (MANET) PROVIDING CONNECTIVITY ENHANCEMENT SYSTEM",
+      "date": "22.01.2021",
+      "app_no": "202021055419",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. M.S. Mishra",
+      "faculty": "Faculty of Arts & Humanities",
+      "topic": "HUMAN ACTIVITY RECOGNITION USING SMARTPHONE",
+      "date": "22.01.2021",
+      "app_no": "202021055420",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Harsha Patil",
+      "faculty": "Faculty of Education",
+      "topic": "ADVANCED QUANTUM COMPUTING INTEGRATED DEVELOPMENT EDUCATION ENVIRONMENT USING IOT-BASED SYSTEM",
+      "date": "22.01.2021",
+      "app_no": "202021055421",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "THE BIOLOGICAL IMPORTANCE OF GADDI SHEEP'S MILK OLIGOSACCHARIDES (NATIONAL)",
+      "date": "01.01.2021",
+      "app_no": "202021051972",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Sanyogita Shahi",
+      "faculty": "Faculty of Science",
+      "topic": "GADDI SHEEP'S MILK OLIGOSACCHARIDES; IMPLEMENTATION ON ENVIRONMENT",
+      "date": "01.01.2021",
+      "app_no": "202021051896",
+      "status": "Published"
+    },
+    {
+      "inventor": "Suman Kumar Swarnkar",
+      "faculty": "Faculty of Technology",
+      "topic": "OPTIMIZED CONVOLUTION NEURAL NETWORK (OCNN) FOR VOICE-BASED SIGN LANGUAGE RECOGNITION: OPTIMIZATION & REGULARIZATION",
+      "date": "31.07.2020",
+      "app_no": "202021030006",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Rahul Mishra\n Dr. Ruchi Chandrakar",
+      "faculty": "Faculty of Engineering",
+      "topic": "AI Based Humanoid Robot for Surveillance and Security",
+      "date": "17.07.2025",
+      "app_no": "455109-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Jharna Maiti",
+      "faculty": "Faculty of Science",
+      "topic": "Biosensor-based Detection Device for Cancerous Cells",
+      "date": "07.07.2025",
+      "app_no": "6442561",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Chandra Kumar Sahu\n Ms. Soma Rajwade",
+      "faculty": "Faculty of Engineering",
+      "topic": "INTEGRATING MACHINE LEARNING WITH TRAVELING SALESMAN PROBLEM (TSP) FOR INTELLIGENT ROUTE OPTIMIZATION IN SMART CITIES",
+      "date": "23.05.2025",
+      "app_no": "202541041213",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Swapnil Shukla\n Shailesh Singh Thakur",
+      "faculty": "Faculty of Engineering",
+      "topic": "FOLDABLE CRUCIBLE TRAY FOR SINTERING IN FURNACES",
+      "date": "28.04.2025",
+      "app_no": "423700-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Ashutosh Pandey\n Dr. Swati Agrawal\n Ms. Soumya Pandey\n Ms. Madhu Sahu\n Dr. E V R Rao",
+      "faculty": "Faculty of Engineering",
+      "topic": "AI-OPTIMIZED METHOD AND SYSTEM FOR RECYCLED AGGREGATE CONCRETE MIX DESIGN",
+      "date": "18.04.2025",
+      "app_no": "202521033496",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Vaishali Sinha",
+      "faculty": "Faculty of Science",
+      "topic": "SELF-EVOLVING MACHINE LEARNING ALGORITHMS FOR PERSONALIZED CYBERSECURITY THREAT DETECTION",
+      "date": "04.04.2025",
+      "app_no": "202531022070",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Lubhawani Tripathi",
+      "faculty": "Faculty of Education",
+      "topic": "AI BASED DISPLAY COMPUTER DEVICE FOR ONLINE LEARNING AND MANAGEMENT",
+      "date": "31.03.2025",
+      "app_no": "6418242",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Ashok Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DEVICE FOR DEVELOPING TRANSDERMAL PATCHES FOR DIABETES",
+      "date": "28.03.2025",
+      "app_no": "447173-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Saroj Nayyar",
+      "faculty": "Faculty of Education",
+      "topic": "BIOMETRIC ATTENDANCE DEVICE WITH TOUCH FREE BODY TEMPERATURE SCREENING",
+      "date": "26.03.2025",
+      "app_no": "446258-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Pradeep Kumar",
+      "faculty": "Faculty of Science",
+      "topic": "Engineered Bacteria For Rapid Detection of Pathogenic Contaminants in Food",
+      "date": "11.03.2025",
+      "app_no": "202541022068",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Abhishek Sahu",
+      "faculty": "Faculty of Engineering",
+      "topic": "VERSATILE VIBRATION SETUP FOR MEASURING FREQUENCIES OF PLATES UNDER VARIOUS BOUNDARY CONDITIONS",
+      "date": "27.01.2025",
+      "app_no": "432063-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Jayakumar Rajamani\n Dharneesh Kumar\n Cipra Sahu",
+      "faculty": "Faculty of Science",
+      "topic": "Repurposing magnets from obsolete wired earphones as Magnetic concentrator to separate metals from other wastes in domestic environs.",
+      "date": "24.01.2025",
+      "app_no": "202421101611",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shraddha Varma",
+      "faculty": "Faculty of Education",
+      "topic": "HIGHER EDUCATION INSTITUTION'S QUALITY ANALYZER DEVICE",
+      "date": "23.01.2025",
+      "app_no": "417655-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik",
+      "faculty": "EVALUATING FOREIGN MARKET ENTRY MODES: COMPARATIVE ANALYSIS OF EXPORTING, JOINT VENTURES, AND DIRECT INVESTMENT",
+      "topic": "15.08.2025",
+      "date": "202521000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik",
+      "faculty": "EFFECTIVE BUSINESS COMMUNICATION IN THE DIGITAL AGE: STRATEGIES FOR SUCCESS",
+      "topic": "30.08.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Nishtha Sharma",
+      "faculty": "A METHOD FOR OPTIMIZING RESOURCE ALLOCATION USING MACHINE LEARNING ALGORITHMS",
+      "topic": "25.10.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Shinki Katyayani Pandey",
+      "faculty": "A SYSTEM OF PERSONALIZED MARKETING AUTOMATION PLATFORM FOR RETAIL BUSINESSES",
+      "topic": "18.10.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Nishtha Sharma",
+      "faculty": "A SYSTEM OF AI-BASED FRAUD DETECTION AND PREVENTION IN FINANCIAL",
+      "topic": "18.10.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik\nMr. Rakshak Bharti",
+      "faculty": "A SYSTEM OF DECENTRALIZED LEDGER TECHNOLOGY FOR TRANSPARENT AND TRUSTWORTHY FINANCIAL",
+      "topic": "18.10.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Arvind Kumar Saxena",
+      "faculty": "INTELLIGENT BUSINESS MANAGEMENT SYSTEM AND METHOD THEREOF",
+      "topic": "14.06.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dawakit Lepcha\nMr. Rakshak Bharti",
+      "faculty": "ANALYSIS OF SOCIAL MEDIA MARKETING IMPACT ON CONSUMER BEHAVIOUR",
+      "topic": "11.10.2024",
+      "date": "202431000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mr. Rakshak Bharti\nDr. Deepti Patnaik",
+      "faculty": "AN INTELLIGENT ALGORITHMIC TRADING SYSTEM FOR ENHANCED FINANCIAL DECISION MAKING",
+      "topic": "11.10.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Nishtha Sharma",
+      "faculty": "A SYSTEM OF SECURE MULTI-FACTOR AUTHENTICATION FRAMEWORK FOR FINANCIAL TRANSACTIONS",
+      "topic": "11.10.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Shinki Katyayani Pandey",
+      "faculty": "A SYSTEM OF BLOCKCHAIN-BASED TOKENIZATION OF ASSETS FOR EFFICIENT FINANCIAL TRANSACTIONS",
+      "topic": "11.10.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Kanchan Thakur",
+      "faculty": "THE INFLUENCER MARKETING EFFECT ON GENERATION Z'S PRODUCT BUYING BEHAVIOR",
+      "topic": "09.10.2024",
+      "date": "202431000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Ankita Nihlani",
+      "faculty": "AN AUTONOMOUS VEHICLE NAVIGATION SYSTEM WITH REAL-TIME OBSTACLE DETECTION AND ADAPTIVE ROUTE OPTIMIZATION",
+      "topic": "08.11.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Ankita Nihlani",
+      "faculty": "AN AI-DRIVEN TALENT ACQUISITION AND WORKFORCE OPTIMIZATION SYSTEM",
+      "topic": "08.11.2024",
+      "date": "202421000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik",
+      "faculty": "ALGORITHM FOR REAL-TIME ECONOMIC FORECASTING AND ANALYSIS",
+      "topic": "04.06.2024",
+      "date": "202441000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Ms. Nishtha Sharma",
+      "faculty": "THE IMPACT ADVERTISING RESEARCH PRACTICES ON THE ADVERTISING PERFORMANCE OF COMPANIES",
+      "topic": "22.12.2023",
+      "date": "202321000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Nishtha Sharma",
+      "faculty": "INNOVATIVE TECHNIQUE TO EXPORT INDIAN COMMODITIES TO OTHER COUNTRIES BY IMPLEMENTING NOVEL SUPPLY CHAIN PROCESS",
+      "topic": "20.10.2023",
+      "date": "202321000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Ms. Shinki K. Pandey",
+      "faculty": "VAR MODEL FOR MEASURING CRYPTOCURRENCY VOLATILITY",
+      "topic": "19.05.2023",
+      "date": "202321000000",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. R Shridhar",
+      "faculty": "DRIVING EXPERIENCE SIMULATION OF TWO WHEELERS AND FOUR WHEELER",
+      "topic": "26.11.2021",
+      "date": "202121041553",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. R Shridhar",
+      "faculty": "UNIQUE BUSSINESS PROCESS",
+      "topic": "26.11.2021",
+      "date": "202121041557",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "REVIEWING OF ORGANIZATION DEVELOPMENT INTERVENTIONS IN ORGANIZATIONS.",
+      "topic": "26.11.2021",
+      "date": "202121041559",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "STRATEGIC HUMAN RESOURCE MANAGEMENT",
+      "topic": "26.11.2021",
+      "date": "202121041547",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Paritosh Dube",
+      "faculty": "ADVANCED SUPPLY CHAIN LINK PERFORMANCE AND FINANCIAL STATEMENT ANALYZER",
+      "topic": "22.01.2021",
+      "date": "202021055414",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "PERFORMANCE APPRAISAL SYSTEMS",
+      "topic": "24.06.2022",
+      "date": "202221032546",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "TRAINING NEED ANALYSIS",
+      "topic": "24.06.2022",
+      "date": "202221032545",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. R. Shridhar",
+      "faculty": "HERBAL GEL DIFFUSER FOR NASAL DECONGESTION",
+      "topic": "24.06.2022",
+      "date": "202221032552",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik",
+      "faculty": "EVALUATING FOREIGN MARKET ENTRY MODES: COMPARATIVE ANALYSIS OF EXPORTING, JOINT VENTURES, AND DIRECT INVESTIMENT",
+      "topic": "15.08.2025",
+      "date": "202521073661",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik",
+      "faculty": "EFFECTIVE BUSINESS COMMUNICATION IN THE DIGITAL AGE: STRATEGIES FOR SUCCESS",
+      "topic": "30.08.2024",
+      "date": "202421059448",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Nishta Sharma",
+      "faculty": "A METHOD FOR OPTIMIZING RESOURCE ALLOCATION USING MACHINE LEARNING ALGORITHMS",
+      "topic": "25.10.2024",
+      "date": "202421069399",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Shinki Katyayani Pandey",
+      "faculty": "A SYSTEM OF PERSONALIZED MARKETING AUTOMATION PLATFORM FOR RETAIL BUSINESSES",
+      "topic": "18.10.2024",
+      "date": "202421068222",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Nishtha Sharma",
+      "faculty": "A SYSTEM OF AI-BASED FRAUD DETECTION AND PREVENTION IN FINANCIAL",
+      "topic": "18.10.2024",
+      "date": "202421068223",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik\nMr. Rakshak Bharti",
+      "faculty": "A SYSTEM OF DECENTRALIZED LEDGER TECHNOLOGY FOR TRANSPARENT AND TRUSTWORTHY FINANCIAL",
+      "topic": "18.10.2024",
+      "date": "202421068224",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Arvind Kumar Saxena",
+      "faculty": "INTELLEGENT BUSINESS MANAGEMENT SYSTME AND METHOD THEREOF",
+      "topic": "14.06.2024",
+      "date": "202421037523",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dawakit Lepcha\nMr. Rakshak Bharti",
+      "faculty": "ANALYSIS OF SOCIAL MEDIA MARKETING IMPACT ON CONSUMER BEHAVIOUR",
+      "topic": "11.10.2024",
+      "date": "202431074477",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mr. Rakshak Bharti\nDr. Deepti Patnaik",
+      "faculty": "AN INTELLIGENT ALGORITHMIC TRADING SYSTEM FOR ENHANCED FINANCIAL DECISION MAKING",
+      "topic": "11.10.2024",
+      "date": "202421067525",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. NIshtha Sharma",
+      "faculty": "A SYSTEM OF SECURE MULTI-FACTOR AUTHENTICATION FRAMEWORK FOR FINANCIAL TRANSACTIONS",
+      "topic": "11.10.2024",
+      "date": "202421067530",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Shinki Katyayani Pandey",
+      "faculty": "A SYSTEM OF BLOCKCHAIN-BASED TOKENIZATION OF ASSETS FOR EFFICIENT FINANCIAL TRANSACTIONS",
+      "topic": "11.10.2024",
+      "date": "202421067531",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Kanchan Thakur",
+      "faculty": "THE INFLUENCER MARKETING EFFECT ON GENERATION Z'S PRODUCT BUYING BEHAVIOR",
+      "topic": "09.10.2024",
+      "date": "202431076450",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Ankita Nihlani",
+      "faculty": "AN AUTONOMOUS VEHICLE NAVIGATION SYSTEM WITH REAL-TIME OBSTACLE DETECTION AND ADAPTIVE ROUTE\nOPTIMIZATION",
+      "topic": "08.11.2024",
+      "date": "202421075437",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Ankita Nihlani",
+      "faculty": "AN AI-DRIVEN TALENT ACQUISITION AND WORKFORCE OPTIMIZATION SYSTEM",
+      "topic": "08.11.2024",
+      "date": "202421075441",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Deepti Patnaik",
+      "faculty": "ALORITHM FOR REAL-TIME ECONOMIC FORECASTING AND ANALYISIS",
+      "topic": "04.06-2024",
+      "date": "202441035498",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Ms. Nishtha Sharma",
+      "faculty": "THE IMPACT ADVERTISING RESEARCH PRACTICES ON THE ADVERTISING PERFORMANCE OF COMPANIES",
+      "topic": "22.12.2023",
+      "date": "202321072106",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Mrs. Nishtha Sharma",
+      "faculty": "INNOVATIVE TECHNIQUE TO EXPORT INDIAN COMMODITIES TO OTHER COUNTRIES BY IMPLEMENTING NOVEL SUPPLY CHAIN PROCESS.",
+      "topic": "20.10.2023",
+      "date": "202321063192",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Ms. Shinki K. Pandey",
+      "faculty": "VAR MODEL FOR MEASURING CRPTOCURRENCY VOLATILITY.",
+      "topic": "19.05.2023",
+      "date": "202321006078",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "PERFORMANCE APPRAISAL SYSTEMS",
+      "topic": "24.06.2022",
+      "date": "202221032546",
+      "app_no": "",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "TRAINING NEED ANALYSIS",
+      "topic": "24.06.2022",
+      "date": "202221032545",
+      "app_no": "",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. R. Shridhar",
+      "faculty": "HERBAL GEL DIFFUSER FOR NASAL DECONGESTION",
+      "topic": "24.06.2022",
+      "date": "202221032552",
+      "app_no": "",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Byju John",
+      "faculty": "STRATEGIC HUMAN RESOURCE MANGEMENT",
+      "topic": "26.11.2021",
+      "date": "202121041547",
+      "app_no": "Published",
+      "status": ""
+    },
+    {
+      "inventor": "Dr. Shraddha Varma",
+      "faculty": "Faculty of Education",
+      "topic": "HIGHER EDUCATION INSTITUTION'S QUALITY ANALYZER DEVICE",
+      "date": "23.01.2025",
+      "app_no": "417655-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Lubhawani Tripathi",
+      "faculty": "Faculty of Education",
+      "topic": "AI BASED DISPLAY COMPUTER DEVICE FOR ONLINE LEARNING AND MANAGEMENT",
+      "date": "31.03.2025",
+      "app_no": "6418242",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Ashutosh Pandey\nDr. Swati Agrawal\nMs. Soumya Pandey\nMs. Madhu Sahu\nDr. E V R Rao",
+      "faculty": "Faculty of Engineering",
+      "topic": "AI-OPTIMIZED METHOD AND SYSTEM FOR RECYCLED AGGREGATE CONCRETE MIX DESIGN",
+      "date": "18.04.2025",
+      "app_no": "202521033496",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Swapnil Shukla\nShailesh Singh Thakur",
+      "faculty": "Faculty of Engineering",
+      "topic": "FOLDABLE CRUCIBLE TRAY FOR SINTERING IN FURNACES",
+      "date": "28.04.2025",
+      "app_no": "423700-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Jayakumar Rajamani\nDharneesh Kumar\nCipra Sahu",
+      "faculty": "Faculty of Science",
+      "topic": "Repurposing magnets from obsolete wired earphones as Magnetic concentrator to separate metals from other wastes in domestic environs.",
+      "date": "24.01.2025",
+      "app_no": "202421101611",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Pradeep Kumar",
+      "faculty": "Faculty of Science",
+      "topic": "Engineered Bacteria For Rapid Detection of Pathogenic Contaminats in Food",
+      "date": "11.03.2025",
+      "app_no": "202541022068",
+      "status": "Published"
+    },
+    {
+      "inventor": "Ms. Vaishali Sinha",
+      "faculty": "Faculty of Science",
+      "topic": "SELF-EVOLVING MACHINE LEARNING ALGORITHMS FOR PERSONALIZED CYBERSECURITY THREAT DETECTION",
+      "date": "04.04.2025",
+      "app_no": "202531022070",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Saroj Nayyar",
+      "faculty": "Faculty of Education",
+      "topic": "BIOMETRIC ATTENDANCE DEVICE WITH TOUCH FREE BODY TEMPERATURE SCREENING",
+      "date": "26.03.2025",
+      "app_no": "446258-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Ashok Kumar",
+      "faculty": "Faculty of Pharmacy",
+      "topic": "DEVICE FOR DEVELOPING TRANSDERMAL PATCHES FOR DIABETES",
+      "date": "28.03.2025",
+      "app_no": "447173-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Abhishek Sahu",
+      "faculty": "Faculty of Engineering",
+      "topic": "VERSATILE VIBRATION SETUP FOR MEASURING FREQUENCIES OF PLATES UNDER VARIOUS BOUNDARY CONDITIONS",
+      "date": "27.01.2025",
+      "app_no": "432063-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Chandra Kumar Sahu\nMs. Soma Rajwade",
+      "faculty": "Faculty of Engineering",
+      "topic": "INTEGRATING MACHINE LEARNING WITH TRAVELING SALESMAN PROBLEM (TSP) FOR INTELLIGENT ROUTE OPTIMIZATION IN SMART CITIES",
+      "date": "23.05.2025",
+      "app_no": "202541041213",
+      "status": "Published"
+    },
+    {
+      "inventor": "Jharna Maiti",
+      "faculty": "Faculty of Science",
+      "topic": "Biosensor-based Detection Device for Cancerous Cells",
+      "date": "07.07.2025",
+      "app_no": "6442561",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Dr. Rahul Mishra\nDr. Ruchi Chandrakar",
+      "faculty": "Faculty of Engineering",
+      "topic": "AI Based Humanoid Robot for Surveillance and Security",
+      "date": "17.07.2025",
+      "app_no": "455109-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mrs. Deepti Patnaik",
+      "faculty": "Faculty of CS & IT",
+      "topic": "Algorithm for real time economic forecasting and analysis",
+      "date": "04.05.2024",
+      "app_no": "202441035498",
+      "status": "Published"
+    },
+    {
+      "inventor": "Dr. Shraddha Verma          Dr. Lubhawani tripathi Hersha Sharma                   Mr. Gulshan Kumar Behra",
+      "faculty": "Faculty of Education",
+      "topic": "Device to identify student altertness",
+      "date": "18.04.2024",
+      "app_no": "406453-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Saroj Nayyar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "DEVICE FOR ENHANCING COMPUTER NETWORK SAFETY",
+      "date": "10.06.2024",
+      "app_no": "410051-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Praveen Kumar Yadav",
+      "faculty": "Faculty of Science",
+      "topic": "REMOTE HEALTH MONITORING WITH BLE CAPABILITY FOR COVID-19 DOCTORS MANAGEMENT",
+      "date": "31.05.2024",
+      "app_no": "202441040940",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Zubair Ahmed Khan           Dr. Asha Ambarkar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "IOT BASED WIRELESS SENSOR NODES FOR NETWORK SECURITY",
+      "date": "09.05.2024",
+      "app_no": "409715-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Saroj Nayyar",
+      "faculty": "Faculty of CS & IT",
+      "topic": "ROBOTIC ARM FOR TEACHING PURPOSE",
+      "date": "14.06.2024",
+      "app_no": "418866-001",
+      "status": "Grant Design"
+    },
+    {
+      "inventor": "Mr. Tushar Ranjan Barik",
+      "faculty": "Faculty of Commerce & Management",
+      "topic": "An Analysis of Environmental Sustainability and Its Impact on Corporate Performance",
+      "date": "18.10.2024",
+      "app_no": "202411076923",
+      "status": "Published"
+    }
+  ]
+}

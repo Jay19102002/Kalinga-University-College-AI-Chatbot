@@ -1,0 +1,109 @@
+{
+  "total_programs_advertised": "130+",
+  "disclaimer": "The chatbot knowledge base contains selected programs from the available source material. For the complete current list, please check the official departments/programs page.",
+  "faculties": [
+    {
+      "faculty": "Arts & Humanities",
+      "programs": [
+        "BA in Liberal Arts with PSC Coaching",
+        "BA (PSC Coaching)",
+        "MA",
+        "MSW with PSC Coaching",
+        "BSW with PSC Coaching",
+        "MA (Journalism & Mass Communication) with PSC Coaching",
+        "BA (Journalism & Mass Communication) with PSC Coaching",
+        "MA Film Making"
+      ]
+    },
+    {
+      "faculty": "Commerce & Management",
+      "programs": [
+        "BBA",
+        "B.Com",
+        "B.Com (Honours)",
+        "M.Com",
+        "MBA"
+      ]
+    },
+    {
+      "faculty": "Education",
+      "programs": [
+        "B.Ed",
+        "B.P.Ed",
+        "M.Ed"
+      ]
+    },
+    {
+      "faculty": "Hotel Management",
+      "programs": [
+        "B.Sc Hotel Management",
+        "Diploma in Hotel Management",
+        "Hospitality & Tourism Management"
+      ]
+    },
+    {
+      "faculty": "Information Technology",
+      "programs": [
+        "BCA",
+        "BCA in Artificial Intelligence & Machine Learning",
+        "BCA in Game Development with AI",
+        "MCA"
+      ]
+    },
+    {
+      "faculty": "Law",
+      "programs": [
+        "Bachelor of Law (LLB)",
+        "Integrated BBA + LLB",
+        "Integrated BA + LLB",
+        "Master of Laws (LLM)"
+      ]
+    },
+    {
+      "faculty": "Pharmacy",
+      "programs": [
+        "Bachelor of Pharmacy (B.Pharm)",
+        "Diploma in Pharmacy (D.Pharm)",
+        "Doctor of Pharmacy (Pharm.D)"
+      ]
+    },
+    {
+      "faculty": "Science",
+      "programs": [
+        "B.Sc / M.Sc in Biochemistry",
+        "Bioinformatics",
+        "Biotechnology",
+        "Forensic Science",
+        "Microbiology",
+        "PCM",
+        "Zoology-Botany-Chemistry"
+      ]
+    },
+    {
+      "faculty": "Technology / Engineering",
+      "programs": [
+        "B.Tech in Computer Science Engineering (CSE)",
+        "B.Tech in CSE (AI & ML)",
+        "B.Tech in Civil Engineering",
+        "B.Tech in Electrical Engineering",
+        "B.Tech in Mechanical Engineering",
+        "Diploma in Engineering"
+      ]
+    },
+    {
+      "faculty": "Ph.D. Doctoral Studies",
+      "programs": [
+        "Ph.D. in Management",
+        "Ph.D. in Computer Science",
+        "Ph.D. in Law",
+        "Ph.D. in Pharmacy",
+        "Ph.D. in Science",
+        "Ph.D. in Humanities"
+      ]
+    }
+  ],
+  "source": {
+    "title": "Kalinga University Departments",
+    "url": "https://kalingauniversity.ac.in/departments"
+  }
+}

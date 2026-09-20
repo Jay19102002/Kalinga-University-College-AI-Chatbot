@@ -1,0 +1,76 @@
+{
+  "recruitment_partners_claim": "400+",
+  "crt_details": "Campus Recruitment Training (CRT) is a 100-hour program covering attitude, quantitative aptitude, reasoning, mock interviews, role plays, case studies, practice tests, and individual feedback.",
+  "published_individual_examples": [
+    {
+      "program": "LLM",
+      "student": "Ankita Shrivastava",
+      "company": "Cornerstone",
+      "package": "\u20b933 LPA"
+    },
+    {
+      "program": "B.Tech",
+      "student": "Shubham Sharma",
+      "company": "Oracle",
+      "package": "\u20b929.98 LPA"
+    },
+    {
+      "program": "MCA",
+      "student": "Bidyasagar Pradhan",
+      "company": "Ascendion",
+      "package": "\u20b917.50 LPA"
+    },
+    {
+      "program": "B.Sc Fashion Designing",
+      "student": "Khushi Rai",
+      "company": "Air India",
+      "package": "\u20b912 LPA"
+    }
+  ],
+  "package_qualification": "Kalinga University's published examples include an LLM placement at Cornerstone with a reported \u20b933 LPA CTC and B.Tech at Oracle with \u20b929.98 LPA. These are individual published placement examples and should not be interpreted as a guaranteed package or average salary for all students.",
+  "historical_brochure_data": {
+    "status": "historical",
+    "year": "Older brochure archive",
+    "recruiters": 121,
+    "students_placed": "1,100+",
+    "placement_rate": "73.82%",
+    "highest_domestic_ctc": "\u20b910 LPA",
+    "average_ctc": "\u20b92.30 LPA",
+    "note": "These historical brochure statistics belong to a past academic period and must not be confused with current 2026-27 statistics."
+  },
+  "recruiters": [
+    "Infosys",
+    "Capgemini",
+    "Airtel",
+    "Amul",
+    "Cipla",
+    "Wipro",
+    "Adani",
+    "Bosch",
+    "Biocon",
+    "Apollo",
+    "Axis Bank",
+    "Cognizant",
+    "Suzuki",
+    "Himalaya",
+    "Decathlon",
+    "Godrej",
+    "Genpact",
+    "HDFC Bank",
+    "Jio",
+    "Justdial",
+    "LG",
+    "Nestle",
+    "SAIL",
+    "Tata Motors",
+    "Tech Mahindra",
+    "UltraTech",
+    "Cisco",
+    "IBM"
+  ],
+  "recruiter_qualification": "Companies appearing in the university's published recruiter information represent organizations that have participated in recruitment drives; recruiting participation may vary by year and program.",
+  "source": {
+    "title": "Kalinga University Training & Placements",
+    "url": "https://kalingauniversity.ac.in/training-and-placements"
+  }
+}

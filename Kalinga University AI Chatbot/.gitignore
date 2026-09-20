@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.pytest_cache/
+
+# Preserve trained NLP models (needed to run out of the box)
+!backend/models/*.joblib
+
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+*.log
+.env
+

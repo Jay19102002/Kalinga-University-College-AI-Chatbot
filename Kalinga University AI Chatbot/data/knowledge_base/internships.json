@@ -1,0 +1,40 @@
+{
+  "overview": "Kalinga University promotes both on-campus and off-campus internship programs to give students practical industry exposure prior to graduation.",
+  "six_month_co_e_initiative": "A 6-month industry-exposure initiative in emerging technologies including AI, Machine Learning, Robotics, Drones, and Python through Centre of Excellence collaboration.",
+  "activities": [
+    "Industrial visits",
+    "Workshops",
+    "Masterclasses",
+    "Guest lectures",
+    "Hackathons",
+    "Ideathons",
+    "Value-added certification courses"
+  ],
+  "disclaimer": "These are published examples of student internships. They do not constitute a guarantee that every student receives an internship at those exact organizations.",
+  "examples": [
+    {
+      "student": "Aditi Singh",
+      "program": "BBA",
+      "company": "Aditya Birla Fashion Retail Ltd."
+    },
+    {
+      "student": "Maryam Nasiru",
+      "program": "B.Pharm",
+      "company": "Artemis Hospital, Gurugram"
+    },
+    {
+      "student": "Nayna Chakhiyar",
+      "program": "B.Com B&F",
+      "company": "Tata Steel Ltd."
+    },
+    {
+      "student": "Trupti Ranjan Sahu",
+      "program": "MBA",
+      "company": "Aditya Birla Group"
+    }
+  ],
+  "source": {
+    "title": "Kalinga University Campus Life & Internships",
+    "url": "https://kalingauniversity.ac.in/campuslife"
+  }
+}

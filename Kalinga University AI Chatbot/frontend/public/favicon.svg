@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0f172a" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Outer Rounded Shield -->
+  <rect x="24" y="24" width="464" height="464" rx="100" fill="url(#bgGrad)" filter="url(#shadow)"/>
+  <rect x="28" y="28" width="456" height="456" rx="96" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="6"/>
+
+  <!-- Antenna -->
+  <line x1="256" y1="135" x2="256" y2="180" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="256" cy="135" r="16" fill="url(#cyanGrad)" stroke="#ffffff" stroke-width="4"/>
+
+  <!-- Bot Head -->
+  <rect x="156" y="180" width="200" height="145" rx="36" fill="#ffffff" filter="url(#shadow)"/>
+  
+  <!-- Visor -->
+  <rect x="176" y="198" width="160" height="108" rx="24" fill="#0f172a"/>
+  
+  <!-- Glowing Eyes -->
+  <circle cx="216" cy="252" r="18" fill="url(#cyanGrad)"/>
+  <circle cx="212" cy="246" r="5" fill="#ffffff"/>
+
+  <circle cx="296" cy="252" r="18" fill="url(#cyanGrad)"/>
+  <circle cx="292" cy="246" r="5" fill="#ffffff"/>
+
+  <!-- Ear Nods -->
+  <rect x="142" y="224" width="14" height="56" rx="7" fill="#60a5fa"/>
+  <rect x="356" y="224" width="14" height="56" rx="7" fill="#60a5fa"/>
+
+  <!-- Kalinga Badge -->
+  <rect x="166" y="356" width="180" height="42" rx="16" fill="#ffffff" filter="url(#shadow)"/>
+  <text x="256" y="385" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="20" fill="#1d4ed8" text-anchor="middle" letter-spacing="2">KALINGA AI</text>
+</svg>

@@ -1,0 +1,945 @@
+{
+  "total": 94,
+  "tables": [
+    {
+      "id": "10",
+      "title": "Patents 2024",
+      "category": "",
+      "department": "",
+      "rows": 348,
+      "columns": 8,
+      "headers": "S. No. | Name | Department | Topic | Date of Publication | Application No. | Status | Document",
+      "updated_at": "2026-01-10T07:15:16.971029Z"
+    },
+    {
+      "id": "100",
+      "title": "Research papers",
+      "category": "Research",
+      "department": "",
+      "rows": 1189,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /Others",
+      "updated_at": "2026-06-24T17:27:11.076916Z"
+    },
+    {
+      "id": "101",
+      "title": "Research papers 2023-24",
+      "category": "Research",
+      "department": "",
+      "rows": 1153,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /Others",
+      "updated_at": "2026-06-24T17:26:52.309544Z"
+    },
+    {
+      "id": "102",
+      "title": "Research Papers -2022-23",
+      "category": "Research",
+      "department": "",
+      "rows": 1300,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /Others",
+      "updated_at": "2026-06-23T17:26:29.947344Z"
+    },
+    {
+      "id": "103",
+      "title": "Research paper- 2021-22",
+      "category": "Research",
+      "department": "",
+      "rows": 873,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /Others",
+      "updated_at": "2026-06-24T17:23:33.081292Z"
+    },
+    {
+      "id": "104",
+      "title": "Research Papers-2020-21",
+      "category": "Research",
+      "department": "",
+      "rows": 66,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /Other",
+      "updated_at": "2026-06-24T17:21:48.430911Z"
+    },
+    {
+      "id": "105",
+      "title": "Research papers-19-20",
+      "category": "Research",
+      "department": "",
+      "rows": 90,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /Others",
+      "updated_at": "2026-06-24T17:20:18.125576Z"
+    },
+    {
+      "id": "106",
+      "title": "research papers-18-19",
+      "category": "Research",
+      "department": "",
+      "rows": 31,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /Others",
+      "updated_at": "2026-06-24T17:20:00.314298Z"
+    },
+    {
+      "id": "11",
+      "title": "Patents 2023",
+      "category": "Patents",
+      "department": "",
+      "rows": 83,
+      "columns": 8,
+      "headers": "S. No. | Name | Department | Topic | Date of Publication | Application No. | Status | Document",
+      "updated_at": "2026-01-10T07:16:22.224230Z"
+    },
+    {
+      "id": "12",
+      "title": "Patents 2022",
+      "category": "Patents",
+      "department": "",
+      "rows": 44,
+      "columns": 8,
+      "headers": "S. No. | Name | Department | Topic | Date of Publication | Application Number | Status | Document",
+      "updated_at": "2026-01-10T07:17:17.052080Z"
+    },
+    {
+      "id": "13",
+      "title": "Patents 2021",
+      "category": "Patents",
+      "department": "",
+      "rows": 44,
+      "columns": 8,
+      "headers": "S. No. | Name | Department | Topic | Date of Publication | Application Number | Status | Document",
+      "updated_at": "2026-01-10T07:17:37.279490Z"
+    },
+    {
+      "id": "14",
+      "title": "ipr-events-24-25",
+      "category": "",
+      "department": "",
+      "rows": 28,
+      "columns": 5,
+      "headers": "S. No. | Name of the Workshop/Seminar | No. of Participant | Date | Year",
+      "updated_at": "2026-01-10T09:58:03.256111Z"
+    },
+    {
+      "id": "15",
+      "title": "ipr-events-23-24",
+      "category": "",
+      "department": "",
+      "rows": 32,
+      "columns": 5,
+      "headers": "S. No. | Name of the Workshop/Seminar | No. of Participant | Date | Year",
+      "updated_at": "2026-01-10T09:59:14.110346Z"
+    },
+    {
+      "id": "16",
+      "title": "ipr-events-22-23",
+      "category": "",
+      "department": "",
+      "rows": 28,
+      "columns": 5,
+      "headers": "S. No. | Name of the Workshop/Seminar | No. of Participant | Date | Year",
+      "updated_at": "2026-03-09T10:14:45.993093Z"
+    },
+    {
+      "id": "17",
+      "title": "ipr-events-21-22",
+      "category": "",
+      "department": "",
+      "rows": 23,
+      "columns": 5,
+      "headers": "S. No. | Name of the workshop/ seminar | Number of Participants | Date | Year",
+      "updated_at": "2026-01-10T10:00:49.783020Z"
+    },
+    {
+      "id": "18",
+      "title": "ipr-events-20-21",
+      "category": "",
+      "department": "",
+      "rows": 11,
+      "columns": 5,
+      "headers": "S. No. | Name of the workshop/ seminar | Number of Participants | Date | Year",
+      "updated_at": "2026-01-10T10:01:35.652713Z"
+    },
+    {
+      "id": "19",
+      "title": "ipr-events-19-20",
+      "category": "",
+      "department": "",
+      "rows": 16,
+      "columns": 5,
+      "headers": "S. No. | Name of the workshop/ seminar | Number of Participants | Date | Year",
+      "updated_at": "2026-01-10T10:02:03.293857Z"
+    },
+    {
+      "id": "20",
+      "title": "ipr-events-18-19",
+      "category": "",
+      "department": "",
+      "rows": 31,
+      "columns": 4,
+      "headers": "S. No. | Professional Development Programs For Teaching & Non Teaching Staff | Date | Year",
+      "updated_at": "2026-01-10T10:02:29.624264Z"
+    },
+    {
+      "id": "21",
+      "title": "ipr-events-17-18",
+      "category": "",
+      "department": "",
+      "rows": 33,
+      "columns": 4,
+      "headers": "S. No. | Professional Development Programs For Teaching & Non Teaching Staff. | Date | Year",
+      "updated_at": "2026-01-10T10:03:01.399748Z"
+    },
+    {
+      "id": "22",
+      "title": "ipr-events-16-17",
+      "category": "",
+      "department": "",
+      "rows": 44,
+      "columns": 4,
+      "headers": "S. No. | Professional Development Programs For Teaching & Non Teaching Staff | Date | Year",
+      "updated_at": "2026-01-10T10:03:29.168231Z"
+    },
+    {
+      "id": "23",
+      "title": "ipr-events-15-16",
+      "category": "",
+      "department": "",
+      "rows": 29,
+      "columns": 4,
+      "headers": "S. No. | Professional Development Programs For Teaching & Non Teaching Staff | Date | Year",
+      "updated_at": "2026-01-10T10:04:17.631002Z"
+    },
+    {
+      "id": "24",
+      "title": "ipr-events-14-15",
+      "category": "",
+      "department": "",
+      "rows": 48,
+      "columns": 4,
+      "headers": "S. No. | Professional Development Programs For Teaching & Non Teaching Staff | Date | Year",
+      "updated_at": "2026-01-10T10:04:50.974731Z"
+    },
+    {
+      "id": "25",
+      "title": "ipr-events-13-14",
+      "category": "",
+      "department": "",
+      "rows": 33,
+      "columns": 4,
+      "headers": "S. No. | Professional Development Programs For Teaching & Non Teaching Staff | Date | Year",
+      "updated_at": "2026-01-10T10:05:25.789971Z"
+    },
+    {
+      "id": "26",
+      "title": "Conferences",
+      "category": "",
+      "department": "",
+      "rows": 30,
+      "columns": 6,
+      "headers": "S. No. | Faculty | Name of The Conference | National/ International | Date | Year",
+      "updated_at": "2026-01-10T10:30:59.149875Z"
+    },
+    {
+      "id": "27",
+      "title": "book-chapter-25-26",
+      "category": "",
+      "department": "",
+      "rows": 156,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-10T10:39:44.746159Z"
+    },
+    {
+      "id": "28",
+      "title": "book-chapter-24-25",
+      "category": "",
+      "department": "",
+      "rows": 898,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-10T10:41:57.364904Z"
+    },
+    {
+      "id": "29",
+      "title": "book-chapter-23-24",
+      "category": "",
+      "department": "",
+      "rows": 761,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-10T10:42:37.780602Z"
+    },
+    {
+      "id": "30",
+      "title": "book-chapter-19-20",
+      "category": "",
+      "department": "",
+      "rows": 90,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T11:14:49.903238Z"
+    },
+    {
+      "id": "31",
+      "title": "book-chapter-21-22",
+      "category": "",
+      "department": "",
+      "rows": 171,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / \n International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-10T10:44:12.969405Z"
+    },
+    {
+      "id": "32",
+      "title": "book-chapter-20-21",
+      "category": "",
+      "department": "",
+      "rows": 155,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-10T10:44:53.701355Z"
+    },
+    {
+      "id": "33",
+      "title": "book-chapter-19-20",
+      "category": "",
+      "department": "",
+      "rows": 138,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-10T10:45:35.472301Z"
+    },
+    {
+      "id": "34",
+      "title": "book-chapter-18-19",
+      "category": "",
+      "department": "",
+      "rows": 74,
+      "columns": 11,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-10T10:46:03.844747Z"
+    },
+    {
+      "id": "35",
+      "title": "research-papers-24-25",
+      "category": "",
+      "department": "",
+      "rows": 1189,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T10:51:45.305289Z"
+    },
+    {
+      "id": "36",
+      "title": "research-papers-23-24",
+      "category": "",
+      "department": "",
+      "rows": 1153,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T10:52:12.162189Z"
+    },
+    {
+      "id": "37",
+      "title": "research-papers-22-23",
+      "category": "",
+      "department": "",
+      "rows": 1300,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T10:52:40.705212Z"
+    },
+    {
+      "id": "38",
+      "title": "research-papers-21-22",
+      "category": "",
+      "department": "",
+      "rows": 873,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T10:53:09.425784Z"
+    },
+    {
+      "id": "39",
+      "title": "research-papers-20-21",
+      "category": "",
+      "department": "",
+      "rows": 66,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T10:53:38.388769Z"
+    },
+    {
+      "id": "40",
+      "title": "research-papers-18-19",
+      "category": "",
+      "department": "",
+      "rows": 31,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T11:15:30.359361Z"
+    },
+    {
+      "id": "41",
+      "title": "research-papers-19-20",
+      "category": "",
+      "department": "",
+      "rows": 90,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-01-10T11:19:06.717483Z"
+    },
+    {
+      "id": "42",
+      "title": "Training & Internship for Session 2022-23",
+      "category": "Placement",
+      "department": "",
+      "rows": 117,
+      "columns": 6,
+      "headers": "S.No. | C.No. | Program Code | Programme name | Name of the students | Name of Company",
+      "updated_at": "2026-01-30T15:46:53.486130Z"
+    },
+    {
+      "id": "43",
+      "title": "Training & Internship for Session 2023-24",
+      "category": "Placement",
+      "department": "",
+      "rows": 223,
+      "columns": 7,
+      "headers": "Certificate No. | S.No. | Name | Course | Semester | Faculty Name | Industry Name",
+      "updated_at": "2026-01-30T15:39:42.685840Z"
+    },
+    {
+      "id": "44",
+      "title": "Training & Internship for Session 2024-25",
+      "category": "Placement",
+      "department": "",
+      "rows": 170,
+      "columns": 7,
+      "headers": "Certificate No. | S.No. | Name | Course | Semester | Faculty Name | Industry Name",
+      "updated_at": "2026-01-30T15:40:17.850552Z"
+    },
+    {
+      "id": "45",
+      "title": "Training & Internship for Session 2021-22",
+      "category": "Placement",
+      "department": "",
+      "rows": 140,
+      "columns": 6,
+      "headers": "S.No. | C.No. | Program Code | Programme name | Name of the students | Company Name",
+      "updated_at": "2026-01-30T15:46:36.937012Z"
+    },
+    {
+      "id": "46",
+      "title": "patents-2024",
+      "category": "Patents",
+      "department": "",
+      "rows": 348,
+      "columns": 8,
+      "headers": "S. No. | Name | Department | Topic | Date of Publication | Application No. | Status | Document",
+      "updated_at": "2026-01-30T17:41:40.184430Z"
+    },
+    {
+      "id": "47",
+      "title": "patents-2025",
+      "category": "Patents",
+      "department": "",
+      "rows": 13,
+      "columns": 7,
+      "headers": "S. No. | Name | Department | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-01-30T17:42:30.502440Z"
+    },
+    {
+      "id": "48",
+      "title": "books 2018-19",
+      "category": "books",
+      "department": "",
+      "rows": 74,
+      "columns": 11,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:05:26.189473Z"
+    },
+    {
+      "id": "49",
+      "title": "books 2019-20",
+      "category": "books",
+      "department": "",
+      "rows": 138,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:05:42.128687Z"
+    },
+    {
+      "id": "50",
+      "title": "books 2020-21",
+      "category": "books",
+      "department": "",
+      "rows": 155,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:05:56.333686Z"
+    },
+    {
+      "id": "51",
+      "title": "books 2021-22",
+      "category": "books",
+      "department": "",
+      "rows": 171,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / \n International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:06:36.857998Z"
+    },
+    {
+      "id": "52",
+      "title": "books 2022-23",
+      "category": "books",
+      "department": "",
+      "rows": 668,
+      "columns": 11,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating \n Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:07:00.706107Z"
+    },
+    {
+      "id": "53",
+      "title": "books 2023-24",
+      "category": "books",
+      "department": "",
+      "rows": 761,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:07:13.962915Z"
+    },
+    {
+      "id": "54",
+      "title": "books 2024-25",
+      "category": "books",
+      "department": "",
+      "rows": 898,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:07:31.740226Z"
+    },
+    {
+      "id": "55",
+      "title": "books 2025-26",
+      "category": "books",
+      "department": "",
+      "rows": 156,
+      "columns": 12,
+      "headers": "S. No. | Name of the teacher | Department | Title of the book/chapters published | Title of the paper | Title of the proceedings of the conference | Name of the conference | National / International | Year of publication | ISBN/ISSN number of the proceeding | Affiliating Institute at the time of publication | Name of the publisher",
+      "updated_at": "2026-01-30T19:07:47.296070Z"
+    },
+    {
+      "id": "56",
+      "title": "Active MoU",
+      "category": "Research",
+      "department": "",
+      "rows": 160,
+      "columns": 8,
+      "headers": "Sr. No. | Date of MoU | Date of Expiry | Name of Institute / Organisation | Location | Country | Type of Partnership | Faculty",
+      "updated_at": "2026-02-05T07:54:06.724494Z"
+    },
+    {
+      "id": "57",
+      "title": "research papers",
+      "category": "Research",
+      "department": "",
+      "rows": 1189,
+      "columns": 9,
+      "headers": "S. No. | Title of paper | Name of the author/s | Department of the teacher | Name of journal | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | Is it listed in\n UGC Care\n list/Scopus/Web of Science /other, mention",
+      "updated_at": "2026-02-21T10:28:05.062588Z"
+    },
+    {
+      "id": "58",
+      "title": "Details Of Career Counselling",
+      "category": "Placement",
+      "department": "",
+      "rows": 50,
+      "columns": 4,
+      "headers": "Year | Details of career counselling | Number of students attended / participated | Date of Event",
+      "updated_at": "2026-02-23T07:52:44.754783Z"
+    },
+    {
+      "id": "59",
+      "title": "Collaborations",
+      "category": "Placement",
+      "department": "",
+      "rows": 203,
+      "columns": 6,
+      "headers": "S.No. | Date | Type of Partnership | Name | MOU Type | Country",
+      "updated_at": "2026-02-23T10:56:33.545915Z"
+    },
+    {
+      "id": "60",
+      "title": "Guidance For Competitive Exams",
+      "category": "Placement",
+      "department": "",
+      "rows": 72,
+      "columns": 4,
+      "headers": "Year | Name of the Activity | Number of students attended / participated | Date of Event",
+      "updated_at": "2026-02-24T10:13:24.687478Z"
+    },
+    {
+      "id": "61",
+      "title": "Capacity Development & Skill Enhancement Initiatives - 2024 - 25",
+      "category": "Placement",
+      "department": "",
+      "rows": 78,
+      "columns": 4,
+      "headers": "Name of the capability program | Date of implementation (DD-MM-YYYY) | Number of students enrolled | Name of the agencies/consultants involved with contact details (if any)",
+      "updated_at": "2026-02-24T10:42:02.711196Z"
+    },
+    {
+      "id": "62",
+      "title": "Capacity Development & Skill Enhancement Initiatives - 2023 - 24",
+      "category": "Placement",
+      "department": "",
+      "rows": 54,
+      "columns": 4,
+      "headers": "Name of the capability enhancement program | Date of implementation (DD-MM-YYYY) | Number of students enrolled | Name of the agencies/consultants involved with contact details (if any)",
+      "updated_at": "2026-02-24T10:51:31.907424Z"
+    },
+    {
+      "id": "63",
+      "title": "Capacity Development & Skill Enhancement Initiatives - 2022 - 23",
+      "category": "Placement",
+      "department": "",
+      "rows": 67,
+      "columns": 4,
+      "headers": "Name of The Capability Enhancement Program | Date of Implementation (DD-MM-YYYY) | Number of Students Enrolled | Name of The Agencies/Consultants Involved With Contact Details (If Any)",
+      "updated_at": "2026-02-24T10:52:26.807547Z"
+    },
+    {
+      "id": "64",
+      "title": "Capacity Development & Skill Enhancement Initiatives - 2021 - 22",
+      "category": "Placement",
+      "department": "",
+      "rows": 58,
+      "columns": 4,
+      "headers": "Name of The Capacity Development and Skills Enhancement Schemes | Date of Implementation (DD-MM-YYYY) | Number of Students Enrolled | Name of The Agencies/Consultants Involved With Contact Details (If Any)",
+      "updated_at": "2026-02-24T10:55:09.266842Z"
+    },
+    {
+      "id": "65",
+      "title": "Capacity Development & Skill Enhancement Initiatives - 2020 - 21",
+      "category": "Placement",
+      "department": "",
+      "rows": 66,
+      "columns": 4,
+      "headers": "Name of the Capability Enhancement Program | Date of Implementation (DD-MM-YYYY) | Number of Students Enrolled | Name of the Agencies/Consultants Involved with Contact Details (if any)",
+      "updated_at": "2026-02-24T10:56:08.980474Z"
+    },
+    {
+      "id": "66",
+      "title": "Capacity Development & Skill Enhancement Initiatives - 2018 - 19",
+      "category": "Placement",
+      "department": "",
+      "rows": 20,
+      "columns": 4,
+      "headers": "Name of The Capability Enhancement Program | Date of Implementation (DD-MM-YYYY) | Number of  Students Enrolled | Name of  The Agencies/Consultants Involved With Contact Details (If Any)",
+      "updated_at": "2026-02-24T10:57:24.284515Z"
+    },
+    {
+      "id": "67",
+      "title": "Our Collaborative Activities",
+      "category": "",
+      "department": "",
+      "rows": 16,
+      "columns": 6,
+      "headers": "Year of Signing the MoU | Name of the Organisation with whom the MoU/Collaboration is Being Signed | Duration | Purpose of MoU/Collaboration | List the Actual Activities under each MoU Year-wise | Year of the Activity Conducted",
+      "updated_at": "2026-02-27T13:38:28.254206Z"
+    },
+    {
+      "id": "68",
+      "title": "Our Collaborations",
+      "category": "",
+      "department": "",
+      "rows": 203,
+      "columns": 6,
+      "headers": "S.No. | Date | Type of Partnership | Name | MOU Type | Country",
+      "updated_at": "2026-02-27T13:38:47.295189Z"
+    },
+    {
+      "id": "69",
+      "title": "Our Collaborative Activities 2021-2022",
+      "category": "",
+      "department": "",
+      "rows": 11,
+      "columns": 6,
+      "headers": "Year of Signing the MoU | Name of the Organisation with whom the MoU/Collaboration is Being Signed | Duration | Purpose of MoU/Collaboration | List the Actual Activities under each MoU Year-wise | Year of the Activity Conducted",
+      "updated_at": "2026-02-27T13:54:06.570129Z"
+    },
+    {
+      "id": "7",
+      "title": "mou",
+      "category": "",
+      "department": "",
+      "rows": 160,
+      "columns": 8,
+      "headers": "Sr. No. | Date of MoU | Date of Expiry | Name of Institute / Organisation | Location | Country | Type of Partnership | Faculty",
+      "updated_at": "2026-01-09T08:46:27.791521Z"
+    },
+    {
+      "id": "70",
+      "title": "Our Collaborative Activities 2020 2021",
+      "category": "",
+      "department": "",
+      "rows": 17,
+      "columns": 6,
+      "headers": "Year of Signing the MoU | Name of the Organisation with whom the MoU/Collaboration is Being Signed | Duration | Purpose of MoU/Collaboration | List the Actual Activities under each MoU Year-wise | Year of the Activity Conducted",
+      "updated_at": "2026-02-27T13:54:32.316755Z"
+    },
+    {
+      "id": "71",
+      "title": "Our Collaborative Activities 2019-20",
+      "category": "",
+      "department": "",
+      "rows": 29,
+      "columns": 6,
+      "headers": "Year of Signing the MoU | Name of the Organisation with whom the MoU/Collaboration is Being Signed | Duration | Purpose of MoU/Collaboration | List the Actual Activities under each MoU Year-wise | Year of the Activity Conducted",
+      "updated_at": "2026-02-27T13:55:01.292199Z"
+    },
+    {
+      "id": "72",
+      "title": "Our Collaborative Activities 18-19",
+      "category": "",
+      "department": "",
+      "rows": 9,
+      "columns": 6,
+      "headers": "Year of Signing the MoU | Name of the Organisation with whom the MoU/Collaboration is Being Signed | Duration | Purpose of MoU/Collaboration | List the Actual Activities under each MoU Year-wise | Year of the Activity Conducted",
+      "updated_at": "2026-02-27T13:55:24.800006Z"
+    },
+    {
+      "id": "73",
+      "title": "Patents Lists - 2021",
+      "category": "Managment",
+      "department": "",
+      "rows": 1,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-03-02T16:48:46.082685Z"
+    },
+    {
+      "id": "74",
+      "title": "Patents Lists - 2024",
+      "category": "Managment",
+      "department": "",
+      "rows": 14,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-03-02T16:50:18.811353Z"
+    },
+    {
+      "id": "75",
+      "title": "Patents Lists - 2023",
+      "category": "Managment",
+      "department": "",
+      "rows": 3,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-03-02T16:51:06.722890Z"
+    },
+    {
+      "id": "76",
+      "title": "Patents Lists - 2021 -1",
+      "category": "Managment",
+      "department": "",
+      "rows": 5,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-03-02T16:53:07.662883Z"
+    },
+    {
+      "id": "77",
+      "title": "Book Chapters - 2021",
+      "category": "Managment",
+      "department": "",
+      "rows": 8,
+      "columns": 9,
+      "headers": "S.No. | Name of the teacher | Department | Title of the book/chapters published | Title of the chapter | Title of the proceedings of the conference | Year of publication | ISBN/ISSN number of the proceeding | Name of the publisher",
+      "updated_at": "2026-03-02T16:55:01.053193Z"
+    },
+    {
+      "id": "78",
+      "title": "Book Chapters - 2022",
+      "category": "Managment",
+      "department": "",
+      "rows": 32,
+      "columns": 9,
+      "headers": "S.No. | Name of the teacher | Department | Title of the book/chapters published | Title of the book/chapters published.1 | Title of the proceedings of the conference | Year of publication | ISBN/ISSN number of the proceeding | Name of the publisher",
+      "updated_at": "2026-03-02T16:55:57.478605Z"
+    },
+    {
+      "id": "79",
+      "title": "Book Chapters - 2023",
+      "category": "Managment",
+      "department": "",
+      "rows": 6,
+      "columns": 9,
+      "headers": "S.No. | Name of the teacher | Department | Title of the book/chapters published | Title of the book/chapters published.1 | Title of the proceedings of the conference | Year of publication | ISBN/ISSN number of the proceeding | Name of the publisher",
+      "updated_at": "2026-03-02T16:56:39.819174Z"
+    },
+    {
+      "id": "8",
+      "title": "conferences",
+      "category": "",
+      "department": "",
+      "rows": 30,
+      "columns": 6,
+      "headers": "S. No. | Faculty | Name of The Conference | National/ International | Date | Year",
+      "updated_at": "2026-01-10T07:12:38.739480Z"
+    },
+    {
+      "id": "80",
+      "title": "Book Chapters - 2024",
+      "category": "Managment",
+      "department": "",
+      "rows": 48,
+      "columns": 9,
+      "headers": "S.No. | Name of the teacher | Department | Title of the book/chapters published | Title of the book/chapters published.1 | Title of the proceedings of the conference | Year of publication | ISBN/ISSN number of the proceeding | Name of the publisher",
+      "updated_at": "2026-03-02T16:57:44.169155Z"
+    },
+    {
+      "id": "81",
+      "title": "Book Chapters - 2025",
+      "category": "Managment",
+      "department": "",
+      "rows": 8,
+      "columns": 9,
+      "headers": "S.No. | Name of the teacher | Department | Title of the book/chapters published | Title of the book/chapters published.1 | Title of the proceedings of the conference | Year of publication | ISBN/ISSN number of the proceeding | Name of the publisher",
+      "updated_at": "2026-03-02T16:58:20.681494Z"
+    },
+    {
+      "id": "82",
+      "title": "research-papers - 2022",
+      "category": "Managment",
+      "department": "",
+      "rows": 64,
+      "columns": 9,
+      "headers": "S.No. | Title of paper | Name of the author/s | Journal Name | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | \"Is it listed in UGC Care list/Scopus/Web of Science /other, mention \" | Indexed",
+      "updated_at": "2026-03-02T16:59:56.972496Z"
+    },
+    {
+      "id": "83",
+      "title": "research-papers - 2023",
+      "category": "Managment",
+      "department": "",
+      "rows": 36,
+      "columns": 9,
+      "headers": "S.No. | Title of paper | Name of the author/s | Journal Name | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | \"Is it listed in UGC Care list/Scopus/Web of Science /other, mention \" | Indexed",
+      "updated_at": "2026-03-02T17:01:27.706871Z"
+    },
+    {
+      "id": "84",
+      "title": "research-papers - 2024",
+      "category": "Managment",
+      "department": "",
+      "rows": 53,
+      "columns": 9,
+      "headers": "S.No. | Title of paper | Name of the author/s | Journal Name | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | \"Is it listed in UGC Care list/Scopus/Web of Science /other, mention\" | Indexed",
+      "updated_at": "2026-03-02T17:01:56.871880Z"
+    },
+    {
+      "id": "85",
+      "title": "research-papers - 2025",
+      "category": "Managment",
+      "department": "",
+      "rows": 48,
+      "columns": 9,
+      "headers": "S.No. | Title of paper | Name of the author/s | Journal Name | Year of publication | ISSN number | Link to the recognition in UGC enlistment of the Journal | \"Is it listed in UGC Care list/Scopus/Web of Science /other, mention \" | Indexed",
+      "updated_at": "2026-03-02T17:02:24.464950Z"
+    },
+    {
+      "id": "86",
+      "title": "Patent list 2022",
+      "category": "Research",
+      "department": "",
+      "rows": 3,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-03-11T14:13:49.534450Z"
+    },
+    {
+      "id": "87",
+      "title": "Testimonial",
+      "category": "Managment",
+      "department": "",
+      "rows": 13,
+      "columns": 4,
+      "headers": "S.No | Faculty Member as consultant | Company | Type",
+      "updated_at": "2026-03-09T12:03:27.199925Z"
+    },
+    {
+      "id": "9",
+      "title": "Patents 2025",
+      "category": "",
+      "department": "",
+      "rows": 13,
+      "columns": 7,
+      "headers": "S. No. | Name | Department | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-01-10T07:14:24.598172Z"
+    },
+    {
+      "id": "93",
+      "title": "Patents List - 2025",
+      "category": "Patents",
+      "department": "",
+      "rows": 1,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-04-08T07:37:16.425186Z"
+    },
+    {
+      "id": "94",
+      "title": "Patents List - 2024",
+      "category": "Patents",
+      "department": "",
+      "rows": 14,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-04-08T07:38:12.823722Z"
+    },
+    {
+      "id": "95",
+      "title": "Patents list - 2023",
+      "category": "Patents",
+      "department": "",
+      "rows": 3,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-04-08T07:38:48.822621Z"
+    },
+    {
+      "id": "96",
+      "title": "patents list - 2022",
+      "category": "Patents",
+      "department": "",
+      "rows": 3,
+      "columns": 7,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | link | Status",
+      "updated_at": "2026-04-08T07:39:56.119936Z"
+    },
+    {
+      "id": "97",
+      "title": "patents list - 2021",
+      "category": "Patents",
+      "department": "",
+      "rows": 5,
+      "columns": 6,
+      "headers": "Sr. No | Name | Topic | Date of Publication | Application Number | Status",
+      "updated_at": "2026-04-08T07:41:21.918011Z"
+    },
+    {
+      "id": "99",
+      "title": "New Updated Patents 2025",
+      "category": "Patents",
+      "department": "",
+      "rows": 20,
+      "columns": 8,
+      "headers": "Sr. No | Name | Department | Topic | Date of Publication | Application Number | Status | Document",
+      "updated_at": "2026-05-29T05:05:20.354728Z"
+    }
+  ]
+}

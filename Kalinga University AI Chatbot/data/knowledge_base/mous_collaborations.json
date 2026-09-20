@@ -1,0 +1,3938 @@
+{
+  "total": 437,
+  "mous": [
+    {
+      "partner": "GOVT. J. YOGANANDAM CHHATTISGARH COLLEGE",
+      "start_date": "20.09.2022",
+      "end_date": "20.09.2027",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "GOVT. M.V.P.G. COLLEGE",
+      "start_date": "26.04.2023",
+      "end_date": "26.04.2028",
+      "location": "MAHASAMUND - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "GOVT DUDHADHARI BAJRANG GIRLS POST GRADUATE AUTONOMOUS COLLEGE",
+      "start_date": "29.04.2023",
+      "end_date": "29.04.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "VY HOSPITAL",
+      "start_date": "09.10.2023",
+      "end_date": "09.10.2025",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "BALCO MEDICAL CENTRE (A UNIT OF VEDANTA MEDICAL RESEARCH CENTRE)",
+      "start_date": "16.10.2023",
+      "end_date": "16.10.2025",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "GOVT. SHAHID VEER NARAYAN SINGH COLLEGE",
+      "start_date": "07.02.2025",
+      "end_date": "07.02.2030",
+      "location": "SARABGARH - BILAIGARH - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "ASSOCIATION OF MULTI SKILLED PROFESSIONALS",
+      "start_date": "03.03.2025",
+      "end_date": "03.03.2030",
+      "location": "BHILAI - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "HIDAYATULLAH NATIONAL LAW UNIVERSITY (HNLU)",
+      "start_date": "15.08.2024",
+      "end_date": "15.08.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "GOVT. RAJMOHINI DEVI GIRLS' P.G. COLLEGE",
+      "start_date": "05.09.2024",
+      "end_date": "05.09.2029",
+      "location": "AMBIKAPUR, CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "GOVT. D.S.V. POST GRADUATE SANSKRIT COLLEGE",
+      "start_date": "25.10.2024",
+      "end_date": "08.11.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "CIT BED COLLEGE",
+      "start_date": "22.11.2024",
+      "end_date": "22.11.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "GOVT. GHANSHYAM SINGH GUPT P.GOLLEGE",
+      "start_date": "25.11.2024",
+      "end_date": "25.11.2029",
+      "location": "BALOD - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Arts & Humanities"
+    },
+    {
+      "partner": "WESTFORD EDUCATION GROUP",
+      "start_date": "08.09.2022",
+      "end_date": "08.09.2027",
+      "location": "LONDON - UK",
+      "country": "UNITED KINGDOM",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "INFOSYS LIMITED",
+      "start_date": "17.10.2022",
+      "end_date": "17.10.2027",
+      "location": "GURUGRAM - HARYANA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "BAJAJ FINSERV",
+      "start_date": "09.11.2022",
+      "end_date": "09.11.2027",
+      "location": "PUNE, MAHARASHTRA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "RESEARCH FOUNDATION OF INDIA.",
+      "start_date": "06.04.2023",
+      "end_date": "06.04.2028",
+      "location": "JABALPUR - MADHYAPRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "SHRI SHANKARACHARYA INSTITUTE OF PROFESSIONAL MANAGEMENT & TECHNOLOGY",
+      "start_date": "13.04.2023",
+      "end_date": "03.04.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "ALGOFORGE STUDIOS (AFS)",
+      "start_date": "20.09.2025",
+      "end_date": "23.09.2028",
+      "location": "INDIA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "BHAKT MATA KARMA COLLEGE SAMODA",
+      "start_date": "24.07.2024",
+      "end_date": "24.07.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "SUNIL PATODIA WELFARE FOUNDATION",
+      "start_date": "21.08.2024",
+      "end_date": "21.08.2029",
+      "location": "MUMBAI - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "CAREER POINT UNIVERSITY",
+      "start_date": "15.11.2024",
+      "end_date": "15.11.2029",
+      "location": "KOTA RAJASTHAN",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "JAIPURIA INSTITUTE OF MANAGEMENT",
+      "start_date": "25.11.2024",
+      "end_date": "25.11.2029",
+      "location": "INDORE - MADHYA PRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Commerce & Management"
+    },
+    {
+      "partner": "VIPRA KALA, VANIJYRA AVAM SHARIRIK SHIKSHA MAHAVIDYALAYA",
+      "start_date": "17.01.2023",
+      "end_date": "17.01.2026",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "AAKANKSHA LIONS INSTITUTE OF LEARNING & EMPOWERMENT",
+      "start_date": "16.02.2023",
+      "end_date": "16.02.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "RAM LAL ANAND COLLEGE",
+      "start_date": "27.08.2023",
+      "end_date": "27.08.2028",
+      "location": "DELHI - INDIA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "HEREINAFTER COLLECTIVELY",
+      "start_date": "08.09.2023",
+      "end_date": "08.09.2028",
+      "location": "SHYAM NAGAR - RAIPUR",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "DR. A.P.J. ABDUL KALAM UNIVERSITY",
+      "start_date": "04.11.2023",
+      "end_date": "04.11.2028",
+      "location": "INDORE - MADHYA PRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "LOKMANYA GRAMIN VIKAS SANSATHA, LOHA LOKMANYA MAHAVIDYALAYA (ARTS COMMERCE SCIENCE)",
+      "start_date": "27.11.2023",
+      "end_date": "27.11.2028",
+      "location": "NANDED - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "GOVERNMENT COLLEGE OF EDUCATION",
+      "start_date": "20.02.2024",
+      "end_date": "20.02.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "UNIVERSITY COLLEGE OF PHYSICAL EDUCATION, OSMANIA UNIVERSITY",
+      "start_date": "02.11.2023",
+      "end_date": "02.11.2028",
+      "location": "HYDERABAD-TELANGANA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "ICFAI UNIVERSITY",
+      "start_date": "23.07.2024",
+      "end_date": "23.04.2029",
+      "location": "SIKKIM",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "NIILM UNIVERSITY",
+      "start_date": "25.01.2025",
+      "end_date": "25.01.2030",
+      "location": "KAITHAL - HARYANA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "start_date": "06.02.2025",
+      "end_date": "06.02.2030",
+      "location": "VANDAVASI - TAMILNADU",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "THIRUVALLUVAR ARTS AND SCIENCE COLLEGE",
+      "start_date": "06.02.2025",
+      "end_date": "06.02.2030",
+      "location": "VANDAVASI - TAMILNADU",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "ST. THOMAS COLLEGE",
+      "start_date": "01.04.2025",
+      "end_date": "04.04.2030",
+      "location": "BHILAI - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "COUNCIL OF TEACHERS PROFESSIONAL DEVELOPMENT CTPD",
+      "start_date": "29.05.2025",
+      "end_date": "29.05.2030",
+      "location": "DELHI-NCR - DELHI",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "ASMA INSTITUTE OF MANAGEMEN",
+      "start_date": "31.07.2025",
+      "end_date": "27.08.2030",
+      "location": "PUNE - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "DEV SANSKRITI COLLEGE OF EDUCATION & TECHNOLOGY",
+      "start_date": "08.08.2025",
+      "end_date": "08.08.2030",
+      "location": "KHAPRI, DURG - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "COLUMBIA COLLEGE",
+      "start_date": "13.12.2024",
+      "end_date": "13.11.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "INSTITUTE OF ADVANCED STUDIES IN EDUCATION",
+      "start_date": "17.12.2024",
+      "end_date": "17.11.2029",
+      "location": "BILASPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "ARM COLLEGE OF ENGINEERING AND TECHNOLOGY, SATTAMANGALAM",
+      "start_date": "08.01.2025",
+      "end_date": "08.01.2030",
+      "location": "CHENNAI - \nTAMILNADU",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "LATE RAJA VIRENDRA BAHADUR SINGH GOVT. COLLEGE SARAIPALI",
+      "start_date": "10.01.2025",
+      "end_date": "18.01.2030",
+      "location": "MAHASAMUND - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Education"
+    },
+    {
+      "partner": "ELECTRONIC SECTOR SKILLS COUNCIL OF INDIA (ESSCI)",
+      "start_date": "25.08.2023",
+      "end_date": "",
+      "location": "DELHI - INDIA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Information Technology"
+    },
+    {
+      "partner": "SANJAY MEMORIAL INSTITUTE OF ACADEMIC COORPERATION",
+      "start_date": "03.03.2024",
+      "end_date": "03.03.2029",
+      "location": "BERHAMPUR \nODISHA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Information Technology"
+    },
+    {
+      "partner": "D.P. VIPRA COLLEGE BILASPUR",
+      "start_date": "28.08.2025",
+      "end_date": "08.08.2030",
+      "location": "BILASPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Information Technology"
+    },
+    {
+      "partner": "NASSCOM /IT-ITES SECTOR SKILLS COUNCIL",
+      "start_date": "12.12.2024",
+      "end_date": "11.12.2027",
+      "location": "NOIDA - UTTARPRADESHH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Information Technology"
+    },
+    {
+      "partner": "LSAC GLOBAL - LSAT - INDA SERVICES AGREEMENT",
+      "start_date": "02.02.2022",
+      "end_date": "",
+      "location": "NEW DELHI",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Law"
+    },
+    {
+      "partner": "THE INSTITUTE OF COMPANY SECRETARIES OF INDIA (ICSI)",
+      "start_date": "28.02.2023",
+      "end_date": "28.02.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Law"
+    },
+    {
+      "partner": "INDIAN NATIONAL BAR ASSOCIATION",
+      "start_date": "18.07.2024",
+      "end_date": "18.07.2029",
+      "location": "NEW DELHI",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Law"
+    },
+    {
+      "partner": "SOCIETY OF INDIAN LAW FIRMS (SILF)",
+      "start_date": "05.08.2024",
+      "end_date": "05.08.2029",
+      "location": "NEW DELHI",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Law"
+    },
+    {
+      "partner": "NH MMI NARAYANA MULTISPECIALTY HOSPITAL",
+      "start_date": "17.02.2023",
+      "end_date": "17.02.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "partner": "DANTESWARI COLLEGE OF PHARMACY, JAGDALPUR (BASTAR)",
+      "start_date": "16.08.2023",
+      "end_date": "16.08.2028",
+      "location": "JAGDALPUR (BASTAR)- CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "partner": "CMPV CONSULTANCY LLP (CMPV)",
+      "start_date": "15.03.2024",
+      "end_date": "15.03.2029",
+      "location": "KORAPUT - ODISHA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "partner": "PHARMACY COLLEGE AZAMGRH",
+      "start_date": "14.02.2025",
+      "end_date": "14.02.2026",
+      "location": "AZAMGARH - UTTARPRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "partner": "SRI SRI NRUSINGHNATH AYURVED COLLEGE AND RESEARCH INSTITUTE",
+      "start_date": "13.02.2025",
+      "end_date": "05.03.2030",
+      "location": "NRUSINGHNATH - ODISHA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "partner": "RITEE COLLEGE OF PHARMACY, RAIPUR (CHHATTISGARH)",
+      "start_date": "13.02.2025",
+      "end_date": "13.02.2030",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "partner": "SARDAR BHAGWAN SINGH UNIVERSITY",
+      "start_date": "25.06.2024",
+      "end_date": "28.06.2029",
+      "location": "Dehradun,\nUttarakhand - 248161",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "partner": "RAJIV GANDHI GOVERNMENT ARTS & COMMERCE COLLEGE",
+      "start_date": "28.02.2019",
+      "end_date": "",
+      "location": "LORMI, CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "GOVT. MATA KARMA GIRLS COLLEGE",
+      "start_date": "22.02.2023",
+      "end_date": "22.02.2026",
+      "location": "MAHASAMUND CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "SETH PHOOLCHAND AGRAWAL SMRITI MAHAVIDYALAYA",
+      "start_date": "03.04.2023",
+      "end_date": "03.04.2028",
+      "location": "RAJIM - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "GOVERNMENT B.P. LODHI PG COLLEGE, ARANG CHHATTISGARH",
+      "start_date": "21.04.2023",
+      "end_date": "21.04.2028",
+      "location": "ARANG - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "SHERLOCK INSTITUTE OF FORENSIC SCIENCE",
+      "start_date": "26.04.2023",
+      "end_date": "26.04.2028",
+      "location": "DELHI - INDIA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "DR. C.V. RAMAN UNIVERSITY",
+      "start_date": "26.04.2023",
+      "end_date": "26.04.2028",
+      "location": "BILASPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "TIRUPATI TRADEWING PVT LTD",
+      "start_date": "27.04.2023",
+      "end_date": "27.04.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "GURU GHASIDAS VISHWAVIDYALAYA",
+      "start_date": "09.05.2023",
+      "end_date": "05.05.2028",
+      "location": "BILASPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "MAHATMA GANDHI UDYANIKEE & VANIKEE VISHWAVIDYALAYA",
+      "start_date": "19.01.2024",
+      "end_date": "19.01.2029",
+      "location": "SANKRA-PATAN, DURG, CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "SHRI GANESH VINAYAK EYE HOSPITAL",
+      "start_date": "04.03.2025",
+      "end_date": "04.03.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "WILSON COLLEGE",
+      "start_date": "25.04.2025",
+      "end_date": "25.04.2030",
+      "location": "MUMBAI - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "CENTRAL GROUND WATER BOARD (CGWB), NORTH CENTRAL CHHATTISGARH REGION",
+      "start_date": "23.07.2025",
+      "end_date": "22.07.2030",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "ARKA JAIN UNIVERSITY, MOHANPUR, JHARKHAND",
+      "start_date": "05.08.2025",
+      "end_date": "04.08.2030",
+      "location": "MOHANPUR - JHARKHAND",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "PUNE INSTITUTE OF BUSINESS MANAGEMENT",
+      "start_date": "02.07.2024",
+      "end_date": "02.07.2029",
+      "location": "PUNE - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "CITY EYE CARE HOSPITAL",
+      "start_date": "12.06.2024",
+      "end_date": "02.07.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "FORENSIBUS",
+      "start_date": "12.07.2024",
+      "end_date": "12.07.2029",
+      "location": "KOLKATA - WESTBENGAL",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "CODE F SOLUTIONS PVT. LTD.",
+      "start_date": "12.07.2024",
+      "end_date": "12.07.2029",
+      "location": "EAST NAGPUR - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Faculty of Science"
+    },
+    {
+      "partner": "JAIN (DEEMED-TO-BE) UNIVERSITY",
+      "start_date": "22.11.2022",
+      "end_date": "22.11.2025",
+      "location": "BENGALURU - KARNATAKA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "GURU NANAK FIRST GRADE COLLEGE BIDAR",
+      "start_date": "21.12.2022",
+      "end_date": "21.12.2027",
+      "location": "HYDERABAD-TELANGANA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "WIELABS TECH PRODUCTS AND SERVICES PVT. LTD.",
+      "start_date": "22.12.2022",
+      "end_date": "22.12.2027",
+      "location": "HYDERABAD-TELANGANA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "GURU NANAK DEV ENGINEERING COLLEGE",
+      "start_date": "22.12.2022",
+      "end_date": "22.12.2027",
+      "location": "BIDAR - KARNATAKA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "LOOP REALITY PVT. LTD.",
+      "start_date": "23.12.2022",
+      "end_date": "23.12.2027",
+      "location": "BIDAR - KARNATAKA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "POLYGON GEOSPANTIAL PRIVATE LIMITED",
+      "start_date": "23.12.2022",
+      "end_date": "23.12.2027",
+      "location": "HYDERABAD-TELANGANA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "SHRI SAI COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "start_date": "28.03.2023",
+      "end_date": "28.03.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "AMOEGH FINANCIAL SERVICES PVT. LTD.",
+      "start_date": "30.11.2023",
+      "end_date": "30.11.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "J D COLLEGE OF ENGINEERING & MANAGEMENT",
+      "start_date": "29.11.2023",
+      "end_date": "29.11.2028",
+      "location": "NAGPUR, MAHARASHTRA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "AMOU : FACULTY OF BUSINESS AND ECONOMICS MENDEL UNIVERSITY IN BRNO, CZECHIA",
+      "start_date": "11.01.2024",
+      "end_date": "11.01.2029",
+      "location": "BRNO, CZECHIA",
+      "country": "MORAVIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "MOU : FACULTY OF BUSINESS AND ECONOMICS MENDEL UNIVERSITY IN BRNO, CZECHIA",
+      "start_date": "11.01.2024",
+      "end_date": "11.01.2029",
+      "location": "BRNO, CZECHIA",
+      "country": "MORAVIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "AIPH UNIVERSITY KHORDHA, BHUBANESWAR, ODISHA - 752050",
+      "start_date": "16.01.2024",
+      "end_date": "16.01.2029",
+      "location": "SANKRA-PATAN, DURG, CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "SUBROS LIMITED MANESAR",
+      "start_date": "02.02.2024",
+      "end_date": "02.02.2027",
+      "location": "MANESAR - HARYANA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "SAGE UNIVERSITY INDORE CAMPUS",
+      "start_date": "28.03.2024",
+      "end_date": "28.03.2029",
+      "location": "INDORE - MADHYA PRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "VISHVESHWARYA GROUP OF INSTITUTIONS",
+      "start_date": "25.04.2024",
+      "end_date": "25.04.2029",
+      "location": "G.B. NAGAR - UTTARPRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "BHILAI CAN DO PARWAT FOUNDATION",
+      "start_date": "10.02.2025",
+      "end_date": "10.02.2026",
+      "location": "BHILAI - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "CEED - (CENTRE FOR ENVIRONMENT AND ENERGY DEVELOPMENT)",
+      "start_date": "16.04.2025",
+      "end_date": "16.04.2030",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "CAD INSTITUTE",
+      "start_date": "23.04.2025",
+      "end_date": "24.04.2030",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "SHRI DAVARA UNIVERSITY",
+      "start_date": "05.09.2025",
+      "end_date": "06.09.2030",
+      "location": "NAYA RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "DADB INDIA PRIVATE LIMITED",
+      "start_date": "18.09.2025",
+      "end_date": "31.12.2030",
+      "location": "MUMBAI - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "MAHARSHI SCHOOL OF SCIENCE & HUMANITIES",
+      "start_date": "21.06.2024",
+      "end_date": "21.06.2029",
+      "location": "NOIDA - UTTARPRADESHH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "KIPM-COLLEGE OF ENGINEERING & TECHNOLOGY.",
+      "start_date": "02.08.2024",
+      "end_date": "02.08.2029",
+      "location": "GORAKHPUR, \nUTTAR PRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "NEW DELHI INSTITUTE OF MANAGEMENT",
+      "start_date": "23.09.2024",
+      "end_date": "12.11.2027",
+      "location": "VAYUSENABAD - NEW DELHI",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Faculty of Technology"
+    },
+    {
+      "partner": "AUM IMEXCO (INDIA) PVT. LTD.",
+      "start_date": "18.07.2018",
+      "end_date": "",
+      "location": "NEW DELHI",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "RAJAMAHENDRI INSTITUTE OF ENGINEERING & TECHNOLOGY",
+      "start_date": "08.03.2019",
+      "end_date": "",
+      "location": "RAJAHMUNDRY",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "PROPOSAL OF ALGOL UNIVERSAL TRUST",
+      "start_date": "02.04.2019",
+      "end_date": "",
+      "location": "DELHI",
+      "country": "INDIA",
+      "category": "OTHERS",
+      "faculty": "Other"
+    },
+    {
+      "partner": "PROPOSAL OF BHAGWAN SHRI BALASAI EDUCATIONAL & CHARITABLE SOCIETY",
+      "start_date": "04.04.2019",
+      "end_date": "",
+      "location": "RAIPUR",
+      "country": "INDIA",
+      "category": "OTHERS",
+      "faculty": "Other"
+    },
+    {
+      "partner": "ALGOL - BALASAI",
+      "start_date": "08.04.2019",
+      "end_date": "",
+      "location": "RAIPUR",
+      "country": "INDIA",
+      "category": "OTHERS",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GOVT. NAGARJUNA POST GRADUATE COLLEGE OF SCIENCE",
+      "start_date": "18.06.2019",
+      "end_date": "",
+      "location": "RAIPUR",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "ENERGY EFFICIENCY SERVICES LTD. (EESL)",
+      "start_date": "17.08.2019",
+      "end_date": "17.08.2029",
+      "location": "NEW DELHI - DELHI",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "MGM'S COLLEGE OF ENGINEERING",
+      "start_date": "22.08.2019",
+      "end_date": "",
+      "location": "NANDED, MAHARASHTRA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "INFLIBNET CENTRE - SHODHGANGA/ SHODHGANGOTRI",
+      "start_date": "24.10.2019",
+      "end_date": "",
+      "location": "GANDHINAGAR - GUJRAT",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "ELITEUNIVERSAL SPORTS ALLIANCE INDIA PRIVATE LIMITED",
+      "start_date": "16.11.2019",
+      "end_date": "16.11.2029",
+      "location": "PUNE - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "IMAGINXP - GIGGLE GALAXY PRIVATE LIMITED",
+      "start_date": "10.07.2023 \n17.03.2020",
+      "end_date": "",
+      "location": "PUNE - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "CIDC - CONSTRUCTION INDUSTRY DEVELOPMENT COUNCIL",
+      "start_date": "24.12.2020",
+      "end_date": "",
+      "location": "NEW DELHI - DELHI",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "SANDIP UNIVERSITY",
+      "start_date": "25.05.2021",
+      "end_date": "25.05.2026",
+      "location": "NASHIK - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GOVERNMENT V.Y.T. PG COLLEGE",
+      "start_date": "16.02.2022",
+      "end_date": "16.02.2027",
+      "location": "DURG, CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GOVT. DIGVIJAY PG AUTONOMOUS COLLEGE",
+      "start_date": "02.03.2022",
+      "end_date": "02.03.2027",
+      "location": "RAJNANDGAON",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "515 ARMY BASE WORKSHOP",
+      "start_date": "17.03.2022",
+      "end_date": "",
+      "location": "BANGALURU",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "COLLEGE DUNIA WEB PVT. LTD.",
+      "start_date": "12.04.2022",
+      "end_date": "",
+      "location": "GURUGRAM, HARYANA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "EKEEDA PRIVATE LIMITED",
+      "start_date": "19.04.2022",
+      "end_date": "",
+      "location": "MUMBAI - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "TECHNOVIZ AUTOMATION INDUSTRIAL AUTOMATION AND DIGITALIZATION TRAINING",
+      "start_date": "25.06.2022",
+      "end_date": "25.06.2027",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "ENTREPRENEURSHIP DEVELOPMENT INSTITUTE OF INDIA",
+      "start_date": "27.06.2022",
+      "end_date": "27.06.2027",
+      "location": "GANDHINAGAR - GUJRAT",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "KAUSHAL BHARAT VIKAS KENDRA (KBVK)",
+      "start_date": "14.07.2022",
+      "end_date": "17.07.2027",
+      "location": "GURUGRAM, HARYANA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "AL-SHAMAL PRIVATE UNIVERSITY",
+      "start_date": "13.08.2022",
+      "end_date": "13.08.2028",
+      "location": "SARMADA",
+      "country": "SYRIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "IBM -DATAGAMI TECHNOLOGY SERVICES PRIVATE LIMITED",
+      "start_date": "16.08.2022",
+      "end_date": "16.08.2026",
+      "location": "MUMBAI - MAHARASHTRA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "INDIAN COLLEGE OF EDUCATION MAHASAMUND C.G.",
+      "start_date": "22.08.2022",
+      "end_date": "22.08.2026",
+      "location": "MAHASAMUND - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "CII - YI - CONFEDERATION OF INDIAN INDUSTRY - YOUNG INDIANS",
+      "start_date": "26.08.2022",
+      "end_date": "26.08.2026",
+      "location": "NEW DELHI",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "SAMADHAN COLLEGE",
+      "start_date": "24.09.2022",
+      "end_date": "24.09.2027",
+      "location": "BEMETARA - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GOVERNMENT E.V.P.G. COLLEGE",
+      "start_date": "20.10.2022",
+      "end_date": "20.10.2025",
+      "location": "KORBA - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "CHOICE RETAIL SOLUTIONS PRIVATE LIMITED",
+      "start_date": "11.11.2022",
+      "end_date": "",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "EDINBOX COMMUNICATION PVT. LTD",
+      "start_date": "16.11.2022",
+      "end_date": "",
+      "location": "GURUGRAM - HARYANA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "SHRI MEDISHINE HOSPITAL",
+      "start_date": "11.01.2023",
+      "end_date": "11.01.2026",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "COLLAGEDEKHO.COM (GIRNARSOFT EDUCATION PRIVATE LTD.) - LOI",
+      "start_date": "17.01.2023",
+      "end_date": "17.01.2028",
+      "location": "GURUGRAM - HARYANA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "iNURTURE EDUCATION SOLUTIONS PVT. LTD.",
+      "start_date": "21.02.2023",
+      "end_date": "21.02.2035",
+      "location": "BENGALURU - KARNATAKA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "MIBIZ CYBER FORENSICS LABORATORY",
+      "start_date": "22.02.2023",
+      "end_date": "22.02.2028",
+      "location": "THIRUVANANTHAPURAM - KERLA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "VETERANS INDIA",
+      "start_date": "10.03.2023",
+      "end_date": "10.03.2028",
+      "location": "DELHI - \nINDIA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "HIGHER EDUCATION, ACCREDITATION & RESEARCH PROMOTION (HEARP)",
+      "start_date": "25.04.2023",
+      "end_date": "25.04.2026",
+      "location": "NEW DELHI",
+      "country": "INDIA",
+      "category": "OTHERS",
+      "faculty": "Other"
+    },
+    {
+      "partner": "POLICE TRAINING SCHOOL, MANA",
+      "start_date": "31.07.2023",
+      "end_date": "31.07.2026",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GBARPOLU COUNTY EDUCATION SCHOOL SYSTEM",
+      "start_date": "22.08.2023",
+      "end_date": "22.08.2028",
+      "location": "GBARPOLU - LIBERIA",
+      "country": "LIBERIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "BDS EDUCATION (BHARAT DRONE SYSTEMS)",
+      "start_date": "26.08.2023",
+      "end_date": "26.08.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "SAPTGIRI HOSPITAL",
+      "start_date": "06.10.2023",
+      "end_date": "06.10.2025",
+      "location": "MANDIRHASAUD - RAIPUR",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "NH MMI NARAYANA MULTISPECIALTY HOSPITAL",
+      "start_date": "01.11.2023",
+      "end_date": "31.10.2025",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GODAWARI ELECTRIC MOTORS PVT. LTD.",
+      "start_date": "07.12.2023",
+      "end_date": "07.12.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "DISHA COLLEGE RAM NAGAR KOTA MARGE",
+      "start_date": "03.08.2023",
+      "end_date": "03.08.2028",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "ED-TECH (VIROHAN : TERMS OF SERVICES)",
+      "start_date": "10.08.2023",
+      "end_date": "03.08.2028",
+      "location": "FARIDABAD - HARYANA",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "AMBALIKA INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+      "start_date": "08.01.2024",
+      "end_date": "03.08.2028",
+      "location": "LAKNOW - UTTAR - PRADESH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "MOR FINANCIAL MANAGEMENT INDIA PRIVATE LIMITED",
+      "start_date": "22.02.2024",
+      "end_date": "22.02.2027",
+      "location": "BAGWADA PERNEM - GOA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "PARSHI TRAINING AND TECHNICAL SERVICES PVT LTD - CADDESK",
+      "start_date": "28.11.2023",
+      "end_date": "28.03.2029",
+      "location": "JAIPUR - RAJASTHAN",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "KOPALVANI CHILD WALFARE ORGANIZATION",
+      "start_date": "07.02.2025",
+      "end_date": "07.02.2030",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "JUSTAUTO SOLUTIONS PRIVATE LIMITED",
+      "start_date": "03.03.2025",
+      "end_date": "03.03.2030",
+      "location": "GANDHINAGAR - GUJRAT",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "WANFENG ALUMINUM WHEEL (INDIA) PVT. LTD",
+      "start_date": "22.03.2025",
+      "end_date": "After Utilization 400000",
+      "location": "BAWAL - HARYANA",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GURU GHASIDAS VISHWAVIDYALAYA",
+      "start_date": "28.03.2025",
+      "end_date": "15.04.2030",
+      "location": "BILASPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "M/S BALMER LAWIRE & CO. LTD.",
+      "start_date": "02.06.2025",
+      "end_date": "02.06.2029",
+      "location": "KOLKATA - WEST BENGAL",
+      "country": "INDIA",
+      "category": "AGREEMENT",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GOLF FEDERATION OF INDIA (GFI)",
+      "start_date": "22.08.2025",
+      "end_date": "12.01.2026",
+      "location": "GURUGRAM - HARYANA",
+      "country": "INDIA",
+      "category": "DSW - ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "M/S BLACKBOARD ELEARNING PVT. LTD.",
+      "start_date": "23.08.2025",
+      "end_date": "23.08.2028",
+      "location": "NOIDA - UTTAR PRADESH",
+      "country": "INDIA",
+      "category": "AGREEMENT - ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "ARPAN DIVYANG PUBLIC SCHOOL - RUN BY ARPAN KALYAN SAMITI",
+      "start_date": "08.09.2025",
+      "end_date": "08.09.2030",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "URMILA MEMORIAL HOSPITAL (A UNIT OF ADITYARAJ MEDICAL CARE PVT. LTD.)",
+      "start_date": "28.05.2024",
+      "end_date": "27.05.2026",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "D.P. VIPRA COLLEGE OF EDUCATION",
+      "start_date": "25.11.2023",
+      "end_date": "25.11.2028",
+      "location": "BILASPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "MARWARI CATALYSTS PRIVATE LIMITED",
+      "start_date": "09.08.2024",
+      "end_date": "09.08.2026",
+      "location": "JODHPUR - RAJASTHAN",
+      "country": "INDIA",
+      "category": "CORPORATE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GALMAX TECHNOLOGIES PVT. LTD.",
+      "start_date": "05.09.2024",
+      "end_date": "05.09.2029",
+      "location": "BHILAI - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "JUSTAUTO SOLUTIONS PRIVATE LIMITED",
+      "start_date": "14.10.2024",
+      "end_date": "",
+      "location": "GANDHINAGAR - GUJRAT",
+      "country": "INDIA",
+      "category": "CORPORATE - B.VOC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "RAMKRISHNA CARE HOSPITAL RAIPUR",
+      "start_date": "20.11.2024",
+      "end_date": "20.11.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "STAFF WELFARE",
+      "faculty": "Other"
+    },
+    {
+      "partner": "GIRNARSOFT EDUCATION SERVICES PRIVATE LIMITED",
+      "start_date": "08.08.2024",
+      "end_date": "",
+      "location": "JAIPUR - RAJASTHAN",
+      "country": "INDIA",
+      "category": "INSTITUTION",
+      "faculty": "Other"
+    },
+    {
+      "partner": "SYSTEM TWO SOLUTIONS PVT. LTD. (HEALTHPOTLI)",
+      "start_date": "30.12.2024",
+      "end_date": "30.12.2029",
+      "location": "RAIPUR - CHHATTISGARH",
+      "country": "INDIA",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "PRACYVA CONSULTING SERVICE PVT. LTD.",
+      "start_date": "17.06.2024",
+      "end_date": "17.06.2026",
+      "location": "LONDON - UK",
+      "country": "UK",
+      "category": "ACADEMIC",
+      "faculty": "Other"
+    },
+    {
+      "partner": "Tirupati Tradewing Pvt Ltd., Raipur",
+      "start_date": "09.05.2023",
+      "end_date": "Industrial",
+      "location": "Industrial",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Dr. C.V. Raman University, Bilaspur",
+      "start_date": "05.05.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. M.V.P.G. College, Mahasamund",
+      "start_date": "29.04.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "National Forensic Science University, Gandhinagar",
+      "start_date": "27.04.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sherlock Institute Of Forensic Science, Delhi",
+      "start_date": "26.04.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Higher Education, Accreditation & Research Promotion (HEARP) - Dr. Anant Ram Advisor",
+      "start_date": "26.04.2023",
+      "end_date": "",
+      "location": "",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Government B.P. Lodhi Pg College, Arang Chhattisgarh",
+      "start_date": "26.04.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Aikyam - International Collaboration Online Learning (ICOL)",
+      "start_date": "26.04.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Shri Shankaracharya Institute Of Professional Management & Technology",
+      "start_date": "25.04.2023",
+      "end_date": "",
+      "location": "",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Cyber Secured India",
+      "start_date": "21.04.2023",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Research Foundation Of India",
+      "start_date": "18.04.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Seth Phoolchand Agrawal Smriti Mahavidyalaya",
+      "start_date": "13.04.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Shri Sai College Of Engineering & Technology.",
+      "start_date": "10.04.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Samarth Study Center",
+      "start_date": "06.04.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Creanovation Technologies Pvt. Ltd.",
+      "start_date": "03.04.2023",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "CIPET: Institute Of Petrochemicals Engineering & Technology (IPT), Raipur",
+      "start_date": "28.03.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Veterans India",
+      "start_date": "25.03.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Edunet Foundation",
+      "start_date": "21.03.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "The Institute Of Company Secretaries Of India (ICSI)",
+      "start_date": "14.03.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. Mata Karma Girls College",
+      "start_date": "10.03.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Mibiz Cyber Forensics Laboratory",
+      "start_date": "03.03.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Inurture Education Solutions Pvt. Ltd.",
+      "start_date": "28.02.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Jain (Deemed-To-Be) University",
+      "start_date": "22.02.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "NH MMI Narayana Multispecialty Hospital",
+      "start_date": "22.02.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Aakanksha Lions Institute Of Learning & Empowerment",
+      "start_date": "21.02.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sportal Corporate",
+      "start_date": "21.02.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Symbiosis Open Education Society",
+      "start_date": "17.02.2023",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Vipra Kala, Vanijyra Avam Sharirik Shiksha Mahavidyalaya",
+      "start_date": "16.02.2023",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Shri Medishine Hospital New Rajendra Nagar Raipur",
+      "start_date": "01.02.2023",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sadbhavna Hospital",
+      "start_date": "17.01.2023",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Ncdex Investor (Clients) Protection Fund Trust - 15.12.2022",
+      "start_date": "17.01.2023",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Edinbox Communication Pvt. Ltd",
+      "start_date": "11.01.2023",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Choice Retail Solutions Private Limited",
+      "start_date": "07.01.2023",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Infosys Limited - Hardcopy Send For Signature Of Second Party",
+      "start_date": "15.12.2022",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Star Health And Allied Insurance Company Ltd",
+      "start_date": "16.11.2022",
+      "end_date": "Corporate",
+      "location": "Corporate",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Samadhan College",
+      "start_date": "11.11.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Siddhachalam Laboratory",
+      "start_date": "17.10.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. J. Yoganandam Chhattisgarh College, Raipur",
+      "start_date": "14.10.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Global Learning Pvt. Ltd. Stockbyte",
+      "start_date": "24.09.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sent Hardcopy For Sing - Pending From Second Party",
+      "start_date": "24.09.2022",
+      "end_date": "",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Government E.V.P.G. College",
+      "start_date": "21.09.2022",
+      "end_date": "",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Uday College Jamul Bhilai District Durg",
+      "start_date": "21.09.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Westford Education Group",
+      "start_date": "20.09.2022",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "United kingdom",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "CII - Yi - Confederation Of Indian Industry - Young Indians",
+      "start_date": "12.09.2022",
+      "end_date": "Industry",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "IBM - Datagami Technology Services Private Limited",
+      "start_date": "08.09.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Al-Shamal Private University",
+      "start_date": "26.08.2022",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "Syria",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Ed-Tech (Virohan : Terms Of Services)",
+      "start_date": "16.08.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Eduskills (Nation Building Through Skills)",
+      "start_date": "13.08.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Dev Sanskriti College Of Education & Technology",
+      "start_date": "01.08.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. D.S.V. Sanskrit College - Raipur (Missing)",
+      "start_date": "30.07.2022",
+      "end_date": "",
+      "location": "Missing",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Technoviz Automation Industrial Automation And Digitalization Training",
+      "start_date": "14.07.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Shiksha Snatak Mahavidyalaya - Mandhar",
+      "start_date": "30.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Parwati Institute Of T.R.&M. College Of Education - Madanpur - Silfilli",
+      "start_date": "25.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "NIIRA Educom",
+      "start_date": "16.06.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "College Dunia Web Pvt. Ltd.",
+      "start_date": "11.06.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Ekeeda Private Limited",
+      "start_date": "11.06.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Shri Ram College Of Education",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Pratibha College Of Education",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Kalyan PG College",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. Naveen College - Pirda Mahasamund",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Dr. Bhimrao Ambedkar Govt. College - Baloda",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Late Shree Jaidev Satpathi Govt. College - Basana",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Chandrapal Dadsena Govt. College - Pithora",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Virangana Avanti Bai Govt. College - Chhuikhadan",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. Naveen College - Manchuwa Balod",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. L.C.S. College - Ambagarh Chowki",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. Veer Surendra Say PG College - Gariaband",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Dr. B.S.P. College, Ghurghoda - Raigarh",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. Shaheed Gendsingh College - Charama",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "D.C. Jalan College Of Quality Education - Sarsiwa",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Madanlal Sahu Govt. College Armarikala",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Ramchandi College - Saraipali",
+      "start_date": "11.06.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "515 Army Base Workshop",
+      "start_date": "19.04.2022",
+      "end_date": "Government",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. Digivijay PG Autonomous College",
+      "start_date": "12.04.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Government V.Y.T. PG College",
+      "start_date": "17.03.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "LSAC Global - LSAT - Inda Services Agreement",
+      "start_date": "16.02.2022",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Indira Gandhi Government Post Graduate College",
+      "start_date": "04.02.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Suryodaya College Of Engineering And Technology",
+      "start_date": "02.02.2022",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Pending From Second Party",
+      "start_date": "28.12.2021",
+      "end_date": "",
+      "location": "Pending",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "J D College Of Engineering & Management",
+      "start_date": "23.09.2021",
+      "end_date": "",
+      "location": "",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sai Design & Software Solutions",
+      "start_date": "23.09.2021",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "(Pending From Second Party) Sent Through Speed Post",
+      "start_date": "22.09.2021",
+      "end_date": "",
+      "location": "Pending",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Starex University",
+      "start_date": "10.09.2021",
+      "end_date": "",
+      "location": "",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Spran International Pte Ltd",
+      "start_date": "27.08.2021",
+      "end_date": "Inc / Corporate",
+      "location": "Academic",
+      "country": "Singapore",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "ICFAI University",
+      "start_date": "23.07.2021",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Chhattisgarh Council Of Science & Technology (CGCOST)",
+      "start_date": "09.07.2021",
+      "end_date": "Government",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Shri Sai Baba Aadarsh Mahavidyalaya",
+      "start_date": "01.07.2021",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Ipem Group Of Institutions",
+      "start_date": "28.06.2021",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "St. Thomas College",
+      "start_date": "21.06.2021",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Consortium Of National Law University - Clat 2021",
+      "start_date": "27.05.2021",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sandip University",
+      "start_date": "25.05.2021",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Devi Hospital",
+      "start_date": "25.03.2021",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Xebia IT Architects Ind. Pvt. Ltd. (Over - Cancelled)",
+      "start_date": "23.03.2021",
+      "end_date": "Inc / Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "B.Incube - Incubation Centre",
+      "start_date": "19.01.2021",
+      "end_date": "Inc / Corporate",
+      "location": "Incubation Centre",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt Dudha Dhari Bajrang Girls Post Graduate Autonomous College, Raipur",
+      "start_date": "2020-2021",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Innovative Project Management Services Private Limited",
+      "start_date": "2020-2021",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guru Ghasidas Vishwavidyalaya, Bilaspur",
+      "start_date": "2020-2021",
+      "end_date": "Institution",
+      "location": "Institution",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Vamaa Dairy Private Limited",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Social Spark",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Konsole Group",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "RBP Law Chambers",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "DB Corp Ltd. Radio Division",
+      "start_date": "2020-2021",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Aquaplast Infracon Pvt.Ltd.",
+      "start_date": "2020-2021",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Bharat Construction Sales And Services",
+      "start_date": "2020-2021",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Government Digvijay Autonomous PG College, Rajnandgaon,C.G",
+      "start_date": "2020-2021",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Indika Ai Private Limited",
+      "start_date": "2020-2021",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Prosple",
+      "start_date": "2020-2021",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Apply Volt",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Wielabs",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Own Technology & Science",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "H-Bots Robotics",
+      "start_date": "2020-2021",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sadbhavna Hospital",
+      "start_date": "26.12.2020",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Cidc - Construction Industry Development Council",
+      "start_date": "24.12.2020",
+      "end_date": "Industry",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Imaginxp - Giggle Galaxy Private Limited",
+      "start_date": "17.03.2020",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sahil Waste Paper Suppliers",
+      "start_date": "07.03.2020",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Consortium of National Law University - CLAT 2020",
+      "start_date": "25.02.2020",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "AIC@36Inc - Chips",
+      "start_date": "13.01.2020",
+      "end_date": "Inc / Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Dhanush Engineering Services",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Pulse Active Stations",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Confederation of India Industry",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "J V Realty",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Lucintel Services India Pvt. Ltd.",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Just Dial Ltd.",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Mayfair Lake Resort",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Courtyard by Marriott",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Globecrop Law Consults & Services Pvt. Ltd.",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Universal Plus",
+      "start_date": "2019-2020",
+      "end_date": "Industry visit",
+      "location": "Industry Visit",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Havells India Pvt. Ltd.",
+      "start_date": "2019-2020",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Globecrop Microfinance Foundation",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Cytogene Research & Development",
+      "start_date": "2019-2020",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Eliteuniversal Sports Alliance India Private Limited",
+      "start_date": "16.11.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Inflibnet Centre - Shodhganga/Shodhgangotri",
+      "start_date": "24.10.2019",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Edayathangudy G.S. Pillay Arts & Science College",
+      "start_date": "18.10.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Cadd Centre Training Services Pvt. Ltd.",
+      "start_date": "05.10.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Bosch Limited",
+      "start_date": "04.10.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "International Mind Education Institute",
+      "start_date": "19.09.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "South Korea",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Cytogene Research And Development",
+      "start_date": "13.09.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Mgm's College Of Engineering, Nanded",
+      "start_date": "22.08.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Energy Efficiency Services Ltd. (EESL)",
+      "start_date": "17.08.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "M/S Raj Builders & Constructions",
+      "start_date": "14.08.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "The Entrepreneurship Cell - NIT, Raipur",
+      "start_date": "13.08.2019",
+      "end_date": "Government",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "CL Educate Limited",
+      "start_date": "10.08.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "M/S. Adatte E-Waste Management Private Limited",
+      "start_date": "01.08.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Hed Experts Private Limited (Xcelerator)",
+      "start_date": "01.07.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Superset - Weblength Infonet Pvt. Ltd.",
+      "start_date": "21.06.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Govt. Nagarjuna Post Graduate College of Science",
+      "start_date": "18.06.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Sandip Foundation (Only Certificate Given)",
+      "start_date": "18.06.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Techmiracle Edusoft LLP",
+      "start_date": "04.05.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Being Preneur",
+      "start_date": "30.04.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Nav Ankur Foundation",
+      "start_date": "25.04.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Oredian Education Resources Limited",
+      "start_date": "12.04.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "Nigeria",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Agreement (Algol - Balasai)",
+      "start_date": "08.04.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Proposal of Bhagwan Shri Balasai Educational & Charitable Society",
+      "start_date": "04.04.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Proposal of Algol Universal Trust",
+      "start_date": "02.04.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "No Place Limited",
+      "start_date": "27.03.2019",
+      "end_date": "Inc / Corporate",
+      "location": "Incubation Centre",
+      "country": "United Kingdom",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Universite Nango Conakry",
+      "start_date": "25.03.2019",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "Guinee",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "L'universite Kofi Annan De",
+      "start_date": "25.03.2019",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "Guinee",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Kingsmead Business Solution Limited",
+      "start_date": "13.03.2019",
+      "end_date": "Inc / Corporate",
+      "location": "Incubation Centre",
+      "country": "United kingdom",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Convenor, Core Committee, CLAT 2019",
+      "start_date": "09.03.2019",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Siddhivinayak Technical Campus",
+      "start_date": "09.03.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Rajamahendri Institute Of Engineering & Technology",
+      "start_date": "08.03.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Pearson India Education Services Pvt. Ltd.",
+      "start_date": "06.03.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Rajiv Gandhi Government Arts & Commerce College",
+      "start_date": "28.02.2019",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Tribhuvan University - Kirtipur",
+      "start_date": "03.02.2019",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "Nepal",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Consortium",
+      "start_date": "01.02.2019",
+      "end_date": "Academic",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Lsat - India (Pearson)",
+      "start_date": "21.01.2019",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Cadd Centre Training Services",
+      "start_date": "2018-2019",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Eliteuniversal Sports Alliance India Private Limited",
+      "start_date": "2017-2018",
+      "end_date": "Guest lecture",
+      "location": "Guest Lecture",
+      "country": "-",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Tata Power Skill Development Institute",
+      "start_date": "2017-2018",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Kalpataru Power Transmission Ltd.",
+      "start_date": "2017-2018",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "CAD Academy",
+      "start_date": "2017-2018",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Network Computers",
+      "start_date": "2017-2018",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "R.R. Ispat (A Unit Of Godawari Power & Ispat Ltd.)",
+      "start_date": "2017-2018",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Globussoft Pvt. Ltd.",
+      "start_date": "2017-2018",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Bansod Realtors",
+      "start_date": "2017-2018",
+      "end_date": "Industry Visit",
+      "location": "Industry Visit",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Infotech Services",
+      "start_date": "2017-2018",
+      "end_date": "Industry",
+      "location": "Industry",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "KDG & Company",
+      "start_date": "2017-2018",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "DFL Buildcon",
+      "start_date": "2017-2018",
+      "end_date": "Guest Lecture",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Global Placements",
+      "start_date": "27.12.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Linkup Property Development Limited",
+      "start_date": "17.12.2018",
+      "end_date": "Inc / Corporate",
+      "location": "Incubation Centre",
+      "country": "United Kingdom",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Gem Learning Services Pvt. Ltd.",
+      "start_date": "15.12.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Hewad University",
+      "start_date": "06.11.2018",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "Afghanistan",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "P Property Holdings Limited",
+      "start_date": "22.10.2018",
+      "end_date": "Inc / Corporate",
+      "location": "Incubation Centre",
+      "country": "United kingdom",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Microsoft Corporation (India) Pvt. Ltd.",
+      "start_date": "11.10.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Deudraa UK Limited",
+      "start_date": "08.08.2018",
+      "end_date": "Inc / Corporate",
+      "location": "Incubation Centre",
+      "country": "United kingdom",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Baghel Tutorial",
+      "start_date": "01.08.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Aum Imexco (India) Pvt. Ltd.",
+      "start_date": "18.07.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Balaji Institute of International Business (BIIB)",
+      "start_date": "12.07.2018",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Rajiv Gandhi National University of Law",
+      "start_date": "07.07.2018",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Spran International Pte Ltd",
+      "start_date": "03.07.2018",
+      "end_date": "Corporate",
+      "location": "Incubation Centre",
+      "country": "Malaysia",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "PHD Chamber of Commerce and Industry",
+      "start_date": "03.07.2018",
+      "end_date": "Industry",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "NIIT Ltd.",
+      "start_date": "30.06.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Academy of Journalism And Communication, Hanoi",
+      "start_date": "10.05.2018",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "Vietnam",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Cdsl Ventures Limited",
+      "start_date": "07.05.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Shaheed Prof. Rabbani Education University",
+      "start_date": "07.04.2018",
+      "end_date": "Academic",
+      "location": "University",
+      "country": "Afghanistan",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Convenor, Core Committee, CLAT 2018",
+      "start_date": "29.03.2018",
+      "end_date": "Corporate",
+      "location": "Others",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Enhance Knowledge Services (Million Lights)",
+      "start_date": "16.03.2018",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Career launcher - cl educate limited",
+      "start_date": "31.08.2017",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "M/s Rubyc Enterprises - missing",
+      "start_date": "30.06.2017",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Dr. Radhabai Govt. Naveen Girls' College",
+      "start_date": "04.12.2014",
+      "end_date": "Academic",
+      "location": "Institute",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Kaushal Bharat Vikas Kendra (KBVK)",
+      "start_date": "29.07.2011",
+      "end_date": "Corporate",
+      "location": "Academic",
+      "country": "India",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Academic Development of Faculty",
+      "start_date": "Guru Nanak First Grade Degree College, Bidar",
+      "end_date": "3 Years",
+      "location": "Workshop",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Mentoring HEI Towards Accreditation & Training, and Placements",
+      "start_date": "Guru Nanak Dev Engineering College, Bidar, Karnataka",
+      "end_date": "3 Years",
+      "location": "Research Establishment",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Consultancy Work",
+      "start_date": "GEMS Polytechnic College, Aurangabad, Bihar",
+      "end_date": "3 Years",
+      "location": "Consultancy Work",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Training & Placement",
+      "start_date": "WieLabs",
+      "end_date": "3 Years",
+      "location": "Internship & Placement",
+      "country": "2022",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Research & Collaboration",
+      "start_date": "Polygon Geospatial Pvt.Ltd.",
+      "end_date": "3 Years",
+      "location": "Research Projects & Collaboration",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Workshop",
+      "start_date": "Yash Foundation",
+      "end_date": "15 Years",
+      "location": "Workshop",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Vamaa Dairy Private Limited",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Social Spark",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Konsole Group",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Bharat Construction Sales and Services",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Kalapatru Power & Transmission Ltd.",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Just Dial Ltd.",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2023",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Training & Research",
+      "start_date": "515 Army Base Workshop, Ulsoor\nBengaluru-560008",
+      "end_date": "3 Years",
+      "location": "Training",
+      "country": "2022",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Academic Development of Students",
+      "start_date": "Balco Medical Centre\nSector-36, Upperwara, Atal Nagar, Naya Raipur (C.G)",
+      "end_date": "5 Years",
+      "location": "Internship",
+      "country": "2022",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Implementing and Incorporating OBE",
+      "start_date": "Indian College of Education, Mahasamund",
+      "end_date": "3 Years",
+      "location": "Research Establishment",
+      "country": "2022",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Skill Development, IT Education, and Workforce Development Programs",
+      "start_date": "Eduskills Foundation",
+      "end_date": "3 Years",
+      "location": "Internships & Skill Development",
+      "country": "2022",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Academic Development of Students",
+      "start_date": "Balco Medical Centre\nSector-36, Upperwara, Atal Nagar, Naya Raipur (C.G)",
+      "end_date": "5 Years",
+      "location": "Internship",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Vamaa Dairy Private Limited",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Social Spark",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Konsole Group",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "RBP Law Chambers",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Bharat Construction Sales and Services",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "DB Corp Ltd. Radio Division",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Kalapatru Power & Transmission Ltd.",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "CAD Academy",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Globussoft Pvt. Ltd.",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Just Dial Ltd.",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2021-22",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Vamaa Dairy Private Limited",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Social Spark",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Konsole Group",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "Bharat Construction Sales and Services",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "RBP Law Chambers",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement",
+      "start_date": "DB Corp Ltd. Radio Division",
+      "end_date": "5 Years",
+      "location": "Placement",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Aquaplast Infracon Pvt.Ltd.",
+      "end_date": "5 Years",
+      "location": "Guest Lecture",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Government Digvijay Autonomous PG College, Rajnandgaon, CG",
+      "end_date": "1 Year",
+      "location": "Guest Lecture",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Indika AI Private Limited",
+      "end_date": "1 Year",
+      "location": "Guest Lecture",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Prosple",
+      "end_date": "1 Year",
+      "location": "Guest Lecture",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internships",
+      "start_date": "Apply Volt",
+      "end_date": "2 Years",
+      "location": "Internships",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internships",
+      "start_date": "WieLabs",
+      "end_date": "2 Years",
+      "location": "Internships",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internships",
+      "start_date": "Own Technology & Science",
+      "end_date": "2 Years",
+      "location": "Internships",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internships",
+      "start_date": "H-Bots Robotics",
+      "end_date": "2 Years",
+      "location": "Internships",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internships",
+      "start_date": "Dhanush Engineering Services",
+      "end_date": "2 Years",
+      "location": "Internships",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internships",
+      "start_date": "Pulse Active Stations",
+      "end_date": "2 Years",
+      "location": "Internships",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Webinar",
+      "start_date": "Confederation of Indian Industry",
+      "end_date": "1 Year",
+      "location": "Webinar",
+      "country": "2020-21",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "36INC, Chhattisgarh Govt.",
+      "end_date": "3 Years",
+      "location": "Guest Lecture",
+      "country": "2020",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Elite Universal Sports Alliance India Private Limited",
+      "end_date": "10 Years",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Havells India Pvt. Ltd.",
+      "end_date": "5 Years",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internship",
+      "start_date": "Vedanta Medical Research Foundation",
+      "end_date": "5 Years",
+      "location": "Internship",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "",
+      "end_date": "",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement Drive",
+      "start_date": "",
+      "end_date": "",
+      "location": "Placement Drive",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internship",
+      "start_date": "",
+      "end_date": "",
+      "location": "Internship",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Industry Visit",
+      "start_date": "",
+      "end_date": "",
+      "location": "Industry Visit",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Industry Visit",
+      "start_date": "Universal Plus",
+      "end_date": "5 Years",
+      "location": "Industry Visit",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Globecrop Law Consults & Services Pvt. Ltd.",
+      "end_date": "5 Years",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Workshop",
+      "start_date": "Cytogene Research & Development",
+      "end_date": "5 Years",
+      "location": "Workshop",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internship",
+      "start_date": "Courtyard By Marriott",
+      "end_date": "5 Years",
+      "location": "Internship",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internship",
+      "start_date": "Mayfair Lake Resort",
+      "end_date": "5 Years",
+      "location": "Internship",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internship",
+      "start_date": "Just Dial Ltd.",
+      "end_date": "5 Years",
+      "location": "Internship",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Industry Visit",
+      "start_date": "Lucintel Services India Pvt. Ltd.",
+      "end_date": "5 Years",
+      "location": "Industry Visit",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement Drive",
+      "start_date": "J V Realty",
+      "end_date": "5 Years",
+      "location": "Placement Drive",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Training",
+      "start_date": "Tata Power Skill Development Institute",
+      "end_date": "1 Year",
+      "location": "Training",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Globecrop Microfinance Foundation",
+      "end_date": "5 Years",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Workshop",
+      "start_date": "Cadd Centre Training Services",
+      "end_date": "3 Years",
+      "location": "Workshop",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "CL Educate Ltd.",
+      "end_date": "1 Year",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "Bosch Ltd.",
+      "end_date": "1 Year",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "International Mind Education Institute South Korea",
+      "end_date": "5 Years",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "MGM College Of Engineering - Nanded",
+      "end_date": "2 Years",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "The Enterprenurship Cell NIT Raipur",
+      "end_date": "1 Year",
+      "location": "Guest Lecture",
+      "country": "2019",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Plant Visit",
+      "start_date": "Kalpataru Power Transmission Ltd.",
+      "end_date": "5 Years",
+      "location": "Plant Visit",
+      "country": "2019.0",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement Drive",
+      "start_date": "",
+      "end_date": "",
+      "location": "Placement Drive",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "",
+      "end_date": "",
+      "location": "Guest Lecture",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement Drive",
+      "start_date": "Globussoft Pvt. Ltd.",
+      "end_date": "5 Years",
+      "location": "Placement Drive",
+      "country": "2018.0",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Internship",
+      "start_date": "",
+      "end_date": "",
+      "location": "Internship",
+      "country": "",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Guest Lecture",
+      "start_date": "KDG & Company",
+      "end_date": "5 Years",
+      "location": "Guest Lecture",
+      "country": "2018.0",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement Drive",
+      "start_date": "Magnum Group",
+      "end_date": "5 Years",
+      "location": "Placement Drive",
+      "country": "2018.0",
+      "category": "",
+      "faculty": ""
+    },
+    {
+      "partner": "Placement Drive",
+      "start_date": "Saisun Outsourcing Services Pvt. Ltd.",
+      "end_date": "2 Years",
+      "location": "Placement Drive",
+      "country": "2018.0",
+      "category": "",
+      "faculty": ""
+    }
+  ]
+}

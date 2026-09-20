@@ -1,0 +1,1986 @@
+[
+  {
+    "question": "Hi",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hello",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hey",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Good morning",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Good afternoon",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Good evening",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Greetings",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hi there",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hello chatbot",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hey assistant",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Is anyone there?",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Namaste",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hello Kalinga assistant",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hi AI bot",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Start conversation",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hey there chatbot",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Good day",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Hi assistant",
+    "intent": "greeting",
+    "response": "Hello! Welcome to Kalinga University AI Student Assistant. How can I help you today with admissions, courses, fees, scholarships, internships, or placements?",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Bye",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Goodbye",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "See you later",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Thank you bye",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Quit",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Exit",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Have a good day",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Bye bye",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Catch you later",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "I am done",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Close chat",
+    "intent": "goodbye",
+    "response": "Goodbye! Wish you all the best in your academic journey at Kalinga University. Feel free to return if you have more questions!",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Thanks",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Thank you",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Thanks a lot",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Thank you very much",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Appreciate your help",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "That was helpful",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Great info thanks",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Thanks bot",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Thank you assistant",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Awesome thanks",
+    "intent": "thanks",
+    "response": "You're very welcome! Let me know if you need any more details about Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Who are you?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is your name?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Are you human?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What can you do?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Tell me about yourself",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Who created you?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Are you an AI?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is this chatbot?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Who am I talking to?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Identify yourself",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is your purpose?",
+    "intent": "bot_identity",
+    "response": "I'm the Kalinga University AI Student Assistant, a project chatbot designed to help students find official information about admissions, courses, fees, scholarships, internships, placements, and campus facilities.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Tell me about Kalinga University",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Where is Kalinga University located?",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Is Kalinga University good?",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Give me an overview of Kalinga University",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is Kalinga University famous for?",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "How many programs does Kalinga offer?",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Is Kalinga University recognized?",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "University highlights",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Kalinga University location",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Where is the campus?",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Tell me about KU Raipur",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Kalinga University Naya Raipur",
+    "intent": "university_overview",
+    "response": "According to information published by Kalinga University, it is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh. The university advertises 130+ undergraduate, postgraduate, and doctoral programs, 650+ international students from 33+ countries, 400+ recruitment partners, 7,200+ research publications, and 562+ patents.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "How to contact Kalinga University?",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is the admission helpline number?",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "University contact email",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Registrar email address",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Kalinga University phone number",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Admission inquiry contact",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "How can I call the university?",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Where to send query email?",
+    "intent": "contact_information",
+    "response": "You can contact Kalinga University via phone at +91-9907252100 or email at registrar@kalingauniversity.ac.in. The campus is located in Kotni, Near Mantralaya, Naya Raipur, Chhattisgarh.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is the weather today?",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Who won the cricket match?",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Tell me a joke",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Who is the president of America?",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "How to cook biryani?",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is Bitcoin price?",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Can you play music?",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Random text 123",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "asdfghjkl",
+    "intent": "unknown",
+    "response": "I'm not fully sure about that question. I can currently help with:\n\u2022 Admissions & Entrance Exams\n\u2022 Courses & Programs\n\u2022 Fee Structure\n\u2022 Scholarships\n\u2022 Internships & Industry Exposure\n\u2022 Placements & Recruiters\n\u2022 Campus Facilities\nPlease rephrase your question or choose one of these topics.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What is the admission procedure?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "How can I apply for admission?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "How to get admission in Kalinga University?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Tell me the step by step admission process",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "How do I register for admission?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "What are the steps to join Kalinga University?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Can I apply online?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Admission process 2026-27",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "How do I take admission?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "What is the procedure after shortlisting?",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Application steps for KU",
+    "intent": "admission_process",
+    "response": "According to Kalinga University's published admission procedure, the steps are:\n1. Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).\n2. Register for the relevant entrance exam (KALSEE for general programs or KAL-MAT for BBA/MBA).\n3. Appear for the computer-based entrance examination.\n4. Complete the online admission form after being shortlisted.\n5. Submit self-attested academic documents.\n6. Pay the applicable program fee within 10 days of receiving the offer letter.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Are admissions open for 2026-27?",
+    "intent": "admission_status",
+    "response": "Kalinga University's website displays 'Admission Open 2026\u201327'. However, admission dates can change by program and phase. Please verify the current live admission status on Kalinga University's official admission page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Is admission open right now?",
+    "intent": "admission_status",
+    "response": "Kalinga University's website displays 'Admission Open 2026\u201327'. However, admission dates can change by program and phase. Please verify the current live admission status on Kalinga University's official admission page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "What is the current admission status?",
+    "intent": "admission_status",
+    "response": "Kalinga University's website displays 'Admission Open 2026\u201327'. However, admission dates can change by program and phase. Please verify the current live admission status on Kalinga University's official admission page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Can I apply today?",
+    "intent": "admission_status",
+    "response": "Kalinga University's website displays 'Admission Open 2026\u201327'. However, admission dates can change by program and phase. Please verify the current live admission status on Kalinga University's official admission page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Has phase 4 admission closed?",
+    "intent": "admission_status",
+    "response": "Kalinga University's website displays 'Admission Open 2026\u201327'. However, admission dates can change by program and phase. Please verify the current live admission status on Kalinga University's official admission page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Is 2026-27 intake still open?",
+    "intent": "admission_status",
+    "response": "Kalinga University's website displays 'Admission Open 2026\u201327'. However, admission dates can change by program and phase. Please verify the current live admission status on Kalinga University's official admission page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Are seats available for admission?",
+    "intent": "admission_status",
+    "response": "Kalinga University's website displays 'Admission Open 2026\u201327'. However, admission dates can change by program and phase. Please verify the current live admission status on Kalinga University's official admission page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Where is the admission application form?",
+    "intent": "admission_application",
+    "response": "You can access and complete the online admission application form through Kalinga University's official admission portal at https://kalingauniversity.ac.in/admissions?studyLevel=UG.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "How to fill the application form?",
+    "intent": "admission_application",
+    "response": "You can access and complete the online admission application form through Kalinga University's official admission portal at https://kalingauniversity.ac.in/admissions?studyLevel=UG.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Online application link",
+    "intent": "admission_application",
+    "response": "You can access and complete the online admission application form through Kalinga University's official admission portal at https://kalingauniversity.ac.in/admissions?studyLevel=UG.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Kalinga admission portal",
+    "intent": "admission_application",
+    "response": "You can access and complete the online admission application form through Kalinga University's official admission portal at https://kalingauniversity.ac.in/admissions?studyLevel=UG.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Where do I fill my details for admission?",
+    "intent": "admission_application",
+    "response": "You can access and complete the online admission application form through Kalinga University's official admission portal at https://kalingauniversity.ac.in/admissions?studyLevel=UG.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "What documents are required for admission?",
+    "intent": "admission_documents",
+    "response": "According to Kalinga University's admission policy, required documents include:\n\u2022 10th & 12th Mark sheets and passing certificates\n\u2022 Graduation mark sheets (for PG applicants)\n\u2022 Original Transfer Certificate (TC) / College Leaving Certificate (CLC)\n\u2022 Character Certificate (CC) & Migration Certificate\n\u2022 Gap Certificate / Undertaking (if applicable)\n\u2022 Proof of employment (for working professionals)\n\u2022 Passport size photos and ID Proof (Aadhaar / Passport)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "List of documents needed for joining",
+    "intent": "admission_documents",
+    "response": "According to Kalinga University's admission policy, required documents include:\n\u2022 10th & 12th Mark sheets and passing certificates\n\u2022 Graduation mark sheets (for PG applicants)\n\u2022 Original Transfer Certificate (TC) / College Leaving Certificate (CLC)\n\u2022 Character Certificate (CC) & Migration Certificate\n\u2022 Gap Certificate / Undertaking (if applicable)\n\u2022 Proof of employment (for working professionals)\n\u2022 Passport size photos and ID Proof (Aadhaar / Passport)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Document verification list",
+    "intent": "admission_documents",
+    "response": "According to Kalinga University's admission policy, required documents include:\n\u2022 10th & 12th Mark sheets and passing certificates\n\u2022 Graduation mark sheets (for PG applicants)\n\u2022 Original Transfer Certificate (TC) / College Leaving Certificate (CLC)\n\u2022 Character Certificate (CC) & Migration Certificate\n\u2022 Gap Certificate / Undertaking (if applicable)\n\u2022 Proof of employment (for working professionals)\n\u2022 Passport size photos and ID Proof (Aadhaar / Passport)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "What certificates do I need to submit?",
+    "intent": "admission_documents",
+    "response": "According to Kalinga University's admission policy, required documents include:\n\u2022 10th & 12th Mark sheets and passing certificates\n\u2022 Graduation mark sheets (for PG applicants)\n\u2022 Original Transfer Certificate (TC) / College Leaving Certificate (CLC)\n\u2022 Character Certificate (CC) & Migration Certificate\n\u2022 Gap Certificate / Undertaking (if applicable)\n\u2022 Proof of employment (for working professionals)\n\u2022 Passport size photos and ID Proof (Aadhaar / Passport)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Do I need transfer certificate for admission?",
+    "intent": "admission_documents",
+    "response": "According to Kalinga University's admission policy, required documents include:\n\u2022 10th & 12th Mark sheets and passing certificates\n\u2022 Graduation mark sheets (for PG applicants)\n\u2022 Original Transfer Certificate (TC) / College Leaving Certificate (CLC)\n\u2022 Character Certificate (CC) & Migration Certificate\n\u2022 Gap Certificate / Undertaking (if applicable)\n\u2022 Proof of employment (for working professionals)\n\u2022 Passport size photos and ID Proof (Aadhaar / Passport)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Is gap certificate required?",
+    "intent": "admission_documents",
+    "response": "According to Kalinga University's admission policy, required documents include:\n\u2022 10th & 12th Mark sheets and passing certificates\n\u2022 Graduation mark sheets (for PG applicants)\n\u2022 Original Transfer Certificate (TC) / College Leaving Certificate (CLC)\n\u2022 Character Certificate (CC) & Migration Certificate\n\u2022 Gap Certificate / Undertaking (if applicable)\n\u2022 Proof of employment (for working professionals)\n\u2022 Passport size photos and ID Proof (Aadhaar / Passport)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Documents for registration",
+    "intent": "admission_documents",
+    "response": "According to Kalinga University's admission policy, required documents include:\n\u2022 10th & 12th Mark sheets and passing certificates\n\u2022 Graduation mark sheets (for PG applicants)\n\u2022 Original Transfer Certificate (TC) / College Leaving Certificate (CLC)\n\u2022 Character Certificate (CC) & Migration Certificate\n\u2022 Gap Certificate / Undertaking (if applicable)\n\u2022 Proof of employment (for working professionals)\n\u2022 Passport size photos and ID Proof (Aadhaar / Passport)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "What are the eligibility requirements?",
+    "intent": "admission_eligibility",
+    "response": "Eligibility depends on the specific program. Generally, UG programs require completion of 10+2 from a recognized board, PG programs require a relevant Bachelor's degree, and candidates must meet the minimum qualifying score in entrance tests like KALSEE or KAL-MAT.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Am I eligible for admission?",
+    "intent": "admission_eligibility",
+    "response": "Eligibility depends on the specific program. Generally, UG programs require completion of 10+2 from a recognized board, PG programs require a relevant Bachelor's degree, and candidates must meet the minimum qualifying score in entrance tests like KALSEE or KAL-MAT.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Eligibility criteria for UG courses",
+    "intent": "admission_eligibility",
+    "response": "Eligibility depends on the specific program. Generally, UG programs require completion of 10+2 from a recognized board, PG programs require a relevant Bachelor's degree, and candidates must meet the minimum qualifying score in entrance tests like KALSEE or KAL-MAT.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Eligibility criteria for PG courses",
+    "intent": "admission_eligibility",
+    "response": "Eligibility depends on the specific program. Generally, UG programs require completion of 10+2 from a recognized board, PG programs require a relevant Bachelor's degree, and candidates must meet the minimum qualifying score in entrance tests like KALSEE or KAL-MAT.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "What percentage is required for admission?",
+    "intent": "admission_eligibility",
+    "response": "Eligibility depends on the specific program. Generally, UG programs require completion of 10+2 from a recognized board, PG programs require a relevant Bachelor's degree, and candidates must meet the minimum qualifying score in entrance tests like KALSEE or KAL-MAT.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "Who can apply for Kalinga University?",
+    "intent": "admission_eligibility",
+    "response": "Eligibility depends on the specific program. Generally, UG programs require completion of 10+2 from a recognized board, PG programs require a relevant Bachelor's degree, and candidates must meet the minimum qualifying score in entrance tests like KALSEE or KAL-MAT.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admissions?studyLevel=UG"
+    ]
+  },
+  {
+    "question": "What entrance exam do I need?",
+    "intent": "entrance_exam",
+    "response": "Kalinga University requires entrance examinations for admissions: BBA and MBA applicants take KAL-MAT, while applicants for other UG/PG programs take KALSEE (Kalinga Scholastic Entrance Examination). Ph.D. programs have a separate entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "What entrance exam is required?",
+    "intent": "entrance_exam",
+    "response": "Kalinga University requires entrance examinations for admissions: BBA and MBA applicants take KAL-MAT, while applicants for other UG/PG programs take KALSEE (Kalinga Scholastic Entrance Examination). Ph.D. programs have a separate entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Do I need to give an entrance test?",
+    "intent": "entrance_exam",
+    "response": "Kalinga University requires entrance examinations for admissions: BBA and MBA applicants take KAL-MAT, while applicants for other UG/PG programs take KALSEE (Kalinga Scholastic Entrance Examination). Ph.D. programs have a separate entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Which entrance test does Kalinga University accept?",
+    "intent": "entrance_exam",
+    "response": "Kalinga University requires entrance examinations for admissions: BBA and MBA applicants take KAL-MAT, while applicants for other UG/PG programs take KALSEE (Kalinga Scholastic Entrance Examination). Ph.D. programs have a separate entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Entrance exam details",
+    "intent": "entrance_exam",
+    "response": "Kalinga University requires entrance examinations for admissions: BBA and MBA applicants take KAL-MAT, while applicants for other UG/PG programs take KALSEE (Kalinga Scholastic Entrance Examination). Ph.D. programs have a separate entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Is there an entrance exam for admission?",
+    "intent": "entrance_exam",
+    "response": "Kalinga University requires entrance examinations for admissions: BBA and MBA applicants take KAL-MAT, while applicants for other UG/PG programs take KALSEE (Kalinga Scholastic Entrance Examination). Ph.D. programs have a separate entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Is entrance test mandatory?",
+    "intent": "entrance_exam",
+    "response": "Kalinga University requires entrance examinations for admissions: BBA and MBA applicants take KAL-MAT, while applicants for other UG/PG programs take KALSEE (Kalinga Scholastic Entrance Examination). Ph.D. programs have a separate entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "What is KALSEE?",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Tell me about KALSEE exam",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Tell me about KALSEE",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "What is the pattern of KALSEE?",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "How many questions in KALSEE?",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Is there negative marking in KALSEE?",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "KALSEE duration and format",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "KALSEE exam fee",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Qualifying marks in KALSEE",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "What is Kalinga Scholastic Entrance Examination?",
+    "intent": "kalsee",
+    "response": "KALSEE (Kalinga Scholastic Entrance Examination) is a computer-based multiple-choice test for UG and PG programs (except BBA/MBA). Details:\n\u2022 Duration: 90 minutes (120 min for Ph.D.)\n\u2022 Questions: 90 MCQs (100 for Ph.D.)\n\u2022 Negative Marking: None\n\u2022 Qualifying score: Minimum 50%\n\u2022 Exam Fee: \u20b91,400 for UG/PG (India/SAARC candidates)",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "What is KAL-MAT?",
+    "intent": "kalmat",
+    "response": "KAL-MAT (Kalinga Management Aptitude Test) is the specialized management entrance examination required for admission into BBA and MBA programs at Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Tell me about KAL MAT",
+    "intent": "kalmat",
+    "response": "KAL-MAT (Kalinga Management Aptitude Test) is the specialized management entrance examination required for admission into BBA and MBA programs at Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Is KAL-MAT required for BBA?",
+    "intent": "kalmat",
+    "response": "KAL-MAT (Kalinga Management Aptitude Test) is the specialized management entrance examination required for admission into BBA and MBA programs at Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Entrance exam for MBA",
+    "intent": "kalmat",
+    "response": "KAL-MAT (Kalinga Management Aptitude Test) is the specialized management entrance examination required for admission into BBA and MBA programs at Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Management entrance test in Kalinga",
+    "intent": "kalmat",
+    "response": "KAL-MAT (Kalinga Management Aptitude Test) is the specialized management entrance examination required for admission into BBA and MBA programs at Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "KALMAT test details",
+    "intent": "kalmat",
+    "response": "KAL-MAT (Kalinga Management Aptitude Test) is the specialized management entrance examination required for admission into BBA and MBA programs at Kalinga University.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "What is the last date to apply?",
+    "intent": "admission_deadline",
+    "response": "Admission dates and deadlines vary by program and phase. The website notes fee payment within 10 days of receiving the offer letter. For exact current intake deadlines, please verify directly on Kalinga University's official admission portal.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Admission deadline 2026",
+    "intent": "admission_deadline",
+    "response": "Admission dates and deadlines vary by program and phase. The website notes fee payment within 10 days of receiving the offer letter. For exact current intake deadlines, please verify directly on Kalinga University's official admission portal.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "When does admission close?",
+    "intent": "admission_deadline",
+    "response": "Admission dates and deadlines vary by program and phase. The website notes fee payment within 10 days of receiving the offer letter. For exact current intake deadlines, please verify directly on Kalinga University's official admission portal.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "Is there a deadline for fee payment?",
+    "intent": "admission_deadline",
+    "response": "Admission dates and deadlines vary by program and phase. The website notes fee payment within 10 days of receiving the offer letter. For exact current intake deadlines, please verify directly on Kalinga University's official admission portal.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "When is the last date for phase admission?",
+    "intent": "admission_deadline",
+    "response": "Admission dates and deadlines vary by program and phase. The website notes fee payment within 10 days of receiving the offer letter. For exact current intake deadlines, please verify directly on Kalinga University's official admission portal.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/admission-procedure"
+    ]
+  },
+  {
+    "question": "What courses does Kalinga University offer?",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "List of available courses",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What programs are offered?",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Tell me about all departments",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Which courses can I study?",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Available degrees at Kalinga University",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Course catalog",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What academic fields are available?",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What courses are available?",
+    "intent": "courses",
+    "response": "Kalinga University offers 130+ programs across multiple faculties including Arts & Humanities, Commerce & Management, Education, Hotel Management, Information Technology, Law, Pharmacy, Science, Technology/Engineering, and Ph.D. studies. The knowledge base contains selected programs from available sources; please check the official departments page for the full inventory.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What UG courses are available?",
+    "intent": "undergraduate_courses",
+    "response": "Selected UG courses include BA (Liberal Arts, PSC Coaching, Journalism), BBA, B.Com, B.Ed, B.Sc Hotel Management, BCA (including AI & ML, Game Dev), LLB, BBA+LLB, B.Pharm, B.Sc (Biotech, Forensic, Microbiology), and B.Tech (CSE, AI & ML, Civil, Electrical, Mechanical).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Undergraduate programs at Kalinga",
+    "intent": "undergraduate_courses",
+    "response": "Selected UG courses include BA (Liberal Arts, PSC Coaching, Journalism), BBA, B.Com, B.Ed, B.Sc Hotel Management, BCA (including AI & ML, Game Dev), LLB, BBA+LLB, B.Pharm, B.Sc (Biotech, Forensic, Microbiology), and B.Tech (CSE, AI & ML, Civil, Electrical, Mechanical).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Bachelor degree options",
+    "intent": "undergraduate_courses",
+    "response": "Selected UG courses include BA (Liberal Arts, PSC Coaching, Journalism), BBA, B.Com, B.Ed, B.Sc Hotel Management, BCA (including AI & ML, Game Dev), LLB, BBA+LLB, B.Pharm, B.Sc (Biotech, Forensic, Microbiology), and B.Tech (CSE, AI & ML, Civil, Electrical, Mechanical).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "List of UG degrees",
+    "intent": "undergraduate_courses",
+    "response": "Selected UG courses include BA (Liberal Arts, PSC Coaching, Journalism), BBA, B.Com, B.Ed, B.Sc Hotel Management, BCA (including AI & ML, Game Dev), LLB, BBA+LLB, B.Pharm, B.Sc (Biotech, Forensic, Microbiology), and B.Tech (CSE, AI & ML, Civil, Electrical, Mechanical).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What can I study after 12th?",
+    "intent": "undergraduate_courses",
+    "response": "Selected UG courses include BA (Liberal Arts, PSC Coaching, Journalism), BBA, B.Com, B.Ed, B.Sc Hotel Management, BCA (including AI & ML, Game Dev), LLB, BBA+LLB, B.Pharm, B.Sc (Biotech, Forensic, Microbiology), and B.Tech (CSE, AI & ML, Civil, Electrical, Mechanical).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What PG courses are available?",
+    "intent": "postgraduate_courses",
+    "response": "Selected PG courses include MA (Journalism, Film Making), MSW, MBA, M.Com, M.Ed, MCA, LLM, M.Pharm, M.Sc (Biochemistry, Biotechnology, Microbiology, Forensic Science), and M.Tech.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Postgraduate programs",
+    "intent": "postgraduate_courses",
+    "response": "Selected PG courses include MA (Journalism, Film Making), MSW, MBA, M.Com, M.Ed, MCA, LLM, M.Pharm, M.Sc (Biochemistry, Biotechnology, Microbiology, Forensic Science), and M.Tech.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Master degree options",
+    "intent": "postgraduate_courses",
+    "response": "Selected PG courses include MA (Journalism, Film Making), MSW, MBA, M.Com, M.Ed, MCA, LLM, M.Pharm, M.Sc (Biochemistry, Biotechnology, Microbiology, Forensic Science), and M.Tech.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "List of PG degrees",
+    "intent": "postgraduate_courses",
+    "response": "Selected PG courses include MA (Journalism, Film Making), MSW, MBA, M.Com, M.Ed, MCA, LLM, M.Pharm, M.Sc (Biochemistry, Biotechnology, Microbiology, Forensic Science), and M.Tech.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What courses after graduation?",
+    "intent": "postgraduate_courses",
+    "response": "Selected PG courses include MA (Journalism, Film Making), MSW, MBA, M.Com, M.Ed, MCA, LLM, M.Pharm, M.Sc (Biochemistry, Biotechnology, Microbiology, Forensic Science), and M.Tech.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Does Kalinga offer Ph.D.?",
+    "intent": "phd_programs",
+    "response": "Yes, Kalinga University offers Ph.D. doctoral programs across Management, Computer Science, Law, Pharmacy, Science, and Humanities. Candidates take a 120-minute, 100-question Ph.D. entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Doctoral programs",
+    "intent": "phd_programs",
+    "response": "Yes, Kalinga University offers Ph.D. doctoral programs across Management, Computer Science, Law, Pharmacy, Science, and Humanities. Candidates take a 120-minute, 100-question Ph.D. entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Ph.D. admission",
+    "intent": "phd_programs",
+    "response": "Yes, Kalinga University offers Ph.D. doctoral programs across Management, Computer Science, Law, Pharmacy, Science, and Humanities. Candidates take a 120-minute, 100-question Ph.D. entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Research degrees at Kalinga",
+    "intent": "phd_programs",
+    "response": "Yes, Kalinga University offers Ph.D. doctoral programs across Management, Computer Science, Law, Pharmacy, Science, and Humanities. Candidates take a 120-minute, 100-question Ph.D. entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Ph.D. entrance exam details",
+    "intent": "phd_programs",
+    "response": "Yes, Kalinga University offers Ph.D. doctoral programs across Management, Computer Science, Law, Pharmacy, Science, and Humanities. Candidates take a 120-minute, 100-question Ph.D. entrance test.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/kalsee"
+    ]
+  },
+  {
+    "question": "Does Kalinga offer B.Tech?",
+    "intent": "btech_courses",
+    "response": "Yes, Kalinga University offers B.Tech programs in Computer Science Engineering (CSE), CSE with AI & Machine Learning, Civil Engineering, Electrical Engineering, and Mechanical Engineering.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Engineering courses",
+    "intent": "btech_courses",
+    "response": "Yes, Kalinga University offers B.Tech programs in Computer Science Engineering (CSE), CSE with AI & Machine Learning, Civil Engineering, Electrical Engineering, and Mechanical Engineering.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "B.Tech specialization",
+    "intent": "btech_courses",
+    "response": "Yes, Kalinga University offers B.Tech programs in Computer Science Engineering (CSE), CSE with AI & Machine Learning, Civil Engineering, Electrical Engineering, and Mechanical Engineering.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "B.Tech Computer Science CSE",
+    "intent": "btech_courses",
+    "response": "Yes, Kalinga University offers B.Tech programs in Computer Science Engineering (CSE), CSE with AI & Machine Learning, Civil Engineering, Electrical Engineering, and Mechanical Engineering.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "B.Tech in AI & ML",
+    "intent": "btech_courses",
+    "response": "Yes, Kalinga University offers B.Tech programs in Computer Science Engineering (CSE), CSE with AI & Machine Learning, Civil Engineering, Electrical Engineering, and Mechanical Engineering.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Civil Electrical Mechanical engineering",
+    "intent": "btech_courses",
+    "response": "Yes, Kalinga University offers B.Tech programs in Computer Science Engineering (CSE), CSE with AI & Machine Learning, Civil Engineering, Electrical Engineering, and Mechanical Engineering.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What engineering programs are available?",
+    "intent": "btech_courses",
+    "response": "Yes, Kalinga University offers B.Tech programs in Computer Science Engineering (CSE), CSE with AI & Machine Learning, Civil Engineering, Electrical Engineering, and Mechanical Engineering.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Does Kalinga offer BBA?",
+    "intent": "bba_courses",
+    "response": "Yes, Kalinga University offers a BBA (Bachelor of Business Administration) program under the Faculty of Commerce & Management. Applicants are required to take the KAL-MAT entrance examination.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Tell me about BBA program",
+    "intent": "bba_courses",
+    "response": "Yes, Kalinga University offers a BBA (Bachelor of Business Administration) program under the Faculty of Commerce & Management. Applicants are required to take the KAL-MAT entrance examination.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "BBA course details",
+    "intent": "bba_courses",
+    "response": "Yes, Kalinga University offers a BBA (Bachelor of Business Administration) program under the Faculty of Commerce & Management. Applicants are required to take the KAL-MAT entrance examination.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Is BBA available?",
+    "intent": "bba_courses",
+    "response": "Yes, Kalinga University offers a BBA (Bachelor of Business Administration) program under the Faculty of Commerce & Management. Applicants are required to take the KAL-MAT entrance examination.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Bachelor of Business Administration",
+    "intent": "bba_courses",
+    "response": "Yes, Kalinga University offers a BBA (Bachelor of Business Administration) program under the Faculty of Commerce & Management. Applicants are required to take the KAL-MAT entrance examination.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Does Kalinga University offer BBA?",
+    "intent": "bba_courses",
+    "response": "Yes, Kalinga University offers a BBA (Bachelor of Business Administration) program under the Faculty of Commerce & Management. Applicants are required to take the KAL-MAT entrance examination.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Does Kalinga offer MBA?",
+    "intent": "mba_courses",
+    "response": "Yes, Kalinga University offers MBA programs under the Faculty of Commerce & Management. Admission requires taking the KAL-MAT entrance exam.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Master of Business Administration",
+    "intent": "mba_courses",
+    "response": "Yes, Kalinga University offers MBA programs under the Faculty of Commerce & Management. Admission requires taking the KAL-MAT entrance exam.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "MBA course details",
+    "intent": "mba_courses",
+    "response": "Yes, Kalinga University offers MBA programs under the Faculty of Commerce & Management. Admission requires taking the KAL-MAT entrance exam.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "MBA specializations",
+    "intent": "mba_courses",
+    "response": "Yes, Kalinga University offers MBA programs under the Faculty of Commerce & Management. Admission requires taking the KAL-MAT entrance exam.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "Is MBA available?",
+    "intent": "mba_courses",
+    "response": "Yes, Kalinga University offers MBA programs under the Faculty of Commerce & Management. Admission requires taking the KAL-MAT entrance exam.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/departments"
+    ]
+  },
+  {
+    "question": "What is the fee structure?",
+    "intent": "fees",
+    "response": "Kalinga University's live official fee structure for 2026-27 lists tuition, prospectus/KALSEE fee (\u20b91,400), caution money (\u20b93,000), uniform fees where applicable, and semester exam fees (\u20b91,500). Visible Arts & Humanities totals range from \u20b980,400 (MA/MSW) up to \u20b93,18,350 (BA Liberal Arts with PSC Coaching).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Tell me about university fees",
+    "intent": "fees",
+    "response": "Kalinga University's live official fee structure for 2026-27 lists tuition, prospectus/KALSEE fee (\u20b91,400), caution money (\u20b93,000), uniform fees where applicable, and semester exam fees (\u20b91,500). Visible Arts & Humanities totals range from \u20b980,400 (MA/MSW) up to \u20b93,18,350 (BA Liberal Arts with PSC Coaching).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Fee structure 2026-27",
+    "intent": "fees",
+    "response": "Kalinga University's live official fee structure for 2026-27 lists tuition, prospectus/KALSEE fee (\u20b91,400), caution money (\u20b93,000), uniform fees where applicable, and semester exam fees (\u20b91,500). Visible Arts & Humanities totals range from \u20b980,400 (MA/MSW) up to \u20b93,18,350 (BA Liberal Arts with PSC Coaching).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "How expensive is Kalinga University?",
+    "intent": "fees",
+    "response": "Kalinga University's live official fee structure for 2026-27 lists tuition, prospectus/KALSEE fee (\u20b91,400), caution money (\u20b93,000), uniform fees where applicable, and semester exam fees (\u20b91,500). Visible Arts & Humanities totals range from \u20b980,400 (MA/MSW) up to \u20b93,18,350 (BA Liberal Arts with PSC Coaching).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Give me fee details",
+    "intent": "fees",
+    "response": "Kalinga University's live official fee structure for 2026-27 lists tuition, prospectus/KALSEE fee (\u20b91,400), caution money (\u20b93,000), uniform fees where applicable, and semester exam fees (\u20b91,500). Visible Arts & Humanities totals range from \u20b980,400 (MA/MSW) up to \u20b93,18,350 (BA Liberal Arts with PSC Coaching).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Where can I see the fees?",
+    "intent": "fees",
+    "response": "Kalinga University's live official fee structure for 2026-27 lists tuition, prospectus/KALSEE fee (\u20b91,400), caution money (\u20b93,000), uniform fees where applicable, and semester exam fees (\u20b91,500). Visible Arts & Humanities totals range from \u20b980,400 (MA/MSW) up to \u20b93,18,350 (BA Liberal Arts with PSC Coaching).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "What are the fees?",
+    "intent": "fees",
+    "response": "Kalinga University's live official fee structure for 2026-27 lists tuition, prospectus/KALSEE fee (\u20b91,400), caution money (\u20b93,000), uniform fees where applicable, and semester exam fees (\u20b91,500). Visible Arts & Humanities totals range from \u20b980,400 (MA/MSW) up to \u20b93,18,350 (BA Liberal Arts with PSC Coaching).",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "What is the fee for BBA?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "What is BBA fee?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "BBA fees?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "BBA fee structure",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "How much does BBA cost?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "What is the fee for BA Liberal Arts?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "MA fee",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "MSW fee",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "BA PSC coaching fee",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "What is B.Tech fee?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "What is MBA fee?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "How much for B.Pharm fee?",
+    "intent": "course_fee",
+    "response": "Based on the official 2026-27 fee structure published for Arts & Humanities:\n\u2022 BA Liberal Arts with PSC: \u20b950,000/sem (Total \u20b93,18,350)\n\u2022 MA / MSW: \u20b917,500/sem (Total \u20b980,400)\n\u2022 BA PSC Coaching: \u20b925,000/sem (Total \u20b91,68,350)\n\u2022 MA Film Making: \u20b940,000/sem (Total \u20b91,70,400)\nNote: For programs in other faculties (BBA, B.Tech, MBA), the live site loads tabs dynamically; please verify on the official fee page.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "What is the hostel fee?",
+    "intent": "hostel_fee",
+    "response": "Hostel fees, mess charges, transport fees, and value-added program fees are separate from academic tuition. Please check Kalinga University's official hostelling section at https://kalingauniversity.ac.in/ku-fees.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Hostel charges",
+    "intent": "hostel_fee",
+    "response": "Hostel fees, mess charges, transport fees, and value-added program fees are separate from academic tuition. Please check Kalinga University's official hostelling section at https://kalingauniversity.ac.in/ku-fees.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Mess charges for boys and girls hostel",
+    "intent": "hostel_fee",
+    "response": "Hostel fees, mess charges, transport fees, and value-added program fees are separate from academic tuition. Please check Kalinga University's official hostelling section at https://kalingauniversity.ac.in/ku-fees.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Is hostel fee separate?",
+    "intent": "hostel_fee",
+    "response": "Hostel fees, mess charges, transport fees, and value-added program fees are separate from academic tuition. Please check Kalinga University's official hostelling section at https://kalingauniversity.ac.in/ku-fees.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Is there hostel facility?",
+    "intent": "hostel_fee",
+    "response": "Hostel fees, mess charges, transport fees, and value-added program fees are separate from academic tuition. Please check Kalinga University's official hostelling section at https://kalingauniversity.ac.in/ku-fees.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/ku-fees"
+    ]
+  },
+  {
+    "question": "Does Kalinga University offer scholarships?",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Does the university provide scholarships?",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "What scholarship options are available?",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Can I get a scholarship?",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "How to apply for scholarship?",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "100% scholarship at Kalinga",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Are scholarships available for students?",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Tell me about scholarships",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Are there scholarships?",
+    "intent": "scholarship",
+    "response": "Kalinga University advertises scholarships of up to 100% across categories including Merit, Entrance Exam performance, Sports, Cultural achievements, Siblings, Social Categories, Knowledge Dissemination, and Innovation/Research. The university reports distributing over \u20b93 crore in scholarships. Actual awards depend on eligibility rules.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/"
+    ]
+  },
+  {
+    "question": "Does the university provide internships?",
+    "intent": "internship",
+    "response": "Kalinga University promotes on-campus and off-campus internships starting from early academic years. Highlights include a 6-month industry-exposure initiative in AI, ML, Robotics, Drones, and Python through Centre of Excellence labs, along with industrial visits, workshops, and hackathons.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Tell me about internships",
+    "intent": "internship",
+    "response": "Kalinga University promotes on-campus and off-campus internships starting from early academic years. Highlights include a 6-month industry-exposure initiative in AI, ML, Robotics, Drones, and Python through Centre of Excellence labs, along with industrial visits, workshops, and hackathons.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Are internships mandatory?",
+    "intent": "internship",
+    "response": "Kalinga University promotes on-campus and off-campus internships starting from early academic years. Highlights include a 6-month industry-exposure initiative in AI, ML, Robotics, Drones, and Python through Centre of Excellence labs, along with industrial visits, workshops, and hackathons.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Internship opportunities at Kalinga",
+    "intent": "internship",
+    "response": "Kalinga University promotes on-campus and off-campus internships starting from early academic years. Highlights include a 6-month industry-exposure initiative in AI, ML, Robotics, Drones, and Python through Centre of Excellence labs, along with industrial visits, workshops, and hackathons.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Can I do an internship in first year?",
+    "intent": "internship",
+    "response": "Kalinga University promotes on-campus and off-campus internships starting from early academic years. Highlights include a 6-month industry-exposure initiative in AI, ML, Robotics, Drones, and Python through Centre of Excellence labs, along with industrial visits, workshops, and hackathons.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "6 month internship initiative",
+    "intent": "internship",
+    "response": "Kalinga University promotes on-campus and off-campus internships starting from early academic years. Highlights include a 6-month industry-exposure initiative in AI, ML, Robotics, Drones, and Python through Centre of Excellence labs, along with industrial visits, workshops, and hackathons.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Does BBA have internships?",
+    "intent": "internship",
+    "response": "Kalinga University promotes on-campus and off-campus internships starting from early academic years. Highlights include a 6-month industry-exposure initiative in AI, ML, Robotics, Drones, and Python through Centre of Excellence labs, along with industrial visits, workshops, and hackathons.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Does Kalinga University have placements?",
+    "intent": "placement",
+    "response": "Kalinga University features a Career and Corporate Centre that organizes campus recruitment drives with 400+ recruitment partners, supported by a 100-hour Campus Recruitment Training (CRT) program covering aptitude, mock interviews, and soft skills.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Tell me about placement record",
+    "intent": "placement",
+    "response": "Kalinga University features a Career and Corporate Centre that organizes campus recruitment drives with 400+ recruitment partners, supported by a 100-hour Campus Recruitment Training (CRT) program covering aptitude, mock interviews, and soft skills.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Is placement good at Kalinga?",
+    "intent": "placement",
+    "response": "Kalinga University features a Career and Corporate Centre that organizes campus recruitment drives with 400+ recruitment partners, supported by a 100-hour Campus Recruitment Training (CRT) program covering aptitude, mock interviews, and soft skills.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Campus placement opportunities",
+    "intent": "placement",
+    "response": "Kalinga University features a Career and Corporate Centre that organizes campus recruitment drives with 400+ recruitment partners, supported by a 100-hour Campus Recruitment Training (CRT) program covering aptitude, mock interviews, and soft skills.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Does B.Tech have placements?",
+    "intent": "placement",
+    "response": "Kalinga University features a Career and Corporate Centre that organizes campus recruitment drives with 400+ recruitment partners, supported by a 100-hour Campus Recruitment Training (CRT) program covering aptitude, mock interviews, and soft skills.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Does BBA have placements?",
+    "intent": "placement",
+    "response": "Kalinga University features a Career and Corporate Centre that organizes campus recruitment drives with 400+ recruitment partners, supported by a 100-hour Campus Recruitment Training (CRT) program covering aptitude, mock interviews, and soft skills.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Which companies recruit from Kalinga?",
+    "intent": "placement_companies",
+    "response": "Companies appearing in the university's published recruiter information include Infosys, Capgemini, Airtel, Amul, Cipla, Wipro, Adani, Bosch, Biocon, Apollo, Axis Bank, Cognizant, Suzuki, Himalaya, Decathlon, Godrej, Genpact, HDFC Bank, Jio, Justdial, LG, Nestle, SAIL, Tata Motors, Tech Mahindra, UltraTech, Cisco, and IBM.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Which companies recruit students?",
+    "intent": "placement_companies",
+    "response": "Companies appearing in the university's published recruiter information include Infosys, Capgemini, Airtel, Amul, Cipla, Wipro, Adani, Bosch, Biocon, Apollo, Axis Bank, Cognizant, Suzuki, Himalaya, Decathlon, Godrej, Genpact, HDFC Bank, Jio, Justdial, LG, Nestle, SAIL, Tata Motors, Tech Mahindra, UltraTech, Cisco, and IBM.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Recruiter list for placement",
+    "intent": "placement_companies",
+    "response": "Companies appearing in the university's published recruiter information include Infosys, Capgemini, Airtel, Amul, Cipla, Wipro, Adani, Bosch, Biocon, Apollo, Axis Bank, Cognizant, Suzuki, Himalaya, Decathlon, Godrej, Genpact, HDFC Bank, Jio, Justdial, LG, Nestle, SAIL, Tata Motors, Tech Mahindra, UltraTech, Cisco, and IBM.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Top recruiters at Kalinga University",
+    "intent": "placement_companies",
+    "response": "Companies appearing in the university's published recruiter information include Infosys, Capgemini, Airtel, Amul, Cipla, Wipro, Adani, Bosch, Biocon, Apollo, Axis Bank, Cognizant, Suzuki, Himalaya, Decathlon, Godrej, Genpact, HDFC Bank, Jio, Justdial, LG, Nestle, SAIL, Tata Motors, Tech Mahindra, UltraTech, Cisco, and IBM.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Does Infosys Wipro recruitment happen?",
+    "intent": "placement_companies",
+    "response": "Companies appearing in the university's published recruiter information include Infosys, Capgemini, Airtel, Amul, Cipla, Wipro, Adani, Bosch, Biocon, Apollo, Axis Bank, Cognizant, Suzuki, Himalaya, Decathlon, Godrej, Genpact, HDFC Bank, Jio, Justdial, LG, Nestle, SAIL, Tata Motors, Tech Mahindra, UltraTech, Cisco, and IBM.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "What is the highest package?",
+    "intent": "highest_package",
+    "response": "Kalinga University's published individual placement highlights include an LLM placement at Cornerstone with a reported \u20b933 LPA CTC and B.Tech placement at Oracle with \u20b929.98 LPA. These are individual high-achiever examples and should not be interpreted as a guaranteed package for all students.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Highest salary offered at Kalinga",
+    "intent": "highest_package",
+    "response": "Kalinga University's published individual placement highlights include an LLM placement at Cornerstone with a reported \u20b933 LPA CTC and B.Tech placement at Oracle with \u20b929.98 LPA. These are individual high-achiever examples and should not be interpreted as a guaranteed package for all students.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Top placement package",
+    "intent": "highest_package",
+    "response": "Kalinga University's published individual placement highlights include an LLM placement at Cornerstone with a reported \u20b933 LPA CTC and B.Tech placement at Oracle with \u20b929.98 LPA. These are individual high-achiever examples and should not be interpreted as a guaranteed package for all students.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Highest CTC in Kalinga University",
+    "intent": "highest_package",
+    "response": "Kalinga University's published individual placement highlights include an LLM placement at Cornerstone with a reported \u20b933 LPA CTC and B.Tech placement at Oracle with \u20b929.98 LPA. These are individual high-achiever examples and should not be interpreted as a guaranteed package for all students.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "What is the average package?",
+    "intent": "average_package",
+    "response": "The university's current public placement page highlights individual high packages (\u20b933 LPA LLM, \u20b929.98 LPA B.Tech) rather than a live current average table. An older historical brochure reported an average CTC of \u20b92.30 LPA (with \u20b910 LPA domestic top CTC), but historical brochure stats should not be treated as 2026-27 outcomes.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Average salary at Kalinga",
+    "intent": "average_package",
+    "response": "The university's current public placement page highlights individual high packages (\u20b933 LPA LLM, \u20b929.98 LPA B.Tech) rather than a live current average table. An older historical brochure reported an average CTC of \u20b92.30 LPA (with \u20b910 LPA domestic top CTC), but historical brochure stats should not be treated as 2026-27 outcomes.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Average placement CTC",
+    "intent": "average_package",
+    "response": "The university's current public placement page highlights individual high packages (\u20b933 LPA LLM, \u20b929.98 LPA B.Tech) rather than a live current average table. An older historical brochure reported an average CTC of \u20b92.30 LPA (with \u20b910 LPA domestic top CTC), but historical brochure stats should not be treated as 2026-27 outcomes.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/training-and-placements"
+    ]
+  },
+  {
+    "question": "Tell me about campus facilities",
+    "intent": "campus",
+    "response": "Kalinga University features a modern Wi-Fi enabled campus with 100+ laboratories, 7 Centres of Excellence, a Central Library, separate Boys & Girls Hostels, sports complex, moot court, medical centre, auditorium, and transport network.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "What facilities are available on campus?",
+    "intent": "campus",
+    "response": "Kalinga University features a modern Wi-Fi enabled campus with 100+ laboratories, 7 Centres of Excellence, a Central Library, separate Boys & Girls Hostels, sports complex, moot court, medical centre, auditorium, and transport network.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Is there Wi-Fi on campus?",
+    "intent": "campus",
+    "response": "Kalinga University features a modern Wi-Fi enabled campus with 100+ laboratories, 7 Centres of Excellence, a Central Library, separate Boys & Girls Hostels, sports complex, moot court, medical centre, auditorium, and transport network.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Library and lab facilities",
+    "intent": "campus",
+    "response": "Kalinga University features a modern Wi-Fi enabled campus with 100+ laboratories, 7 Centres of Excellence, a Central Library, separate Boys & Girls Hostels, sports complex, moot court, medical centre, auditorium, and transport network.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  },
+  {
+    "question": "Hostel facilities",
+    "intent": "campus",
+    "response": "Kalinga University features a modern Wi-Fi enabled campus with 100+ laboratories, 7 Centres of Excellence, a Central Library, separate Boys & Girls Hostels, sports complex, moot court, medical centre, auditorium, and transport network.",
+    "source_urls": [
+      "https://kalingauniversity.ac.in/campuslife"
+    ]
+  }
+]

@@ -1,0 +1,1068 @@
+{
+  "total": 9,
+  "departments": [
+    {
+      "id": 1,
+      "name": "Faculty of Information Technology",
+      "slug": "faculty-of-information-technology",
+      "about_heading": "Transform Your CODES into the Next BIG TECH!",
+      "about": "Tech is running the world, and the demand for coders is increasing at lightning speed. Whether it's Artificial Intelligence, Machine Learning, Cybersecurity, Data Science, Gaming, or Cloud Computing, careers in IT are booming.\n\r\n\r\nThe Faculty of Computer Science and Information Technology is a department of skilled professionals who combine theoretical and practical knowledge and prepare students with the trending IT skills that will keep them ahead in the digital world.\n\r\n\r\nWith our modern computer laboratories and digital classrooms, you can learn, experiment, and innovate, and turn your ideas into a new technology. Apart from offering competitive programs, our faculty of information technology also conducts workshops, seminars, hackathons, and hands-on learning programs, and even provides certificates that will add value to your resumes.\n\r\n\r\nReady to begin a new journey of becoming a tech leader?",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": "Bachelor of Animation & Visual Effects",
+          "description": "A Bachelor of Animation & Visual Effects (B.An & VFX) program is a magical career option for individuals interested in bringing their unique ideas to the screen. The program focuses on creating moving images and visuals for the entertainment industry, utilising various artistic and technical skills for games, films, television, and other digital platforms. Students will learn 2D and 3D animation techniques, character design, VFX simulations, storyboarding, and the tools and software used in the industry.",
+          "course_id": 3
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 13
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 14
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 15
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 18
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 20
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 22
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 19
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 16
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Become Tech-Savvy",
+          "text": "The world needs new technologies, and companies are hunting for skilled professionals who generate code or are good problem solvers. We\u2019ll help you turn your ideas into a viral application."
+        },
+        {
+          "heading": "Industry-Ready Programs",
+          "text": "KU ditches the outdated textbook knowledge and focuses on trending IT skills that matter. With our customised programs, you can choose your favourite field of study and become a pro."
+        },
+        {
+          "heading": "Tech Pays Huge",
+          "text": "Your learning can have a big payback! CS and IT graduates land the highest-paying jobs in the world. Develop the right skill set and knowledge, and let jobs chase you."
+        },
+        {
+          "heading": "Make Valuable Connections",
+          "text": "With our workshops, seminars, and industry meetings, you\u2019ll connect with tech leaders, innovators, and recruiters who can give proper guidance and level up your career."
+        }
+      ],
+      "how_we_stand": [
+        "Get a global learning experience through international trips.",
+        "Get internship opportunities (on-campus/off-campus) and practical projects before completing your degree.",
+        "Our incubation centre offers tools, resources, and guidance to make your startup dream come true.",
+        "Win amazing prizes and certificates at Hackathons and tech competitions, and challenge your skills.",
+        "Get your DREAM JOB with our on-campus placement assistance at big tech companies."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Infinity Club: Become a Tech Champion!",
+          "description": "We just don\u2019t talk about technology, but we believe in creating it. Join the Infinity Club and turn your curiosity into powerful tech. Explore coding, cybersecurity, artificial intelligence, data science, machine learning, Internet of Things (IoT), and Robotics & Automation through practical projects and workshops conducted by the club. Take advantage of the resources and expert mentorship, and learn to debug the most complex problems."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Dr. Omprakash Dewangan",
+          "designation": "HoD, Faculty of Information Technology",
+          "qualification": null,
+          "about": "As a Dean of the faculty, I believe that Kalinga University is leading in technological education and excellence in Chhattisgarh. Our curriculum is designed to provide students with an unmatched practical experience so that they can fulfil the needs of the IT industry and become future tech leaders.\n\r\n\r\nWe encourage them to explore AI-ML, Cybersecurity, and Data Science and develop a passion for research in trending technologies. Students will get the opportunity to work on practical projects with our industry partnerships. With our Centre of Excellence for technology, you will get hands-on learning opportunities in different tools and technologies.\n\r\n\r\nThe Faculty of IT not only focuses on academics but also conducts seminars, conferences, workshops, hackathon competitions, and guest lectures so you can get the most out of your program at Kalinga University. Our faculty members and students work together to shape the future of our tech industry. I believe that every student has the potential to make an impactful change not only in the computing field but also in society. Now, it's your turn to make a difference!"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is Information Technology a good career path?",
+          "a": "Yes, the IT industry is growing rapidly worldwide, and the demand for skilled professionals is increasing every day. This field offers competitive salary packages, strong job security, and various specialisations to choose from."
+        },
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, and more. For more details, check out our scholarships."
+        },
+        {
+          "q": "Do I need prior coding knowledge before choosing a program?",
+          "a": "No. Even if you have zero coding knowledge, our faculty members will guide you with each step, starting from basic to advanced concepts."
+        },
+        {
+          "q": "What makes our Faculty of IT stand out?",
+          "a": "With our updated curriculum, strong industrial connections, modern lab facilities, training in emerging technologies, Hackathons, and workshops, we prepare students for demanding roles in the tech field."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Faculty of Commerce and Management",
+      "slug": "faculty-of-commerce-and-management",
+      "about_heading": "Become a BOSS of Your DREAMS",
+      "about": "About the Department of Commerce\n\r\n\r\nIf you enjoy decoding numbers and helping businesses make financial decisions, choose commerce. \n\r\nThe Department of Commerce focuses on imparting the highest quality of education and exposure related to the economy and businesses to produce next-gen leaders. Learn how to operate a business while exploring the impact of economic, social, cultural, political, and technological decisions positively or negatively on companies and society.\n\r\n\r\nWith our innovative teaching pedagogy, students become well-equipped with various problem-solving skills through case studies and practical exposure. Our programs offer units that focus on key principles of commerce and their application in the industry. The vision of this department is to ensure that our students have an industry-relevant degree.\n\r\n\r\nAbout the Department of Management\n\r\n\r\nIf leadership, managing people, and decision-making excite you, choose management.\n\r\nThe Department of Management Studies of KU trains young managers with a global level of knowledge about managerial and entrepreneurial skills. They will be prepared to tackle industrial challenges using skills that drive success in the competitive business environment. With seminars, guest lectures, and industrial visits, they will experience a complete holistic development. \n\r\n\r\nOur programs related to the department of management are designed to make future leaders plan wisely, make strategic decisions, and execute every action confidently. These programs are tailored to develop skilled professionals who can contribute meaningfully to the industry and economy.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 5
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 8
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 17
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 21
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Career Opportunities",
+          "text": "A commerce and management degree can actually make you land a high-paying job. The career choices in this sector are endless, so no more career FOMO!"
+        },
+        {
+          "heading": "Networking Opportunities",
+          "text": "At KU, you will connect with industry leaders at our events and conferences. Who knows, your college buddy might become your future business partner."
+        },
+        {
+          "heading": "Corporate Job/Self-Employment - Your Choice!",
+          "text": "Do you want a 9 to 5 stability or entrepreneurial freedom? It's your call! Obtain a job at our campus placement or come up with your startup ideas."
+        },
+        {
+          "heading": "Consistent Industry Growth",
+          "text": "Neither business sleeps nor opportunities! Employers always look for accountants, managers, or business analysts, so your career will always be relevant."
+        }
+      ],
+      "how_we_stand": [
+        "Experience something new every week. Seminars, workshops, conferences, and industrial visits will give you immense exposure along with certificates.",
+        "Learn from industry leaders, distinguished PhD professors, entrepreneurs, and famous personalities and engage in one-on-one sessions.",
+        "From AI in business to digital marketing, we\u2019ve designed a future-proof curriculum for you.",
+        "Corporate training centre, placement drives, startup support, and research work, experience all in one place.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Finance Club - Bull",
+          "description": "The club is named after the symbol of optimism in financial markets. The Bull Club is dedicated to developing financial literacy and analytical acumen among students. Activities include stock market simulations, budget planning & analysis, financial modelling sessions, guest lectures by financial analysts, and quizzes on banking and investment."
+        },
+        {
+          "name": "HR Club - Sapiens",
+          "description": "The HR Club - Sapiens of our department of management studies organises workshops, role plays, HR quizzes, mock interviews, personality development sessions, and seminars on emerging HR practices. The club organises panel discussions and invites industry HRs to bridge classroom learning with real-world HR dynamics."
+        },
+        {
+          "name": "Marketing Club - Mercadeo",
+          "description": "The name of the marketing club is derived from \u201cMercadeo\u201d (a Spanish word for marketing). Mercadeo provides a vibrant platform for students interested in brand building, digital marketing, and consumer behaviour. The club conducts ad-mad shows, marketing case study competitions, social media campaigns, business idea/plan competition - Ideathon, and brainstorming sessions on current market trends."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Dr. Nishtha Sharma",
+          "designation": "HoD, Commerce & Management",
+          "qualification": null,
+          "about": "With immense pride and pleasure, I welcome all the students to our faculty of commerce and management at Kalinga University. As the HoD of this distinguished department, I am proud to share with you the commitment of our faculty members toward academic excellence, hands-on learning, and holistic development of our students.\n\r\n\r\nI strongly believe that theoretical knowledge alone is insufficient in today\u2019s competitive world. To overcome this challenge, we have prepared a smart curriculum that focuses on providing students with real-world industrial knowledge by teaching them beyond textbooks. Our commerce and management professors encourage students to exchange their ideas or business plans, by which they can help execute them.\n\r\n\r\nAt Kalinga University, our goal is to develop future leaders with solid ethical knowledge and nurture young minds with our top-notch industry-focused education. Our accomplished graduates work for top international corporations, attesting that our students are assets to any Business and prepared to fulfil the needs of the industry.\n\r\n\r\nMy best wishes are with all the students and their parents, and thank you for being part of our academic community and exploring the opportunities offered by the Commerce & Management department."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do you also help students build their own startups?",
+          "a": "Absolutely! If you have a unique startup idea, our Kalinga Incubation Foundation will transform your raw ideas into real ventures. Our experts will help you with planning, pitching, testing, launching, and fundraising support."
+        },
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "Why should I choose to study commerce and management at Kalinga University?",
+          "a": "Unlike any other University, at KU, you\u2019ll experience more than just textbook knowledge. Our primary focus is to provide our students with complete industry exposure and develop leadership qualities so that they can step confidently into the corporate world or launch their own startup."
+        },
+        {
+          "q": "Since the job market is quite competitive, how will I stand out after my course from other candidates?",
+          "a": "Well, standing out isn\u2019t about luck; it's about experience. Through live projects, workshops, conferences, internship programs, and certification programs, you will become a graduate who possesses industry-relevant skills, and recruiters will notice your profile more."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, and more. For more details, check out our scholarships."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Faculty of Science",
+      "slug": "faculty-of-science",
+      "about_heading": "Your CURIOSITY is the First Step Towards DISCOVERY",
+      "about": "Do you think Science is only about wearing lab coats or solving equations?\n\r\n\r\nWell, think again; it goes far beyond your imagination. The Faculty of Science at Kalinga University not only focuses on classroom knowledge, but it will also make you question \u201cWHY\u201d and \u201cHOW\u201d through every fieldwork and experimentation. Here, you\u2019ll not just observe but decode mysteries of the human body, explore wonders of nature, and learn to solve real-world problems.\n\r\n\r\nWith advanced laboratories and instruments, our students learn practical applications behind every chapter they study in the classroom. They are well-trained to ask bold questions, challenge assumptions, and come up with realistic solutions. Whether it\u2019s Biochemistry, Botany, Forensic Science, or Physics, our programs are designed for challenging minds to meet their interests. At KU, you will not just graduate with a degree, but also learn realistic skills that will make you a scientific leader.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 37
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 48
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 49
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 40
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 29
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 47
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 7
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 55
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 54
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 56
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 59
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 50
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 51
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 57
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 58
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 52
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 6
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 53
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Industry-Ready Curriculum",
+          "text": "Forget boring lectures because at KU, you do the real work. Learn expert-level skills through workshops, hands-on projects, and industry exposure, and become an expert in your subject."
+        },
+        {
+          "heading": "Countless Career Options",
+          "text": "Explore some emerging career paths like Biotechnologist, Crime Scene Investigator, Environmental Scientist, Yoga Therapist, and many more. Enter into a less competitive world!"
+        },
+        {
+          "heading": "Be One in a Million",
+          "text": "A science degree is very rare, which means it is highly valuable. It is not just a subject but a FUTURE. So don\u2019t follow the trend, set one."
+        },
+        {
+          "heading": "Explore the Hidden",
+          "text": "Do you love experiments? Well, science is giving you an opportunity to turn the impossible into possible. Discover what hasn\u2019t been heard or seen at the Faculty of Science at KU!"
+        }
+      ],
+      "how_we_stand": [
+        "With our 100+ research labs, you can experiment, discover, and rewrite the rules of science.",
+        "Solve mysteries and cases in forensics, work on climate change impact in a biotech lab, or discover sustainable food solutions.",
+        "KU is a hub of innovation and sustainability, and our every action is for a GREENER and SMARTER future.",
+        "Participate in national and international conferences and build an amazing network.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Green Club",
+          "description": "The Green club turns students\u2019 eco-conscious ideas into action. It conducts events, workshops, and guest lectures where students explore new sustainable solutions that can solve environmental challenges, and they apply this knowledge in developing eco-friendly practices."
+        },
+        {
+          "name": "The Microbiologists Society, India (MBSI) Student Chapter",
+          "description": "The club brings together students who are interested in microbiology and life sciences. Students explore, discover, and participate in workshops that connect them with experts. It organises microbiological research activities to generate curiosity among students, apart from textbook learning."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Dr. Anjaneyulu Bendi",
+          "designation": "Dean, Faculty of Science",
+          "qualification": null,
+          "about": "I warmly welcome you to the Faculty of Science at Kalinga University.\n\r\n\r\nAs a Dean of the faculty, I take pride in our research-oriented teaching methodologies at the undergraduate, postgraduate, and PhD levels. Sustainable development, along with the welfare of humanity at every step, is our core approach. We believe that a learning environment can be formed by exchanging ideas and experiences that transform our lifestyles.\n\r\n\r\nOur purpose is that students should know real-world scenarios and challenges so that they can learn, experiment, and develop powerful solutions for the future. Our Faculty of Science has a range of equipment and high-tech machinery that is not available anywhere else in Chhattisgarh. It enables students to perform research work and explore different areas of their specialisation.\n\r\n\r\nWith hands-on training programs, workshops, industrial visits, community projects, laboratory research, and fieldwork, your theoretical knowledge will be applied in a more practical way. With our experienced faculty members and industrial connections, you will experience an impactful learning environment.\n\r\n\r\nI invite you all to explore our programs, research labs, and campus facilities. Get ready to experience the future of science!"
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How do I know which branch of science suits me best?",
+          "a": "Whether you\u2019re interested in numbers, nature, experiments, or discovery, there are endless career pathways in science. Our expert counsellors will identify your interests and guide you towards choosing the right program that matches your interests."
+        },
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "What makes our faculty of science stand out?",
+          "a": "We make students learn every chapter through research, fieldwork, and experimentation. We have advanced laboratories with high-tech instruments, and we facilitate complete research support so that our students turn out to be real-world problem solvers and contribute positively towards the challenges of our society."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, and more. For more details, check out our scholarships."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Faculty of Pharmacy",
+      "slug": "faculty-of-pharmacy",
+      "about_heading": "From Labs to Lifesavers!",
+      "about": "Do you know that pharmacists are equally important as doctors? The pharmaceutical industry is growing as more people look for affordable and effective medicines. Our pharmacy faculty's motive is to prepare students to come up with the next big medicinal cure that is safe and accessible to everyone. With the theoretical and practical-based curriculum, explore the core areas of our department of pharmaceutical sciences.\n\r\n\r\nWe offer state-of-the-art research facilities through CIF and Pharma labs, which have advanced instruments for research scholars that are not available anywhere else in Chhattisgarh, making KU a top pharmacy university. They can carry out R&D and develop impactful solutions for human welfare. With one-on-one learning experience, you will be well-prepared to lead in the future of healthcare.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 23
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": null
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 25
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 26
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 27
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Diverse Career Paths",
+          "text": "Pharmacy is just about chemist shops! Well, it\u2019s a myth! Become a drug developer, medical researcher, medical writer, clinical pharmacist, or digital pharmacist after completion of your degree."
+        },
+        {
+          "heading": "High-Demand Profession",
+          "text": "Due to the rise in new diseases, the demand for pharmacists will always be there. With the advancements in healthcare, they will be needed to develop medicines during a pandemic or to find new cures."
+        },
+        {
+          "heading": "Competitive Salaries",
+          "text": "Get ready for some big rewards! Pharmacy grads can enter into some well-paying careers or start their own venture and earn more while making an impact."
+        },
+        {
+          "heading": "Honorable Profession",
+          "text": "Pharmacy is all about helping patients, saving their lives, and earning respect. Society will value you and remember you because you\u2019ll build trust in them."
+        }
+      ],
+      "how_we_stand": [
+        "Experience 360-degree learning with theoretical and practical training, and develop problem-solving skills at our department of pharmacy.",
+        "Earn valuable pharmacy certificates through our workshops, seminars, industrial visits, and national and international conferences.",
+        "Create new medicines, test the purity of drugs, and the impact of different medicines on human health in our high-tech research labs.",
+        "Get complete on-campus placement support and assistance, and get extensive networking opportunities.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Pharma Club: Learning Beyond Books",
+          "description": "Our Pharma Club gives students a platform where they can learn and present their talents in our department of pharmaceutical sciences. With activities like workshops, competitions, real project work, and industrial visits, our students build exceptional practical skills in the pharmacy industry. The club promotes a friendly learning space where they can perform experiments, share ideas, expand their network, and develop innovative healthcare solutions."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Dr. Sandip Prasad Tiwari",
+          "designation": "HoD, Faculty of Technology",
+          "qualification": null,
+          "about": "I welcome you to the Faculty of Pharmacy at Kalinga University.\n\r\n\r\nGood health does not mean being free from diseases; it\u2019s about overall emotional, mental, and physical well-being. Pharmacists maintain a top position in the field of medical science. They are responsible for manufacturing and distributing safe and accessible drugs and thus, play a key role in patient care. Every year, we face global health issues like pandemics or outbreaks of new diseases. To overcome this, we are equipping our young pharmacists to discover innovative pharmaceutical solutions.\n\r\n\r\nAs a HoD of the Faculty of Pharmacy, I can proudly say that we are one of the best colleges for pharmacy that excels in innovation and research in Pharmacy. With an industry-ready curriculum and a team of highly qualified faculty members, students will constantly upgrade their skills in the Pharma field. Students can expand their talent and build networks through our seminars, guest lectures, national and international conferences, and industrial visits.\n\r\n\r\nI invite you to explore our programs and begin a new journey in Pharmacy at Kalinga University. I am confident that at KU, you will achieve your ambitions and build a rewarding career in Pharmacy."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "Are all your programs recognised and approved?",
+          "a": "Yes, all our pharmacy programs are Pharmacy Council of India (PCI) and All India Council for Technical Education (AICTE) approved."
+        },
+        {
+          "q": "Why should I opt for pharmacy from Kalinga University?",
+          "a": "We are one of the best pharmacy institutes in India, as we have advanced laboratories, along with the CIF, that contain high-tech instruments where lab experts guide students in their research work. Students learn to develop drugs and come up with innovative pharmaceutical solutions through expert mentorship."
+        },
+        {
+          "q": "Can I specialise in any particular area of Pharmacy?",
+          "a": "Yes, you can choose a specialisation based on your interests, but our expert counsellors and faculty members will guide you appropriately."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, and more. For more details, check out our scholarships."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Faculty of Law",
+      "slug": "faculty-of-law",
+      "about_heading": "Be a Voice that Changes the Verdict",
+      "about": "The faculty of law at Kalinga University is a time-tested department offering excellence in the field of legal education and fulfilling the demands of young aspirants by making them employable in the legal sector. We are one of the best colleges for law admissions as our different legal education programs are aligned with UGC and NEP guidelines and offer high-quality education through outcome-based learning methods. The courses offered by our faculty of law are carefully designed to ensure that our graduates turn out to be industry-ready professionals.\n\r\n\r\nWe have digital classrooms and moot courts with all the modern technologies and facilities, preparing students for real-world legal challenges. Our curriculum is designed to satisfy the academic needs of every student and to make them professionally ready. Our law school prepares young legal professionals with a thorough understanding of theoretical and practical legal studies so that they can get familiar with the complex legal systems.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 9
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 10
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 11
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 12
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Intellectual Development",
+          "text": "Law is the ideal path for people who enjoy solving difficult riddles and impossible challenges that need proper investigation. As a lawyer, you will constantly deal with different types of cases, and your work will also never be repetitive. You will gain a deeper understanding of human behaviour, feelings, stories, and struggles."
+        },
+        {
+          "heading": "Job Security & Financial Stability",
+          "text": "Lawyers are among the highest-paid professionals who get lucrative salaries and perks. Once you get a good experience, you will always be considered first among other lawyers, and your job will always remain secure."
+        },
+        {
+          "heading": "Contribute Towards Societal Issues",
+          "text": "If you become truly passionate, then you will use your legal studies and experience to solve pressing societal challenges by advocating for justice, defending the underserved, fighting for human rights, or shaping legal reforms."
+        },
+        {
+          "heading": "Meet New People Every Day",
+          "text": "Individuals, companies, or government departments, everybody needs a lawyer in today\u2019s world. And guess what? You will be the one solving their most challenging problems and whom they can rely on at any time."
+        }
+      ],
+      "how_we_stand": [
+        "Build a strong legal knowledge through subjects such as constitutional law, criminal justice, corporate law, and other areas.",
+        "Develop critical thinking and problem-solving skills by practising real-life cases in moot courts from one of the top law colleges of India.",
+        "Learn to interpret and argue, and develop strong negotiation and communication skills that every successful lawyer needs.",
+        "Master writing legal documents, including contracts, agreements, case briefs, petitions, research papers, legal articles, affidavits, and more.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Legal Aid Club",
+          "description": "The Legal Aid Club is a community-based initiative that provides support to people who are unable to afford legal services. It aims to promote justice, raise legal awareness, and assist underprivileged individuals with legal matters."
+        },
+        {
+          "name": "Moot Court",
+          "description": "We have a well-furnished moot court on our campus that provides invaluable opportunities to our law students in developing advocacy skills in a practical setting. From researching legal cases, preparing petitions, or presenting arguments, our students get a complete understanding of the courtroom proceedings from the best private law colleges of India. Here, students learn how to present their arguments, and they even get the opportunity to participate in moot court competitions."
+        },
+        {
+          "name": "Pro Bono Club",
+          "description": "A Pro Bono Club is a student or community-based organisation that provides free legal services to people who cannot afford to pay for legal representation. The club's goal is to provide legal services to the underserved while giving our students real-world exposure."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Prof. (Dr.) Azim Khan B. Pathan",
+          "designation": "Dean",
+          "qualification": null,
+          "about": "Whether it's the social, political, economic, or cultural context, the world is changing rapidly. Thus, the legal education should also be relevant and updated. At Kalinga University\u2019s School of Law, we regularly modify our teaching practices through experiential learning methods and update our curriculum to meet the changing needs and demands of the legal world. We don\u2019t just provide theoretical knowledge; our students also get to live it by practising in our courtroom and developing advocacy skills.\n\r\n\r\nWe connect legal education with other areas like politics, society, or business, which makes our students all-around legal professionals. It also makes them understand the role of lawyers in shaping policies and even prepares them for different careers in government bodies, NGOs, corporate companies, and law firms. With digital classrooms, group discussions, research work, field work, and moot court competitions, students become masters in the field of law. We also focus on \u2018Clinical Legal Education\u2019, where we provide practical learning to our students in solving real-world legal problems.\n\r\n\r\nMy best wishes are with all the students who want to pursue legal education."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How do I know which law program suits my career goals?",
+          "a": "If you are an undergraduate and your entire focus is on studying law, then LLB is an ideal option for you. If you are a 12th pass out and interested in learning subjects of law along with arts or business administration, then you should go for BA LLB or BBA LLB. If you already have a Law degree, then you should pursue an LLM. Our expert counsellors will also guide you in selecting the right program."
+        },
+        {
+          "q": "Is the Faculty of Law approved by BCI?",
+          "a": "Yes, our Faculty of Law is approved by the Bar Council of India (BCI)."
+        },
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "Will I get to work on real cases while studying?",
+          "a": "Yes, our legal aid and pro bono club will allow you to work on community-based legal cases. Apart from this, you\u2019ll also get opportunities to work on case studies."
+        },
+        {
+          "q": "How will studying law at Kalinga University help me stand out in the competitive legal job market?",
+          "a": "Beyond classroom-based studies, you\u2019ll develop practical skills in our Moot Court, in which we conduct sessions, and you will get the opportunity to participate in various inter-college Moot Court competitions and National and International conferences. Our students graduate with a portfolio that doesn\u2019t just showcase their degree but also real legal work and certificates."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, and more. For more details, check out our scholarships."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Faculty of Technology",
+      "slug": "faculty-of-technology",
+      "about_heading": "Turn Your Curiosity Into A GLOBAL INNOVATION",
+      "about": "Ready to design, innovate, and engineer real-world solutions?\n\r\n\r\nThe Faculty of Technology at Kalinga University is dedicated to providing quality education in the growing world of technology. Due to recent advancements, the demand for techies with advanced knowledge and skills has grown exponentially. Our technology programs focus on research and development, interactive learning, and hands-on training programs.\n\r\n\r\nThe faculty offers various programs in four main branches, i.e., Civil Engineering, Electrical Engineering, Mechanical Engineering, and Computer Science. Our curriculum combines theoretical knowledge with practical abilities, making students ready for the technology industry. Whether it\u2019s about building smart cities, providing sustainable solutions, or making developments in the research field, we fill our students with a passion for exploration and innovation.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 30
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 31
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 28
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 32
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 33
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 42
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 44
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 41
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 39
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 45
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 38
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 36
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 35
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 34
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Unlimited Career Options",
+          "text": "Design smart cities, skyscrapers, high-tech infrastructure, electric cars, robots, and more because opportunities will be unlimited once you have a tech degree."
+        },
+        {
+          "heading": "Lead the Tech World",
+          "text": "Become the one who defines innovation! Technology is transforming every day, and you have to push your limits to stay at the forefront of automation."
+        },
+        {
+          "heading": "Develop a Sustainable Future",
+          "text": "Sustainability is the need of the hour! From developing electric vehicles to sustainable energy solutions, your skills can transform the Earth into an eco-friendly and technologically advanced place."
+        },
+        {
+          "heading": "Grow More and Earn More",
+          "text": "You can land a job in one of the mega companies with a well-paying package, and with growing experience, the opportunities will be limitless."
+        }
+      ],
+      "how_we_stand": [
+        "With 100+ high-tech research labs, your ideas will always be put into action, turning your experiments into innovation.",
+        "With our reverse learning process at the Faculty of Technology, you will deconstruct machines and gadgets side-by-side with learning theory.",
+        "Our centres of excellence for robotics, drones, and electric vehicles will introduce you to modern technologies.",
+        "KU will not make you wait for the final-year placements, but right from your first year, you\u2019ll get internships and practical projects.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Avishkar Club: Lead with Confidence Civil Engineers!",
+          "description": "Have you heard about eco-friendly structures, innovative construction techniques, or carbon-neutral buildings? Well, at Avishkar Club, you will get real-world engineering knowledge that will set you apart from other civil engineers. You will not only learn about designing urban construction but also know its positive impact on the environment."
+        },
+        {
+          "name": "Royal Mechanical Club: Ready to Master the Machines?",
+          "description": "Curious about knowing the working mechanics of machines? Implement your theoretical learning into mechanical concepts, and experience a real transition. Royal Mechanical Club will make you challenge your mechanical skills by giving you practical experience through workshops and projects. Join the Royal Mechanical Club and turn your passion into an innovation!"
+        },
+        {
+          "name": "Spark Club: Power Up Your Curiosity!",
+          "description": "Do you like power systems, microelectronics, smart grids, or high-voltage engineering? At Spark Club, you will live what you have studied in your textbooks. From working on complex circuits to power systems, get the freedom to explore and innovate with projects that will prepare you for the future."
+        },
+        {
+          "name": "Standard Club: Set a Rule that the World Follows!",
+          "description": "Do you know how standards impact industries and innovation? Standardisation plays a key role in maintaining product quality and safety. Our Standard Club of the faculty of technology is giving you a platform to explore its influence through workshops, seminars, quiz competitions, and debates. With the Bureau of Indian Standards' support and expert mentorship, you\u2019ll learn to redefine quality and set new trends."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Dr. Vinay Chandra Jha",
+          "designation": "HoD, Faculty of Technology",
+          "qualification": null,
+          "about": "In an era when theoretical knowledge, especially in engineering and technology, is insufficient, we\u2019ve developed an industry-relevant curriculum that primarily equips students with practical knowledge so that they can address real-world challenges. Our learning environment promotes innovation, research, and holistic student development.\n\r\n\r\nWith a strong emphasis on laboratory work, real-life projects, hands-on learning programs, workshops, Hackathons (Coding Competitions), industrial visits, internships programs, and research support, we provide our students with an all-around education enabling them to become confident in dealing with the complexities of modern-day challenges and in making a positive contribution in their chosen field. We provide them a platform where they don\u2019t just learn but become creators, problem-solvers, and tech leaders.\n\r\n\r\nOur diploma, undergraduate, postgraduate, and doctoral programs are designed to meet the changing needs of industry and society. I invite you to be a part of this exciting journey of innovation and excellence, and I wish you all the best for your future."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How do I know which engineering branch suits me best?",
+          "a": "It totally depends on your interests, but our expert counsellors will guide you in selecting the right program that aligns with your career goals."
+        },
+        {
+          "q": "Are your engineering programs approved by AICTE?",
+          "a": "Yes, all our B.Tech and diploma engineering programs are approved by the All India Council for Technical Education (AICTE)."
+        },
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, etc. For more details, check out our scholarships."
+        },
+        {
+          "q": "Do you provide hands-on training from the first year itself?",
+          "a": "From the beginning of the course, our students get involved in practical projects, lab work, and hands-on learning programs."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        },
+        {
+          "q": "Do you also provide training in emerging technologies like AI, Robotics, or Drones?",
+          "a": "Yes, we have Centres of Excellence for trending technologies, where students get training from industry experts."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Faculty of Education",
+      "slug": "faculty-of-education",
+      "about_heading": "Become An Educator Of Tomorrow",
+      "about": "Teachers are the guiding light behind every success story as they encourage students to learn, grow, and develop into better individuals. The Faculty of Education at Kalinga University transforms future educators into change makers who understand the science behind the art of teaching and develop an art of inspiring young minds. Our programs prepare young educators to utilise modern teaching methods in kindergartens, schools, or colleges.\n\r\n\r\nOur curriculum is aligned with the NEP guidelines and focuses on holistic development, preparing students to become impactful educators of tomorrow. The faculty organises various hands-on learning programs, interactive workshops, and school-based trainings so that students become ready to solve challenges in the field of education. If you\u2019re passionate about teaching, research in the field of education, or making a powerful education policy, then this is the right space to make it happen.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 46
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 43
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Job Security & Opportunities",
+          "text": "The demand for qualified teachers will always be in demand, and those who pursue a B.Ed. Degree can get numerous job opportunities, whether in the private or government sector, as a school teacher, curriculum developer, education researcher, or an education coordinator."
+        },
+        {
+          "heading": "Holistic Learning",
+          "text": "Apart from conceptual learning, we also teach students communication skills, leadership skills, child psychology, lesson planning, classroom management, and student engagement strategies, preparing them to become adaptable educators."
+        },
+        {
+          "heading": "Join the Community of Educationalists",
+          "text": "Pursuing a B.Ed. Degree will bring you closer to colleagues with a common interest, with whom you grow and learn, share ideas and experiences, develop new strategies, and build lifelong friendships and connections."
+        },
+        {
+          "heading": "Make a Difference in Society",
+          "text": "You will have the power to contribute to the advancement of the education system and make a positive impact on society. Learn to raise your voice for a positive change and promote positive reforms that support all learners."
+        }
+      ],
+      "how_we_stand": [
+        "Explore modern teaching methods, digital tools and techniques that are the future of the education system.",
+        "Learn to develop a curriculum that aligns with the New Education Policy.",
+        "Get a deep insight into educational pedagogy and teaching principles.",
+        "Get training in assessment strategies and feedback techniques that effectively analyse students\u2019 performance.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Educraft Club",
+          "description": "It is a platform that combines creativity, experiential learning, inclusive education, and holistic development of students. This club provides them with a real-world insight into different teaching methods by organizing various activities and projects that supplement the course curriculum while improving their communication and leadership skills."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Dr. Shraddha Verma",
+          "designation": "Dean, Faculty of Education",
+          "qualification": null,
+          "about": "I welcome you all to the Faculty of Education at Kalinga University, where learners are transformed into future educators.\n\r\n\r\nEducators these days should be technologically confident, know the latest knowledge, and be able to connect lessons with real-life applications. To fulfill these needs, we have developed a curriculum aligned with NEP 2020 by focusing on a holistic learning approach, modern teaching methodologies, critical thinking, inclusivity, and technology integration for aspiring educators. We empower our students to become confident professionals and working teachers to redefine their teaching approach. Beyond developing subject knowledge, they learn skills like leadership, communication, classroom management, interactive teaching techniques, and emotional intelligence. At the Faculty of Education, students master integrating different digital tools in the classroom, organizing workshops, planning lessons, developing curriculum, building connections with students, and much more. Our graduates are prepared to make a difference in society and the field of education."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is teaching the only career option in education?",
+          "a": "Not at all. You can work as an academic counsellor, curriculum developer, content writer, researcher, and more."
+        },
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "Are all your programs recognised and approved?",
+          "a": "Yes, all our education programs are National Council for Teacher Education (NCTE) approved."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Faculty of Arts & Humanities",
+      "slug": "faculty-of-arts-humanities",
+      "about_heading": "Bring Clarity During Chaos",
+      "about": "Are you interested in figuring out the \u201cWHY\u201d behind this messy world? Explore all the complexities.\n\r\n\r\nThe Faculty of Arts and Humanities at Kalinga University is a vibrant community of students studying language, culture, history, media, politics, sociology, and psychology, learning to raise their voices and make a difference in society. We give them a platform where they can present unique ideas and talent through their work.\n\r\n\r\nAt KU, students develop the right skills and potential through our industry-relevant curriculum, voluntary activities, internships, and group projects, making them graduate with smart skills. You\u2019ll master critical thinking abilities, communication, human behaviour patterns, and leadership qualities, and become a valuable asset in a rapidly changing world.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 63
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 64
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 61
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 60
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 62
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 71
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 67
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 65
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 68
+        },
+        {
+          "name": null,
+          "description": "",
+          "course_id": 72
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Diverse Career Choices",
+          "text": "Not interested in traditional career options? No worries. Arts and humanities will give you a wide range of roles like public relations specialist, community organiser, social researcher, policy analyst, journalist, and more. So choose according to your interest."
+        },
+        {
+          "heading": "Master the Art of Communication",
+          "text": "Words can become your superpower. Learn to speak them with precision and present ideas that grab the attention of the audience. Speak and write using a powerful tone and become the greatest influencer."
+        },
+        {
+          "heading": "Develop a Global Perspective",
+          "text": "Get out of your comfort zone and explore the world from every angle and see the world your way. Understand people, culture, diversity, and society and develop a mindset to make a positive change."
+        },
+        {
+          "heading": "Solve Real-World Issues",
+          "text": "Make your passion your ultimate power by learning the Arts and Humanities. Whether it's about gender equality, women's empowerment, or environmental issues, prepare yourself with the potential to identify solutions and leave your mark."
+        }
+      ],
+      "how_we_stand": [
+        "Develop a strong academic base with a mix of streams like media, sociology, politics, and beyond.",
+        "Learn to evaluate problems using social and philosophical methods.",
+        "Get inspired and motivated with our experienced faculty members and guest speakers.",
+        "Learn storytelling through speaking and writing, and develop the power to present your ideas.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {
+        "heading": "",
+        "placements_sub_heading": "",
+        "description": ""
+      },
+      "clubs": [
+        {
+          "name": "Behavioral Club",
+          "description": "It organises various camps, workshops, and sessions on important topics like emotional well-being, gender sensitivity, and child rights. It makes students aware of social issues and develops the values of respect, kindness, and equality."
+        },
+        {
+          "name": "Bhumi Club",
+          "description": "It promotes community welfare and social responsibility by organising donation camps, cleanliness camps, and volunteer programs that support the underprivileged and develop a spirit of service towards society."
+        },
+        {
+          "name": "Literary Club",
+          "description": "Students who are passionate about reading, writing, poetry, storytelling, or debate can join the literary club and participate in various events and competitions."
+        }
+      ],
+      "leadership": [
+        {
+          "name": "Dr. Shilpi Bhattacharya",
+          "designation": "Dean, Faculty of Arts & Humanities",
+          "qualification": null,
+          "about": "Dr. A.P.J. Abdul Kalam once said, \u2018Learning gives creativity, creativity leads to thinking, thinking provides knowledge, and knowledge makes you great.\u2019 Keeping this powerful statement in mind, the Faculty of Arts and Humanities at Kalinga University works together with the motive of developing leadership skills and social responsibility among young people. Under the guidance of expert mentors and focusing on holistic development, we train them beyond classroom learning, through field surveys, field visits, painting, poster making, model making, sports, music, drama, debates, quiz competitions, and more. Together, we are working on improving their overall personality and developing team spirit.\n\r\n\r\nBooks are students' best friends, and thus we have one of the biggest libraries in Chhattisgarh with all the essential resources they can refer to for their exams. Apart from this, we have language labs, computer labs, digital classrooms, a film studio, and activity rooms. Our alumni are working all around the globe as leaders, artists, social activists, writers, and politicians, making an impactful change for the betterment of humanity."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "I\u2019m not sure about my career goals. Is this field the right choice for me?",
+          "a": "If you want to explore different areas without limiting your career choices, then this could be a smart decision. Our curriculum will help you develop communication, leadership, and creative and analytical skills."
+        },
+        {
+          "q": "Do you also prepare students for the civil service exams?",
+          "a": "Yes, our programs in arts and humanities include FREE PSC coaching, which prepares students for civil service exams."
+        },
+        {
+          "q": "Is the arts & humanities only about theoretical learning?",
+          "a": "Not at all. Our students get involved in fieldwork, social work, research work, community development projects, debates, competitions, and creative projects, which bring their textbook knowledge to life. We also have student clubs that conduct various activities outside the classroom."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, and more. For more details, check out our scholarships."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Faculty of Hotel Management",
+      "slug": "faculty-of-hotel-management",
+      "about_heading": "Build a Career that Welcomes the World",
+      "about": "The Faculty of Hotel Management at Kalinga University prepares students to excel in the dynamic world of hospitality, tourism, food & beverage, accommodation, and event management. Through industry-oriented learning, practical training, internships, live projects, and modern hospitality labs, students gain the professional skills, confidence, and global exposure required to deliver exceptional guest experiences. \n\r\nAt KU, we nurture future hospitality leaders who combine service excellence, innovation, and management expertise to thrive in one of the world's fastest-growing industries.",
+      "key_numbers": [],
+      "programmes": [
+        {
+          "name": null,
+          "description": "",
+          "course_id": 92
+        }
+      ],
+      "benefits": [
+        {
+          "heading": "Global Career Opportunities",
+          "text": "Build a career in hotels, resorts, airlines, cruise lines, tourism, luxury retail, and event management across the world."
+        },
+        {
+          "heading": "Fast-Growing Industry",
+          "text": "Join one of the world's largest and fastest-growing service sectors with diverse career pathways."
+        },
+        {
+          "heading": "Develop Leadership Skills",
+          "text": "Learn team management, decision-making, problem-solving, and operational excellence."
+        },
+        {
+          "heading": "Master Customer Service",
+          "text": "Build communication, interpersonal, and guest relation skills that are valued across industries."
+        }
+      ],
+      "how_we_stand": [
+        "Complete internships, live projects, and industrial visits with leading hospitality brands.",
+        "Build expertise in hotel operations, food production, events, and guest services.",
+        "Learn the art of hospitality that keeps guests coming back.",
+        "Gain insights from experienced hospitality professionals and guest faculty.",
+        "Get a global learning experience through international trips."
+      ],
+      "placements": {},
+      "clubs": [],
+      "leadership": [],
+      "faqs": [
+        {
+          "q": "Is Kalinga University recognised and approved by UGC?",
+          "a": "Yes, Kalinga University is recognised and approved by the University Grants Commission (UGC)."
+        },
+        {
+          "q": "Are scholarships available for me at Kalinga University?",
+          "a": "Yes, we offer scholarships under different categories, like merit scholarships, sports scholarships, research scholarships, and more. For more details, check out our scholarships."
+        },
+        {
+          "q": "Will I get internship opportunities while pursuing my course?",
+          "a": "Yes, we offer internships to our students both on-campus and off-campus, enabling them to understand how theoretical concepts are applied in real-world problems."
+        }
+      ]
+    }
+  ]
+}

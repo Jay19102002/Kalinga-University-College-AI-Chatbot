@@ -1,0 +1,43 @@
+{
+  "max_advertised_scholarship": "Up to 100%",
+  "qualification_note": "Kalinga University advertises scholarships of up to 100%, subject to applicable eligibility criteria and university policy.",
+  "total_distributed_claim": "More than \u20b93 crore distributed in scholarships (university-reported claim).",
+  "categories": [
+    {
+      "category": "Merit Scholarship",
+      "details": "Awarded based on academic excellence in qualifying examinations."
+    },
+    {
+      "category": "Entrance Test Scholarship",
+      "details": "Awarded based on performance in KALSEE, KAL-MAT, or national entrance exams."
+    },
+    {
+      "category": "Sports Scholarship",
+      "details": "For state, national, and international level sports achievements."
+    },
+    {
+      "category": "Cultural Scholarship",
+      "details": "For outstanding performance in recognized cultural and extra-curricular events."
+    },
+    {
+      "category": "Sibling Scholarship",
+      "details": "Fee concession for siblings studying concurrently at Kalinga University."
+    },
+    {
+      "category": "Social Category Scholarship",
+      "details": "Concessions under social category welfare schemes as per university norms."
+    },
+    {
+      "category": "Social Media / Knowledge Dissemination",
+      "details": "Concessions for student ambassadors and academic contributors."
+    },
+    {
+      "category": "Innovation & Research Scholarship",
+      "details": "For candidates with published patents, research work, or innovative startup projects."
+    }
+  ],
+  "source": {
+    "title": "Kalinga University Scholarships",
+    "url": "https://kalingauniversity.ac.in/"
+  }
+}

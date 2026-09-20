@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#e0e5ec] text-slate-800 antialiased font-sans selection:bg-blue-600 selection:text-white min-h-screen;
+  }
+}
+
+@layer utilities {
+  /* Convex 3D Surface */
+  .neu-convex {
+    background: linear-gradient(145deg, #f0f5fc, #cbd0d4);
+  }
+  
+  /* Concave Pressed Surface */
+  .neu-concave {
+    background: linear-gradient(145deg, #cbd0d4, #f0f5fc);
+  }
+
+  /* Flat Neumorphic Surface */
+  .neu-surface {
+    background: #e0e5ec;
+  }
+}
+
+/* Custom Neumorphic Light scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e0e5ec;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b5c2d4;
+  border-radius: 9999px;
+  box-shadow: inset 1px 1px 3px #8b99ad, inset -1px -1px 3px #ffffff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9aa8bd;
+}

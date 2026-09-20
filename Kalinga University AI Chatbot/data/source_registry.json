@@ -1,0 +1,58 @@
+[
+  {
+    "id": "official_homepage",
+    "title": "Kalinga University Homepage",
+    "url": "https://kalingauniversity.ac.in/",
+    "type": "official",
+    "description": "University overview, statistics, claims, and main portals."
+  },
+  {
+    "id": "admissions_page",
+    "title": "Kalinga University Admissions Portal",
+    "url": "https://kalingauniversity.ac.in/admissions?studyLevel=UG",
+    "type": "official",
+    "description": "UG/PG admissions guidelines, application portals, and study levels."
+  },
+  {
+    "id": "admission_procedure",
+    "title": "Kalinga University Admission Procedure",
+    "url": "https://kalingauniversity.ac.in/admission-procedure",
+    "type": "official",
+    "description": "Step-by-step admission procedure and required documents."
+  },
+  {
+    "id": "kalsee_page",
+    "title": "Kalinga University KALSEE Entrance Examination",
+    "url": "https://kalingauniversity.ac.in/kalsee",
+    "type": "official",
+    "description": "KALSEE exam details, format, duration, and fee structure."
+  },
+  {
+    "id": "fees_page",
+    "title": "Kalinga University Fee Structure (2026-27)",
+    "url": "https://kalingauniversity.ac.in/ku-fees",
+    "type": "official",
+    "description": "Official fee structure for 2026-27 academic session."
+  },
+  {
+    "id": "departments_page",
+    "title": "Kalinga University Academic Departments & Faculties",
+    "url": "https://kalingauniversity.ac.in/departments",
+    "type": "official",
+    "description": "Faculties, departments, and course inventory overview."
+  },
+  {
+    "id": "placements_page",
+    "title": "Kalinga University Training & Placements",
+    "url": "https://kalingauniversity.ac.in/training-and-placements",
+    "type": "official",
+    "description": "Placement records, recruiter partners, CRT details, and student success highlights."
+  },
+  {
+    "id": "campus_page",
+    "title": "Kalinga University Campus Life & Facilities",
+    "url": "https://kalingauniversity.ac.in/campuslife",
+    "type": "official",
+    "description": "Student life, internship details, CoE labs, and campus amenities."
+  }
+]

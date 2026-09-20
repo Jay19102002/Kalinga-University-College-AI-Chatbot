@@ -1,0 +1,51 @@
+{
+  "current_academic_year": "2026-27",
+  "status": "Admission Open 2026\u201327",
+  "status_disclaimer": "Admission dates can change by program and phase. Please verify the current admission status on Kalinga University's official admission page.",
+  "steps": [
+    "Step 1: Visit the official admissions portal (https://kalingauniversity.ac.in/admissions).",
+    "Step 2: Register for the relevant entrance examination (KALSEE for general UG/PG or KAL-MAT for BBA/MBA).",
+    "Step 3: Take the computer-based entrance exam and get shortlisted.",
+    "Step 4: Complete the online admission form after selection.",
+    "Step 5: Attach self-attested academic documents (mark sheets, TC/CC/Migration, Gap certificate if applicable).",
+    "Step 6: Pay the applicable program fee within 10 days of receiving the offer letter."
+  ],
+  "required_documents": [
+    "10th & 12th Mark sheets and passing certificates",
+    "Graduation mark sheets & degree certificate (for PG programs)",
+    "Original Transfer Certificate (TC) / College Leaving Certificate (CLC)",
+    "Character Certificate (CC) & Migration Certificate",
+    "Gap Certificate / Undertaking (if applicable)",
+    "Proof of Employment / Self-Employment (for working professional applicants)",
+    "Passport-size photographs & ID Proof (Aadhaar / Passport)"
+  ],
+  "entrance_exams": [
+    {
+      "name": "KALSEE (Kalinga Scholastic Entrance Examination)",
+      "applies_to": "All UG/PG programs except BBA and MBA",
+      "format": "Multiple Choice Questions (MCQ); Computer-based test",
+      "duration": "90 minutes for UG/PG (120 minutes for Ph.D.)",
+      "total_questions": "90 questions for UG/PG (100 for Ph.D.)",
+      "negative_marking": "No negative marking",
+      "qualifying_score": "Minimum 50%",
+      "exam_fee": "\u20b91,400 for UG/PG (India/SAARC candidates)",
+      "source": "https://kalingauniversity.ac.in/kalsee"
+    },
+    {
+      "name": "KAL-MAT (Kalinga Management Aptitude Test)",
+      "applies_to": "BBA and MBA programs",
+      "format": "Management aptitude test",
+      "source": "https://kalingauniversity.ac.in/admission-procedure"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kalinga University Admission Procedure",
+      "url": "https://kalingauniversity.ac.in/admission-procedure"
+    },
+    {
+      "title": "Kalinga University KALSEE",
+      "url": "https://kalingauniversity.ac.in/kalsee"
+    }
+  ]
+}
